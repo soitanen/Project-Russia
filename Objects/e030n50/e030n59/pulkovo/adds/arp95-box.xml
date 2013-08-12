@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+  <path>arp95-box.ac</path>
+
+  <animation>
+    <type>range</type>
+    <min-m>0</min-m>
+    <max-property>sim/rendering/static-lod/bare</max-property>
+  </animation>
+
+ <effect>
+	<inherits-from>Effects/lightmap</inherits-from>
+	<parameters>
+		<texture n="1">
+			<image>grm-grm_lit.png</image>
+		</texture>
+		<condition>
+                        <less-than>
+                                <property>/sim/time/sun-angle-rad</property>
+                                <value>1.57</value>
+                        </less-than>
+                </condition>
+	</parameters>
+ 	<object-name>Mesh</object-name> 
+	<object-name>Mesh.001</object-name>
+</effect>
+
+</PropertyList>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <path>pulkovo_2_p.ac</path>
+  <animation>
+    <type>range</type>
+    <max-m>500</max-m>
+  </animation>  
+</PropertyList> 

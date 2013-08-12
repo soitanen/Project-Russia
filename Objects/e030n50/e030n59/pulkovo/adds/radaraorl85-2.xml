@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+ <path>radaraorl85-2.ac</path>
+
+ <model>
+          <path>RedLight.xml</path>
+          <offsets>
+             <x-m>-1.191</x-m>
+             <y-m>-0.835</y-m>
+             <z-m>8.792</z-m>
+             <heading-deg>0</heading-deg>
+          </offsets>
+ </model>
+
+ <model>
+          <path>RedLight.xml</path>
+          <offsets>
+             <x-m>-1.191</x-m>
+             <y-m>-0.446</y-m>
+             <z-m>8.792</z-m>
+             <heading-deg>0</heading-deg>
+          </offsets>
+ </model>
+
+ <animation>
+    <type>range</type>
+    <min-m>0</min-m>
+    <max-property>sim/rendering/static-lod/bare</max-property>
+ </animation>
+
+
+ <animation>
+  <type>rotate</type>
+  <object-name>Armature</object-name>
+  <property>/sim/time/elapsed-sec</property>
+  <factor>-58.0</factor>
+  <center>
+   <x-m>3.862</x-m>
+   <y-m>0</y-m>
+   <z-m>0</z-m>
+  </center>
+  <axis>
+   <x>0</x>
+   <y>0</y>
+   <z>1</z>
+  </axis>
+ </animation>
+
+</PropertyList>

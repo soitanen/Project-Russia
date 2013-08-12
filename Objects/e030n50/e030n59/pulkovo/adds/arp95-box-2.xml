@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+  <path>arp95-box-2.ac</path>
+
+  <model>
+          <path>RedLight.xml</path>
+          <offsets>
+             <x-m>0.835</x-m>
+             <y-m>1.328</y-m>
+             <z-m>6.218</z-m>
+             <heading-deg>0</heading-deg>
+          </offsets>
+ </model>
+
+ <model>
+          <path>RedLight.xml</path>
+          <offsets>
+             <x-m>0.848</x-m>
+             <y-m>0.993</y-m>
+             <z-m>6.212</z-m>
+             <heading-deg>0</heading-deg>
+          </offsets>
+ </model>
+
+  <animation>
+    <type>range</type>
+    <min-m>0</min-m>
+    <max-property>sim/rendering/static-lod/bare</max-property>
+  </animation>
+
+</PropertyList>

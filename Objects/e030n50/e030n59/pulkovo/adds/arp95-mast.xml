@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+  <path>arp95-mast.ac</path>
+
+  <model>
+          <path>RedLight.xml</path>
+          <offsets>
+             <x-m>0</x-m>
+             <y-m>0</y-m>
+             <z-m>9.600</z-m>
+             <heading-deg>0</heading-deg>
+          </offsets>
+ </model>
+
+  <animation>
+    <type>range</type>
+    <min-m>0</min-m>
+    <max-property>sim/rendering/static-lod/bare</max-property>
+  </animation>
+
+ <effect>
+	<inherits-from>Effects/lightmap</inherits-from>
+	<parameters>
+		<texture n="1">
+			<image>mast_lit.png</image>
+		</texture>
+		<condition>
+                        <less-than>
+                                <property>/sim/time/sun-angle-rad</property>
+                                <value>1.57</value>
+                        </less-than>
+                </condition>
+	</parameters>
+ 	<object-name>Mesh</object-name> 
+	<object-name>Mesh.001</object-name>
+</effect>
+
+</PropertyList>

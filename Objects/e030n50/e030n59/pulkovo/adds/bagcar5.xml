@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+ <path>bagcar5.ac</path>
+
+<!-- <model>
+          <path>Models/Effects/Lights/RedLight.xml</path>
+          <offsets>
+             <x-m>16.165</x-m>
+             <y-m>5.028</y-m>
+             <z-m>10.515</z-m>
+             <heading-deg>0</heading-deg>
+          </offsets>
+ </model>
+
+ <model>
+          <path>Models/Effects/Lights/RedLight.xml</path>
+          <offsets>
+             <x-m>16.405</x-m>
+             <y-m>5.028</y-m>
+             <z-m>10.515</z-m>
+             <heading-deg>0</heading-deg>
+          </offsets>
+ </model>
+
+ <model>
+          <path>Models/Effects/Lights/RedLight.xml</path>
+          <offsets>
+             <x-m>4.716</x-m>
+             <y-m>-7.536</y-m>
+             <z-m>6.720</z-m>
+             <heading-deg>0</heading-deg>
+          </offsets>
+ </model>
+
+ <model>
+          <path>Models/Effects/Lights/RedLight.xml</path>
+          <offsets>
+             <x-m>4.972</x-m>
+             <y-m>-7.536</y-m>
+             <z-m>6.720</z-m>
+             <heading-deg>0</heading-deg>
+          </offsets>
+ </model> -->
+
+ <animation>
+    <type>range</type>
+    <min-m>0</min-m>
+    <max-property>sim/rendering/static-lod/bare</max-property>
+ </animation>
+
+<effect>
+        <inherits-from>Effects/lightmap</inherits-from>
+        <parameters>
+                <texture n="1">
+                        <image>bagcar3_lit.png</image>
+                </texture>
+                <condition>
+                        <less-than>
+                                <property>/sim/time/sun-angle-rad</property>
+                                <value>1.57</value>
+                        </less-than>
+                </condition>
+        </parameters>
+        <object-name>Mesh</object-name>
+        <object-name>Mesh.001</object-name>
+        <object-name>Mesh.002</object-name>
+</effect>
+
+</PropertyList>

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <path>hz.ac</path>
+  <animation>
+    <type>range</type>
+    <max-m>1000</max-m>
+  </animation>  
+</PropertyList> 

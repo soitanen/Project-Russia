@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!-- FlightGear Materials File. See Docs/README.materials for details. -->
+
+<PropertyList include="Materials/regions/materials.xml">
+<!-- Example of all parameters
+  <material n="9999">
+    <name>2-way_2_lines_road</name>
+    <texture>Custom/2x2_road.png</texture>
+  <xsize>1000</xsize>
+  <ysize>500</ysize>
+  <light-coverage>1000000.0</light-coverage>
+  <solid>1</solid>
+  <friction-factor>0.5</friction-factor>
+  <rolling-friction>0.04</rolling-friction>
+  <bumpiness>0.5</bumpiness>
+  <load-resistance>1e10</load-resistance>
+  </material>
+-->
+
+  <material n="8001">
+    <name>1x4_road</name>
+    <texture>Custom/1x4_road.png</texture>
+  </material>
+
+  <material n="8002">
+    <name>1x3_road</name>
+    <texture>Custom/1x3_road.png</texture>
+  </material>
+
+  <material n="8003">
+    <name>2x2_road</name>
+    <texture>Custom/2x2_road.png</texture>
+  </material>
+
+  <material n="8004">
+    <name>2x4_road</name>
+    <texture>Custom/2x4_road.png</texture>
+  </material>
+
+  <material n="8005">
+    <name>1x1_road</name>
+    <texture>Custom/1x1_road.png</texture>
+  </material>
+
+<material n="9001">
+  <name>Railroad_tex_1</name>
+  <texture>Custom/rail_1.png</texture>
+  <ysize>300</ysize>
+</material>
+
+<material n="1022">
+  <name>lf_sng_solid_red</name>
+  <effect>Effects/lfeat</effect>
+  <texture>Runway/lf_sng_solid_red.png</texture>
+</material>
+
+</PropertyList>

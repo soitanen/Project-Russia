@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+ <path>pulkovo_2lr_simple.ac</path>
+
+ <animation>
+    <type>range</type>
+    <min-m>400</min-m>
+    <max-m>7000</max-m>
+  </animation>
+</PropertyList>

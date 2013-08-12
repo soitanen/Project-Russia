@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<PropertyList>
+       
+<path>chimney_200m.ac</path>
+       
+<particlesystem>
+  <name>smoke</name>
+  
+  <texture>generic_chimney_smoke.png</texture>
+  <emissive>false</emissive>
+  <lighting>false</lighting>
+       
+  <offsets>
+    <x-m>0</x-m>
+    <y-m>0</y-m>
+    <z-m>210</z-m>
+  </offsets>
+           
+  <attach>world</attach>
+           
+  <placer>
+    <type>point</type>
+  </placer>
+           
+  <shooter>
+    <speed-mps>
+    	<value>5</value>
+	<spread>3</spread>
+    </speed-mps>
+  </shooter>
+       
+  <counter>
+    <particles-per-sec>
+      <value>2</value>
+      <spread>3</spread>
+    </particles-per-sec>
+  </counter>
+           
+  <align>billboard</align>
+           
+  <particle>
+
+  <start>
+    <color>
+      <red><value>0.5</value></red>
+      <green><value>0.5</value></green>
+      <blue><value>0.5</value></blue>
+      <alpha><value>0.2</value></alpha>
+    </color>
+    <size>
+      <value>15</value>
+    </size>
+  </start>
+
+  <end>
+    <color>
+      <red><value>0.5</value></red>
+      <green><value>0.5</value></green>
+      <blue><value>0.5</value></blue>
+      <alpha><value>0.0</value></alpha>
+    </color>
+    <size>
+      <value>50</value>
+      <spread>40</spread>
+    </size>
+  </end>
+    
+  <life-sec>
+    <value>20</value>
+  </life-sec>
+
+  <mass-kg>310</mass-kg>
+  <radius-m>10</radius-m>
+  </particle>
+           
+  <program>
+    <fluid>air</fluid>
+    <gravity>true</gravity>
+    <wind>true</wind>
+  </program>
+           
+</particlesystem>
+       
+</PropertyList>

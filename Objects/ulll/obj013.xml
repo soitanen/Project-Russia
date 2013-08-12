@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+ <path>obj013-PLK_azur.ac</path>
+ <model>
+          <path>obj013-PLK_cistern_wi.ac</path>
+          <offsets>
+             <x-m>0</x-m>
+             <y-m>0</y-m>
+             <z-m>0</z-m>
+             <heading-deg>0</heading-deg>
+          </offsets>
+ </model>
+</PropertyList>

@@ -42,6 +42,11 @@
     <texture>Custom/1x1_road.png</texture>
   </material>
 
+  <material n="8005">
+    <name>dirt_road</name>
+    <texture>Custom/dirt_road.png</texture>
+  </material>
+
 <material n="9001">
   <name>Railroad_tex_1</name>
   <texture>Custom/rail_1.png</texture>

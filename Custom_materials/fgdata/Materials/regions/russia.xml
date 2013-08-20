@@ -50,7 +50,7 @@
 <material n="9001">
   <name>Railroad_tex_1</name>
   <texture>Custom/rail_1.png</texture>
-  <ysize>300</ysize>
+  <ysize>200</ysize>
 </material>
 
 <material n="1022">

@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<PropertyList>
+<path>ULLLcity0611.ac</path>
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1961</object-name>
+  <object-name>b1962</object-name>
+  <object-name>b1963</object-name>
+  <object-name>b1967</object-name>
+  <object-name>b1969</object-name>
+  <object-name>b1975</object-name>
+  <object-name>b1976</object-name>
+  <object-name>b2004</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9503_noroofsec_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1960</object-name>
+  <object-name>b1965</object-name>
+  <object-name>b1966</object-name>
+  <object-name>b1968</object-name>
+  <object-name>b1971</object-name>
+  <object-name>b1986</object-name>
+  <object-name>b1998</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1964</object-name>
+  <object-name>b1974</object-name>
+  <object-name>b1978</object-name>
+  <object-name>b1982</object-name>
+  <object-name>b1990</object-name>
+  <object-name>b1991</object-name>
+  <object-name>b1993</object-name>
+  <object-name>b1994</object-name>
+  <object-name>b1996</object-name>
+  <object-name>b2001</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9710_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1970</object-name>
+  <object-name>b1973</object-name>
+  <object-name>b1977</object-name>
+  <object-name>b1980</object-name>
+  <object-name>b1981</object-name>
+  <object-name>b1983</object-name>
+  <object-name>b1985</object-name>
+  <object-name>b1992</object-name>
+  <object-name>b1997</object-name>
+  <object-name>b1999</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9678_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2002</object-name>
+  <object-name>b2003</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/LZ_old_bright_bc2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1979</object-name>
+  <object-name>b1984</object-name>
+  <object-name>b1988</object-name>
+  <object-name>b1995</object-name>
+  <object-name>b2000</object-name>
+</effect>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b1960</object-name>
+  <object-name>b1963</object-name>
+  <object-name>b1965</object-name>
+  <object-name>b1967</object-name>
+  <object-name>b1970</object-name>
+  <object-name>b1971</object-name>
+  <object-name>b1972</object-name>
+  <object-name>b1973</object-name>
+  <object-name>b1974</object-name>
+  <object-name>b1975</object-name>
+  <object-name>b1976</object-name>
+  <object-name>b1977</object-name>
+  <object-name>b1980</object-name>
+  <object-name>b1982</object-name>
+  <object-name>b1983</object-name>
+  <object-name>b1984</object-name>
+  <object-name>b1986</object-name>
+  <object-name>b1987</object-name>
+  <object-name>b1988</object-name>
+  <object-name>b1989</object-name>
+  <object-name>b1990</object-name>
+  <object-name>b1991</object-name>
+  <object-name>b1992</object-name>
+  <object-name>b1994</object-name>
+  <object-name>b1995</object-name>
+  <object-name>b1998</object-name>
+  <object-name>b1999</object-name>
+  <object-name>b2000</object-name>
+  <object-name>b2001</object-name>
+  <object-name>b2002</object-name>
+  <object-name>b2003</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/detailed</max-property>
+  <object-name>b1961</object-name>
+  <object-name>b1962</object-name>
+  <object-name>b1964</object-name>
+  <object-name>b1966</object-name>
+  <object-name>b1968</object-name>
+  <object-name>b1969</object-name>
+  <object-name>b1978</object-name>
+  <object-name>b1979</object-name>
+  <object-name>b1981</object-name>
+  <object-name>b1985</object-name>
+  <object-name>b1993</object-name>
+  <object-name>b1996</object-name>
+  <object-name>b1997</object-name>
+  <object-name>b2004</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/roof</max-property>
+  <object-name>b1961-roof</object-name>
+  <object-name>b1962-roof</object-name>
+  <object-name>b1963-roof</object-name>
+  <object-name>b1964-roof</object-name>
+  <object-name>b1965-roof</object-name>
+  <object-name>b1966-roof</object-name>
+  <object-name>b1967-roof</object-name>
+  <object-name>b1968-roof</object-name>
+  <object-name>b1969-roof</object-name>
+  <object-name>b1970-roof</object-name>
+  <object-name>b1971-roof</object-name>
+  <object-name>b1973-roof</object-name>
+  <object-name>b1974-roof</object-name>
+  <object-name>b1976-roof</object-name>
+  <object-name>b1977-roof</object-name>
+  <object-name>b1978-roof</object-name>
+  <object-name>b1979-roof</object-name>
+  <object-name>b1980-roof</object-name>
+  <object-name>b1981-roof</object-name>
+  <object-name>b1982-roof</object-name>
+  <object-name>b1985-roof</object-name>
+  <object-name>b1986-roof</object-name>
+  <object-name>b1990-roof</object-name>
+  <object-name>b1991-roof</object-name>
+  <object-name>b1992-roof</object-name>
+  <object-name>b1993-roof</object-name>
+  <object-name>b1994-roof</object-name>
+  <object-name>b1996-roof</object-name>
+  <object-name>b1997-roof</object-name>
+  <object-name>b1998-roof</object-name>
+  <object-name>b2001-roof</object-name>
+  <object-name>b2004-roof</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-property>/sim/rendering/static-lod/roof</min-property>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b1961-flat</object-name>
+  <object-name>b1962-flat</object-name>
+  <object-name>b1963-flat</object-name>
+  <object-name>b1964-flat</object-name>
+  <object-name>b1965-flat</object-name>
+  <object-name>b1966-flat</object-name>
+  <object-name>b1967-flat</object-name>
+  <object-name>b1968-flat</object-name>
+  <object-name>b1969-flat</object-name>
+  <object-name>b1970-flat</object-name>
+  <object-name>b1971-flat</object-name>
+  <object-name>b1973-flat</object-name>
+  <object-name>b1974-flat</object-name>
+  <object-name>b1976-flat</object-name>
+  <object-name>b1977-flat</object-name>
+  <object-name>b1978-flat</object-name>
+  <object-name>b1979-flat</object-name>
+  <object-name>b1980-flat</object-name>
+  <object-name>b1981-flat</object-name>
+  <object-name>b1982-flat</object-name>
+  <object-name>b1985-flat</object-name>
+  <object-name>b1986-flat</object-name>
+  <object-name>b1990-flat</object-name>
+  <object-name>b1991-flat</object-name>
+  <object-name>b1992-flat</object-name>
+  <object-name>b1993-flat</object-name>
+  <object-name>b1994-flat</object-name>
+  <object-name>b1996-flat</object-name>
+  <object-name>b1997-flat</object-name>
+  <object-name>b1998-flat</object-name>
+  <object-name>b2001-flat</object-name>
+  <object-name>b2004-flat</object-name>
+</animation>
+
+</PropertyList>

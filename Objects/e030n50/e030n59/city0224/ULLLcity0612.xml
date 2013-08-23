@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<PropertyList>
+<path>ULLLcity0612.ac</path>
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9710_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2008</object-name>
+  <object-name>b2021</object-name>
+  <object-name>b2031</object-name>
+  <object-name>b2032</object-name>
+  <object-name>b2037</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9503_noroofsec_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2006</object-name>
+  <object-name>b2007</object-name>
+  <object-name>b2010</object-name>
+  <object-name>b2014</object-name>
+  <object-name>b2019</object-name>
+  <object-name>b2020</object-name>
+  <object-name>b2024</object-name>
+  <object-name>b2035</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2005</object-name>
+  <object-name>b2015</object-name>
+  <object-name>b2022</object-name>
+  <object-name>b2025</object-name>
+  <object-name>b2026</object-name>
+  <object-name>b2039</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2009</object-name>
+  <object-name>b2011</object-name>
+  <object-name>b2012</object-name>
+  <object-name>b2016</object-name>
+  <object-name>b2018</object-name>
+  <object-name>b2028</object-name>
+  <object-name>b2036</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9678_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2038</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/LZ_old_bright_bc2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2013</object-name>
+  <object-name>b2017</object-name>
+  <object-name>b2023</object-name>
+  <object-name>b2029</object-name>
+  <object-name>b2033</object-name>
+  <object-name>b2034</object-name>
+</effect>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b2006</object-name>
+  <object-name>b2007</object-name>
+  <object-name>b2008</object-name>
+  <object-name>b2011</object-name>
+  <object-name>b2012</object-name>
+  <object-name>b2013</object-name>
+  <object-name>b2014</object-name>
+  <object-name>b2016</object-name>
+  <object-name>b2017</object-name>
+  <object-name>b2018</object-name>
+  <object-name>b2024</object-name>
+  <object-name>b2025</object-name>
+  <object-name>b2026</object-name>
+  <object-name>b2029</object-name>
+  <object-name>b2030</object-name>
+  <object-name>b2031</object-name>
+  <object-name>b2032</object-name>
+  <object-name>b2033</object-name>
+  <object-name>b2034</object-name>
+  <object-name>b2035</object-name>
+  <object-name>b2036</object-name>
+  <object-name>b2038</object-name>
+  <object-name>b2039</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/detailed</max-property>
+  <object-name>b2005</object-name>
+  <object-name>b2009</object-name>
+  <object-name>b2010</object-name>
+  <object-name>b2015</object-name>
+  <object-name>b2019</object-name>
+  <object-name>b2020</object-name>
+  <object-name>b2021</object-name>
+  <object-name>b2022</object-name>
+  <object-name>b2023</object-name>
+  <object-name>b2027</object-name>
+  <object-name>b2028</object-name>
+  <object-name>b2037</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/roof</max-property>
+  <object-name>b2005-roof</object-name>
+  <object-name>b2007-roof</object-name>
+  <object-name>b2008-roof</object-name>
+  <object-name>b2009-roof</object-name>
+  <object-name>b2010-roof</object-name>
+  <object-name>b2012-roof</object-name>
+  <object-name>b2013-roof</object-name>
+  <object-name>b2015-roof</object-name>
+  <object-name>b2016-roof</object-name>
+  <object-name>b2017-roof</object-name>
+  <object-name>b2019-roof</object-name>
+  <object-name>b2020-roof</object-name>
+  <object-name>b2021-roof</object-name>
+  <object-name>b2022-roof</object-name>
+  <object-name>b2023-roof</object-name>
+  <object-name>b2027-roof</object-name>
+  <object-name>b2028-roof</object-name>
+  <object-name>b2034-roof</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-property>/sim/rendering/static-lod/roof</min-property>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b2005-flat</object-name>
+  <object-name>b2007-flat</object-name>
+  <object-name>b2008-flat</object-name>
+  <object-name>b2009-flat</object-name>
+  <object-name>b2010-flat</object-name>
+  <object-name>b2012-flat</object-name>
+  <object-name>b2013-flat</object-name>
+  <object-name>b2015-flat</object-name>
+  <object-name>b2016-flat</object-name>
+  <object-name>b2017-flat</object-name>
+  <object-name>b2019-flat</object-name>
+  <object-name>b2020-flat</object-name>
+  <object-name>b2021-flat</object-name>
+  <object-name>b2022-flat</object-name>
+  <object-name>b2023-flat</object-name>
+  <object-name>b2027-flat</object-name>
+  <object-name>b2028-flat</object-name>
+  <object-name>b2034-flat</object-name>
+</animation>
+
+</PropertyList>

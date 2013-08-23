@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<PropertyList>
+<path>ULLLcity0712.ac</path>
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2548</object-name>
+  <object-name>b2550</object-name>
+  <object-name>b2554</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9503_noroofsec_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2549</object-name>
+  <object-name>b2551</object-name>
+  <object-name>b2561</object-name>
+  <object-name>b2565</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2553</object-name>
+  <object-name>b2560</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9710_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2547</object-name>
+  <object-name>b2556</object-name>
+  <object-name>b2557</object-name>
+  <object-name>b2558</object-name>
+  <object-name>b2563</object-name>
+  <object-name>b2564</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/LZ_old_bright_bc2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2555</object-name>
+  <object-name>b2566</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9678_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2552</object-name>
+</effect>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b2549</object-name>
+  <object-name>b2550</object-name>
+  <object-name>b2552</object-name>
+  <object-name>b2555</object-name>
+  <object-name>b2556</object-name>
+  <object-name>b2558</object-name>
+  <object-name>b2560</object-name>
+  <object-name>b2561</object-name>
+  <object-name>b2562</object-name>
+  <object-name>b2563</object-name>
+  <object-name>b2565</object-name>
+  <object-name>b2566</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/detailed</max-property>
+  <object-name>b2547</object-name>
+  <object-name>b2548</object-name>
+  <object-name>b2551</object-name>
+  <object-name>b2553</object-name>
+  <object-name>b2554</object-name>
+  <object-name>b2557</object-name>
+  <object-name>b2559</object-name>
+  <object-name>b2564</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/roof</max-property>
+  <object-name>b2547-roof</object-name>
+  <object-name>b2548-roof</object-name>
+  <object-name>b2549-roof</object-name>
+  <object-name>b2551-roof</object-name>
+  <object-name>b2553-roof</object-name>
+  <object-name>b2554-roof</object-name>
+  <object-name>b2557-roof</object-name>
+  <object-name>b2558-roof</object-name>
+  <object-name>b2563-roof</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-property>/sim/rendering/static-lod/roof</min-property>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b2547-flat</object-name>
+  <object-name>b2548-flat</object-name>
+  <object-name>b2549-flat</object-name>
+  <object-name>b2551-flat</object-name>
+  <object-name>b2553-flat</object-name>
+  <object-name>b2554-flat</object-name>
+  <object-name>b2557-flat</object-name>
+  <object-name>b2558-flat</object-name>
+  <object-name>b2563-flat</object-name>
+</animation>
+
+</PropertyList>

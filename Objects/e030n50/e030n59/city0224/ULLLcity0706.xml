@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<PropertyList>
+<path>ULLLcity0706.ac</path>
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2295</object-name>
+  <object-name>b2299</object-name>
+  <object-name>b2300</object-name>
+  <object-name>b2302</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9503_noroofsec_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2290</object-name>
+  <object-name>b2296</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2288</object-name>
+  <object-name>b2291</object-name>
+  <object-name>b2292</object-name>
+  <object-name>b2297</object-name>
+  <object-name>b2301</object-name>
+  <object-name>b2304</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9710_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2298</object-name>
+  <object-name>b2303</object-name>
+  <object-name>b2306</object-name>
+  <object-name>b2307</object-name>
+  <object-name>b2308</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9678_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2293</object-name>
+</effect>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b2288</object-name>
+  <object-name>b2289</object-name>
+  <object-name>b2290</object-name>
+  <object-name>b2291</object-name>
+  <object-name>b2292</object-name>
+  <object-name>b2293</object-name>
+  <object-name>b2294</object-name>
+  <object-name>b2295</object-name>
+  <object-name>b2296</object-name>
+  <object-name>b2298</object-name>
+  <object-name>b2299</object-name>
+  <object-name>b2300</object-name>
+  <object-name>b2301</object-name>
+  <object-name>b2302</object-name>
+  <object-name>b2304</object-name>
+  <object-name>b2305</object-name>
+  <object-name>b2306</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/detailed</max-property>
+  <object-name>b2297</object-name>
+  <object-name>b2303</object-name>
+  <object-name>b2307</object-name>
+  <object-name>b2308</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/roof</max-property>
+  <object-name>b2290-roof</object-name>
+  <object-name>b2291-roof</object-name>
+  <object-name>b2295-roof</object-name>
+  <object-name>b2296-roof</object-name>
+  <object-name>b2297-roof</object-name>
+  <object-name>b2298-roof</object-name>
+  <object-name>b2299-roof</object-name>
+  <object-name>b2300-roof</object-name>
+  <object-name>b2301-roof</object-name>
+  <object-name>b2302-roof</object-name>
+  <object-name>b2303-roof</object-name>
+  <object-name>b2304-roof</object-name>
+  <object-name>b2306-roof</object-name>
+  <object-name>b2307-roof</object-name>
+  <object-name>b2308-roof</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-property>/sim/rendering/static-lod/roof</min-property>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b2290-flat</object-name>
+  <object-name>b2291-flat</object-name>
+  <object-name>b2295-flat</object-name>
+  <object-name>b2296-flat</object-name>
+  <object-name>b2297-flat</object-name>
+  <object-name>b2298-flat</object-name>
+  <object-name>b2299-flat</object-name>
+  <object-name>b2300-flat</object-name>
+  <object-name>b2301-flat</object-name>
+  <object-name>b2302-flat</object-name>
+  <object-name>b2303-flat</object-name>
+  <object-name>b2304-flat</object-name>
+  <object-name>b2306-flat</object-name>
+  <object-name>b2307-flat</object-name>
+  <object-name>b2308-flat</object-name>
+</animation>
+
+</PropertyList>

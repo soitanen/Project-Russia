@@ -1,0 +1,333 @@
+<?xml version="1.0"?>
+<PropertyList>
+<path>ULLLcity1109.ac</path>
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/wohnheime_petersburger_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b4036</object-name>
+  <object-name>b4063</object-name>
+  <object-name>b4070</object-name>
+  <object-name>b4076</object-name>
+  <object-name>b4077</object-name>
+  <object-name>b4082</object-name>
+  <object-name>b4083</object-name>
+  <object-name>b4103</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b4037</object-name>
+  <object-name>b4046</object-name>
+  <object-name>b4050</object-name>
+  <object-name>b4053</object-name>
+  <object-name>b4057</object-name>
+  <object-name>b4064</object-name>
+  <object-name>b4065</object-name>
+  <object-name>b4073</object-name>
+  <object-name>b4111</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9503_noroofsec_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b4043</object-name>
+  <object-name>b4049</object-name>
+  <object-name>b4060</object-name>
+  <object-name>b4061</object-name>
+  <object-name>b4067</object-name>
+  <object-name>b4069</object-name>
+  <object-name>b4071</object-name>
+  <object-name>b4072</object-name>
+  <object-name>b4074</object-name>
+  <object-name>b4079</object-name>
+  <object-name>b4101</object-name>
+  <object-name>b4102</object-name>
+  <object-name>b4105</object-name>
+  <object-name>b4108</object-name>
+  <object-name>b4109</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b4028</object-name>
+  <object-name>b4035</object-name>
+  <object-name>b4039</object-name>
+  <object-name>b4052</object-name>
+  <object-name>b4059</object-name>
+  <object-name>b4081</object-name>
+  <object-name>b4091</object-name>
+  <object-name>b4092</object-name>
+  <object-name>b4094</object-name>
+  <object-name>b4097</object-name>
+  <object-name>b4104</object-name>
+  <object-name>b4107</object-name>
+  <object-name>b4110</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9710_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b4029</object-name>
+  <object-name>b4030</object-name>
+  <object-name>b4038</object-name>
+  <object-name>b4040</object-name>
+  <object-name>b4044</object-name>
+  <object-name>b4054</object-name>
+  <object-name>b4066</object-name>
+  <object-name>b4087</object-name>
+  <object-name>b4088</object-name>
+  <object-name>b4089</object-name>
+  <object-name>b4090</object-name>
+  <object-name>b4093</object-name>
+  <object-name>b4099</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9678_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b4062</object-name>
+  <object-name>b4086</object-name>
+  <object-name>b4100</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/LZ_old_bright_bc2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b4032</object-name>
+  <object-name>b4047</object-name>
+  <object-name>b4084</object-name>
+  <object-name>b4095</object-name>
+</effect>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b4028</object-name>
+  <object-name>b4029</object-name>
+  <object-name>b4030</object-name>
+  <object-name>b4031</object-name>
+  <object-name>b4032</object-name>
+  <object-name>b4033</object-name>
+  <object-name>b4034</object-name>
+  <object-name>b4035</object-name>
+  <object-name>b4036</object-name>
+  <object-name>b4037</object-name>
+  <object-name>b4038</object-name>
+  <object-name>b4040</object-name>
+  <object-name>b4041</object-name>
+  <object-name>b4042</object-name>
+  <object-name>b4043</object-name>
+  <object-name>b4044</object-name>
+  <object-name>b4045</object-name>
+  <object-name>b4046</object-name>
+  <object-name>b4047</object-name>
+  <object-name>b4048</object-name>
+  <object-name>b4049</object-name>
+  <object-name>b4050</object-name>
+  <object-name>b4051</object-name>
+  <object-name>b4052</object-name>
+  <object-name>b4053</object-name>
+  <object-name>b4054</object-name>
+  <object-name>b4055</object-name>
+  <object-name>b4056</object-name>
+  <object-name>b4057</object-name>
+  <object-name>b4058</object-name>
+  <object-name>b4059</object-name>
+  <object-name>b4060</object-name>
+  <object-name>b4061</object-name>
+  <object-name>b4062</object-name>
+  <object-name>b4063</object-name>
+  <object-name>b4064</object-name>
+  <object-name>b4065</object-name>
+  <object-name>b4066</object-name>
+  <object-name>b4067</object-name>
+  <object-name>b4068</object-name>
+  <object-name>b4069</object-name>
+  <object-name>b4070</object-name>
+  <object-name>b4071</object-name>
+  <object-name>b4072</object-name>
+  <object-name>b4073</object-name>
+  <object-name>b4074</object-name>
+  <object-name>b4075</object-name>
+  <object-name>b4076</object-name>
+  <object-name>b4077</object-name>
+  <object-name>b4078</object-name>
+  <object-name>b4079</object-name>
+  <object-name>b4080</object-name>
+  <object-name>b4081</object-name>
+  <object-name>b4082</object-name>
+  <object-name>b4083</object-name>
+  <object-name>b4084</object-name>
+  <object-name>b4085</object-name>
+  <object-name>b4086</object-name>
+  <object-name>b4087</object-name>
+  <object-name>b4094</object-name>
+  <object-name>b4095</object-name>
+  <object-name>b4096</object-name>
+  <object-name>b4097</object-name>
+  <object-name>b4098</object-name>
+  <object-name>b4099</object-name>
+  <object-name>b4100</object-name>
+  <object-name>b4101</object-name>
+  <object-name>b4102</object-name>
+  <object-name>b4103</object-name>
+  <object-name>b4104</object-name>
+  <object-name>b4105</object-name>
+  <object-name>b4106</object-name>
+  <object-name>b4107</object-name>
+  <object-name>b4108</object-name>
+  <object-name>b4109</object-name>
+  <object-name>b4110</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/detailed</max-property>
+  <object-name>b4039</object-name>
+  <object-name>b4088</object-name>
+  <object-name>b4089</object-name>
+  <object-name>b4090</object-name>
+  <object-name>b4091</object-name>
+  <object-name>b4092</object-name>
+  <object-name>b4093</object-name>
+  <object-name>b4111</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/roof</max-property>
+  <object-name>b4029-roof</object-name>
+  <object-name>b4030-roof</object-name>
+  <object-name>b4035-roof</object-name>
+  <object-name>b4039-roof</object-name>
+  <object-name>b4043-roof</object-name>
+  <object-name>b4044-roof</object-name>
+  <object-name>b4046-roof</object-name>
+  <object-name>b4047-roof</object-name>
+  <object-name>b4049-roof</object-name>
+  <object-name>b4050-roof</object-name>
+  <object-name>b4052-roof</object-name>
+  <object-name>b4053-roof</object-name>
+  <object-name>b4054-roof</object-name>
+  <object-name>b4057-roof</object-name>
+  <object-name>b4059-roof</object-name>
+  <object-name>b4061-roof</object-name>
+  <object-name>b4064-roof</object-name>
+  <object-name>b4065-roof</object-name>
+  <object-name>b4067-roof</object-name>
+  <object-name>b4069-roof</object-name>
+  <object-name>b4071-roof</object-name>
+  <object-name>b4072-roof</object-name>
+  <object-name>b4074-roof</object-name>
+  <object-name>b4088-roof</object-name>
+  <object-name>b4089-roof</object-name>
+  <object-name>b4090-roof</object-name>
+  <object-name>b4091-roof</object-name>
+  <object-name>b4092-roof</object-name>
+  <object-name>b4093-roof</object-name>
+  <object-name>b4099-roof</object-name>
+  <object-name>b4101-roof</object-name>
+  <object-name>b4102-roof</object-name>
+  <object-name>b4104-roof</object-name>
+  <object-name>b4107-roof</object-name>
+  <object-name>b4110-roof</object-name>
+  <object-name>b4111-roof</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-property>/sim/rendering/static-lod/roof</min-property>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b4029-flat</object-name>
+  <object-name>b4030-flat</object-name>
+  <object-name>b4035-flat</object-name>
+  <object-name>b4039-flat</object-name>
+  <object-name>b4043-flat</object-name>
+  <object-name>b4044-flat</object-name>
+  <object-name>b4046-flat</object-name>
+  <object-name>b4047-flat</object-name>
+  <object-name>b4049-flat</object-name>
+  <object-name>b4050-flat</object-name>
+  <object-name>b4052-flat</object-name>
+  <object-name>b4053-flat</object-name>
+  <object-name>b4054-flat</object-name>
+  <object-name>b4057-flat</object-name>
+  <object-name>b4059-flat</object-name>
+  <object-name>b4061-flat</object-name>
+  <object-name>b4064-flat</object-name>
+  <object-name>b4065-flat</object-name>
+  <object-name>b4067-flat</object-name>
+  <object-name>b4069-flat</object-name>
+  <object-name>b4071-flat</object-name>
+  <object-name>b4072-flat</object-name>
+  <object-name>b4074-flat</object-name>
+  <object-name>b4088-flat</object-name>
+  <object-name>b4089-flat</object-name>
+  <object-name>b4090-flat</object-name>
+  <object-name>b4091-flat</object-name>
+  <object-name>b4092-flat</object-name>
+  <object-name>b4093-flat</object-name>
+  <object-name>b4099-flat</object-name>
+  <object-name>b4101-flat</object-name>
+  <object-name>b4102-flat</object-name>
+  <object-name>b4104-flat</object-name>
+  <object-name>b4107-flat</object-name>
+  <object-name>b4110-flat</object-name>
+  <object-name>b4111-flat</object-name>
+</animation>
+
+</PropertyList>

@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<PropertyList>
+<path>ULLLcity1010.ac</path>
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/wohnheime_petersburger_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b3742</object-name>
+  <object-name>b3744</object-name>
+  <object-name>b3749</object-name>
+  <object-name>b3750</object-name>
+  <object-name>b3752</object-name>
+  <object-name>b3753</object-name>
+  <object-name>b3755</object-name>
+  <object-name>b3762</object-name>
+  <object-name>b3768</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b3739</object-name>
+  <object-name>b3747</object-name>
+  <object-name>b3748</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9503_noroofsec_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b3757</object-name>
+  <object-name>b3759</object-name>
+  <object-name>b3760</object-name>
+  <object-name>b3769</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b3735</object-name>
+  <object-name>b3738</object-name>
+  <object-name>b3745</object-name>
+  <object-name>b3746</object-name>
+  <object-name>b3763</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9710_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b3736</object-name>
+  <object-name>b3740</object-name>
+  <object-name>b3770</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9678_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b3754</object-name>
+  <object-name>b3765</object-name>
+  <object-name>b3766</object-name>
+  <object-name>b3767</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/LZ_old_bright_bc2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b3741</object-name>
+  <object-name>b3756</object-name>
+  <object-name>b3764</object-name>
+</effect>
+
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>-349.005</x-m>
+    <y-m>-87.5022</y-m>
+    <z-m>95.1024</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>-301.013</x-m>
+    <y-m>-115.771</y-m>
+    <z-m>95.1024</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>-325.431</x-m>
+    <y-m>-34.5483</y-m>
+    <z-m>95.1024</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>-367.704</x-m>
+    <y-m>-1.24829</y-m>
+    <z-m>95.1024</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b3735</object-name>
+  <object-name>b3736</object-name>
+  <object-name>b3737</object-name>
+  <object-name>b3738</object-name>
+  <object-name>b3740</object-name>
+  <object-name>b3741</object-name>
+  <object-name>b3742</object-name>
+  <object-name>b3743</object-name>
+  <object-name>b3744</object-name>
+  <object-name>b3745</object-name>
+  <object-name>b3746</object-name>
+  <object-name>b3747</object-name>
+  <object-name>b3748</object-name>
+  <object-name>b3749</object-name>
+  <object-name>b3750</object-name>
+  <object-name>b3751</object-name>
+  <object-name>b3752</object-name>
+  <object-name>b3753</object-name>
+  <object-name>b3754</object-name>
+  <object-name>b3755</object-name>
+  <object-name>b3756</object-name>
+  <object-name>b3757</object-name>
+  <object-name>b3758</object-name>
+  <object-name>b3759</object-name>
+  <object-name>b3760</object-name>
+  <object-name>b3761</object-name>
+  <object-name>b3762</object-name>
+  <object-name>b3763</object-name>
+  <object-name>b3764</object-name>
+  <object-name>b3765</object-name>
+  <object-name>b3766</object-name>
+  <object-name>b3767</object-name>
+  <object-name>b3768</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/detailed</max-property>
+  <object-name>b3739</object-name>
+  <object-name>b3769</object-name>
+  <object-name>b3770</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/roof</max-property>
+  <object-name>b3738-roof</object-name>
+  <object-name>b3739-roof</object-name>
+  <object-name>b3747-roof</object-name>
+  <object-name>b3764-roof</object-name>
+  <object-name>b3769-roof</object-name>
+  <object-name>b3770-roof</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-property>/sim/rendering/static-lod/roof</min-property>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b3738-flat</object-name>
+  <object-name>b3739-flat</object-name>
+  <object-name>b3747-flat</object-name>
+  <object-name>b3764-flat</object-name>
+  <object-name>b3769-flat</object-name>
+  <object-name>b3770-flat</object-name>
+</animation>
+
+</PropertyList>

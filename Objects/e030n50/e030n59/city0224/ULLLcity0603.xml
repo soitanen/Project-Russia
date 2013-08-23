@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<PropertyList>
+<path>ULLLcity0603.ac</path>
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/wohnheime_petersburger_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1735</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1730</object-name>
+  <object-name>b1733</object-name>
+  <object-name>b1742</object-name>
+  <object-name>b1754</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9503_noroofsec_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1721</object-name>
+  <object-name>b1724</object-name>
+  <object-name>b1726</object-name>
+  <object-name>b1731</object-name>
+  <object-name>b1739</object-name>
+  <object-name>b1752</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1723</object-name>
+  <object-name>b1743</object-name>
+  <object-name>b1746</object-name>
+  <object-name>b1749</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9710_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1718</object-name>
+  <object-name>b1719</object-name>
+  <object-name>b1720</object-name>
+  <object-name>b1725</object-name>
+  <object-name>b1732</object-name>
+  <object-name>b1734</object-name>
+  <object-name>b1736</object-name>
+  <object-name>b1737</object-name>
+  <object-name>b1738</object-name>
+  <object-name>b1750</object-name>
+  <object-name>b1751</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9678_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1722</object-name>
+  <object-name>b1741</object-name>
+  <object-name>b1753</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/LZ_old_bright_bc2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1727</object-name>
+  <object-name>b1740</object-name>
+  <object-name>b1744</object-name>
+  <object-name>b1747</object-name>
+</effect>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b1720</object-name>
+  <object-name>b1721</object-name>
+  <object-name>b1722</object-name>
+  <object-name>b1729</object-name>
+  <object-name>b1731</object-name>
+  <object-name>b1732</object-name>
+  <object-name>b1733</object-name>
+  <object-name>b1734</object-name>
+  <object-name>b1735</object-name>
+  <object-name>b1736</object-name>
+  <object-name>b1737</object-name>
+  <object-name>b1738</object-name>
+  <object-name>b1739</object-name>
+  <object-name>b1740</object-name>
+  <object-name>b1741</object-name>
+  <object-name>b1742</object-name>
+  <object-name>b1743</object-name>
+  <object-name>b1744</object-name>
+  <object-name>b1745</object-name>
+  <object-name>b1746</object-name>
+  <object-name>b1748</object-name>
+  <object-name>b1749</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/detailed</max-property>
+  <object-name>b1718</object-name>
+  <object-name>b1719</object-name>
+  <object-name>b1723</object-name>
+  <object-name>b1724</object-name>
+  <object-name>b1725</object-name>
+  <object-name>b1726</object-name>
+  <object-name>b1727</object-name>
+  <object-name>b1728</object-name>
+  <object-name>b1730</object-name>
+  <object-name>b1747</object-name>
+  <object-name>b1750</object-name>
+  <object-name>b1751</object-name>
+  <object-name>b1752</object-name>
+  <object-name>b1753</object-name>
+  <object-name>b1754</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/roof</max-property>
+  <object-name>b1718-roof</object-name>
+  <object-name>b1719-roof</object-name>
+  <object-name>b1720-roof</object-name>
+  <object-name>b1723-roof</object-name>
+  <object-name>b1724-roof</object-name>
+  <object-name>b1725-roof</object-name>
+  <object-name>b1726-roof</object-name>
+  <object-name>b1727-roof</object-name>
+  <object-name>b1730-roof</object-name>
+  <object-name>b1732-roof</object-name>
+  <object-name>b1734-roof</object-name>
+  <object-name>b1738-roof</object-name>
+  <object-name>b1739-roof</object-name>
+  <object-name>b1747-roof</object-name>
+  <object-name>b1750-roof</object-name>
+  <object-name>b1751-roof</object-name>
+  <object-name>b1752-roof</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-property>/sim/rendering/static-lod/roof</min-property>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b1718-flat</object-name>
+  <object-name>b1719-flat</object-name>
+  <object-name>b1720-flat</object-name>
+  <object-name>b1723-flat</object-name>
+  <object-name>b1724-flat</object-name>
+  <object-name>b1725-flat</object-name>
+  <object-name>b1726-flat</object-name>
+  <object-name>b1727-flat</object-name>
+  <object-name>b1730-flat</object-name>
+  <object-name>b1732-flat</object-name>
+  <object-name>b1734-flat</object-name>
+  <object-name>b1738-flat</object-name>
+  <object-name>b1739-flat</object-name>
+  <object-name>b1747-flat</object-name>
+  <object-name>b1750-flat</object-name>
+  <object-name>b1751-flat</object-name>
+  <object-name>b1752-flat</object-name>
+</animation>
+
+</PropertyList>

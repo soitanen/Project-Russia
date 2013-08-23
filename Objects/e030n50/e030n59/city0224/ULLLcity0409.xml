@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<PropertyList>
+<path>ULLLcity0409.ac</path>
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9710_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1314</object-name>
+  <object-name>b1319</object-name>
+  <object-name>b1325</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9503_noroofsec_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1313</object-name>
+  <object-name>b1316</object-name>
+  <object-name>b1318</object-name>
+  <object-name>b1321</object-name>
+  <object-name>b1326</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1315</object-name>
+  <object-name>b1317</object-name>
+  <object-name>b1322</object-name>
+  <object-name>b1324</object-name>
+  <object-name>b1330</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1320</object-name>
+  <object-name>b1323</object-name>
+  <object-name>b1328</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/LZ_old_bright_bc2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1327</object-name>
+</effect>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b1313</object-name>
+  <object-name>b1314</object-name>
+  <object-name>b1326</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/detailed</max-property>
+  <object-name>b1315</object-name>
+  <object-name>b1316</object-name>
+  <object-name>b1317</object-name>
+  <object-name>b1318</object-name>
+  <object-name>b1319</object-name>
+  <object-name>b1320</object-name>
+  <object-name>b1321</object-name>
+  <object-name>b1322</object-name>
+  <object-name>b1323</object-name>
+  <object-name>b1324</object-name>
+  <object-name>b1325</object-name>
+  <object-name>b1327</object-name>
+  <object-name>b1328</object-name>
+  <object-name>b1329</object-name>
+  <object-name>b1330</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/roof</max-property>
+  <object-name>b1314-roof</object-name>
+  <object-name>b1315-roof</object-name>
+  <object-name>b1316-roof</object-name>
+  <object-name>b1317-roof</object-name>
+  <object-name>b1318-roof</object-name>
+  <object-name>b1319-roof</object-name>
+  <object-name>b1320-roof</object-name>
+  <object-name>b1321-roof</object-name>
+  <object-name>b1322-roof</object-name>
+  <object-name>b1323-roof</object-name>
+  <object-name>b1324-roof</object-name>
+  <object-name>b1325-roof</object-name>
+  <object-name>b1326-roof</object-name>
+  <object-name>b1327-roof</object-name>
+  <object-name>b1328-roof</object-name>
+  <object-name>b1329-roof</object-name>
+  <object-name>b1330-roof</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-property>/sim/rendering/static-lod/roof</min-property>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b1314-flat</object-name>
+  <object-name>b1315-flat</object-name>
+  <object-name>b1316-flat</object-name>
+  <object-name>b1317-flat</object-name>
+  <object-name>b1318-flat</object-name>
+  <object-name>b1319-flat</object-name>
+  <object-name>b1320-flat</object-name>
+  <object-name>b1321-flat</object-name>
+  <object-name>b1322-flat</object-name>
+  <object-name>b1323-flat</object-name>
+  <object-name>b1324-flat</object-name>
+  <object-name>b1325-flat</object-name>
+  <object-name>b1326-flat</object-name>
+  <object-name>b1327-flat</object-name>
+  <object-name>b1328-flat</object-name>
+  <object-name>b1329-flat</object-name>
+  <object-name>b1330-flat</object-name>
+</animation>
+
+</PropertyList>

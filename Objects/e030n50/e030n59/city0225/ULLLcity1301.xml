@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<PropertyList>
+<path>ULLLcity1301.ac</path>
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9678_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b8075</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9710_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b8069</object-name>
+  <object-name>b8074</object-name>
+  <object-name>b8080</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9503_noroofsec_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b8078</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b8070</object-name>
+  <object-name>b8079</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b8068</object-name>
+  <object-name>b8071</object-name>
+  <object-name>b8076</object-name>
+  <object-name>b8077</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/LZ_old_bright_bc2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b8072</object-name>
+  <object-name>b8073</object-name>
+</effect>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b8069</object-name>
+  <object-name>b8070</object-name>
+  <object-name>b8071</object-name>
+  <object-name>b8073</object-name>
+  <object-name>b8074</object-name>
+  <object-name>b8075</object-name>
+  <object-name>b8077</object-name>
+  <object-name>b8080</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/detailed</max-property>
+  <object-name>b8068</object-name>
+  <object-name>b8072</object-name>
+  <object-name>b8076</object-name>
+  <object-name>b8078</object-name>
+  <object-name>b8079</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/roof</max-property>
+  <object-name>b8068-roof</object-name>
+  <object-name>b8069-roof</object-name>
+  <object-name>b8072-roof</object-name>
+  <object-name>b8074-roof</object-name>
+  <object-name>b8076-roof</object-name>
+  <object-name>b8077-roof</object-name>
+  <object-name>b8079-roof</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-property>/sim/rendering/static-lod/roof</min-property>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b8068-flat</object-name>
+  <object-name>b8069-flat</object-name>
+  <object-name>b8072-flat</object-name>
+  <object-name>b8074-flat</object-name>
+  <object-name>b8076-flat</object-name>
+  <object-name>b8077-flat</object-name>
+  <object-name>b8079-flat</object-name>
+</animation>
+
+</PropertyList>

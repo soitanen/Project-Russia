@@ -1,0 +1,285 @@
+<?xml version="1.0"?>
+<PropertyList>
+<path>ULLLcity1310.ac</path>
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9678_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b8223</object-name>
+  <object-name>b8249</object-name>
+  <object-name>b8251</object-name>
+  <object-name>b8259</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/wohnheime_petersburger_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b8222</object-name>
+  <object-name>b8233</object-name>
+  <object-name>b8246</object-name>
+  <object-name>b8250</object-name>
+  <object-name>b8252</object-name>
+  <object-name>b8253</object-name>
+  <object-name>b8261</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9503_noroofsec_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b8221</object-name>
+  <object-name>b8224</object-name>
+  <object-name>b8225</object-name>
+  <object-name>b8228</object-name>
+  <object-name>b8235</object-name>
+  <object-name>b8247</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/LZ_old_bright_bc2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b8229</object-name>
+  <object-name>b8231</object-name>
+  <object-name>b8239</object-name>
+  <object-name>b8255</object-name>
+  <object-name>b8257</object-name>
+  <object-name>b8260</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b8226</object-name>
+  <object-name>b8230</object-name>
+  <object-name>b8238</object-name>
+  <object-name>b8244</object-name>
+  <object-name>b8263</object-name>
+  <object-name>b8266</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b8227</object-name>
+  <object-name>b8237</object-name>
+  <object-name>b8240</object-name>
+  <object-name>b8243</object-name>
+  <object-name>b8256</object-name>
+  <object-name>b8264</object-name>
+  <object-name>b8268</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9710_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b8232</object-name>
+  <object-name>b8234</object-name>
+  <object-name>b8236</object-name>
+  <object-name>b8248</object-name>
+  <object-name>b8262</object-name>
+  <object-name>b8265</object-name>
+  <object-name>b8267</object-name>
+</effect>
+
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>-130.72</x-m>
+    <y-m>-371.587</y-m>
+    <z-m>129.615</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>-169.784</x-m>
+    <y-m>-322</y-m>
+    <z-m>129.615</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>-203.452</x-m>
+    <y-m>-341.994</y-m>
+    <z-m>129.615</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>-160.956</x-m>
+    <y-m>-405.283</y-m>
+    <z-m>129.615</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b8221</object-name>
+  <object-name>b8222</object-name>
+  <object-name>b8223</object-name>
+  <object-name>b8224</object-name>
+  <object-name>b8225</object-name>
+  <object-name>b8226</object-name>
+  <object-name>b8227</object-name>
+  <object-name>b8232</object-name>
+  <object-name>b8233</object-name>
+  <object-name>b8234</object-name>
+  <object-name>b8236</object-name>
+  <object-name>b8237</object-name>
+  <object-name>b8238</object-name>
+  <object-name>b8239</object-name>
+  <object-name>b8240</object-name>
+  <object-name>b8241</object-name>
+  <object-name>b8242</object-name>
+  <object-name>b8243</object-name>
+  <object-name>b8244</object-name>
+  <object-name>b8245</object-name>
+  <object-name>b8246</object-name>
+  <object-name>b8247</object-name>
+  <object-name>b8248</object-name>
+  <object-name>b8249</object-name>
+  <object-name>b8250</object-name>
+  <object-name>b8251</object-name>
+  <object-name>b8252</object-name>
+  <object-name>b8253</object-name>
+  <object-name>b8254</object-name>
+  <object-name>b8255</object-name>
+  <object-name>b8256</object-name>
+  <object-name>b8259</object-name>
+  <object-name>b8260</object-name>
+  <object-name>b8261</object-name>
+  <object-name>b8265</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/detailed</max-property>
+  <object-name>b8228</object-name>
+  <object-name>b8229</object-name>
+  <object-name>b8230</object-name>
+  <object-name>b8231</object-name>
+  <object-name>b8235</object-name>
+  <object-name>b8257</object-name>
+  <object-name>b8258</object-name>
+  <object-name>b8262</object-name>
+  <object-name>b8263</object-name>
+  <object-name>b8264</object-name>
+  <object-name>b8266</object-name>
+  <object-name>b8267</object-name>
+  <object-name>b8268</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/roof</max-property>
+  <object-name>b8226-roof</object-name>
+  <object-name>b8228-roof</object-name>
+  <object-name>b8229-roof</object-name>
+  <object-name>b8230-roof</object-name>
+  <object-name>b8231-roof</object-name>
+  <object-name>b8234-roof</object-name>
+  <object-name>b8235-roof</object-name>
+  <object-name>b8236-roof</object-name>
+  <object-name>b8237-roof</object-name>
+  <object-name>b8238-roof</object-name>
+  <object-name>b8239-roof</object-name>
+  <object-name>b8247-roof</object-name>
+  <object-name>b8248-roof</object-name>
+  <object-name>b8256-roof</object-name>
+  <object-name>b8262-roof</object-name>
+  <object-name>b8263-roof</object-name>
+  <object-name>b8264-roof</object-name>
+  <object-name>b8265-roof</object-name>
+  <object-name>b8266-roof</object-name>
+  <object-name>b8267-roof</object-name>
+  <object-name>b8268-roof</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-property>/sim/rendering/static-lod/roof</min-property>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b8226-flat</object-name>
+  <object-name>b8228-flat</object-name>
+  <object-name>b8229-flat</object-name>
+  <object-name>b8230-flat</object-name>
+  <object-name>b8231-flat</object-name>
+  <object-name>b8234-flat</object-name>
+  <object-name>b8235-flat</object-name>
+  <object-name>b8236-flat</object-name>
+  <object-name>b8237-flat</object-name>
+  <object-name>b8238-flat</object-name>
+  <object-name>b8239-flat</object-name>
+  <object-name>b8247-flat</object-name>
+  <object-name>b8248-flat</object-name>
+  <object-name>b8256-flat</object-name>
+  <object-name>b8262-flat</object-name>
+  <object-name>b8263-flat</object-name>
+  <object-name>b8264-flat</object-name>
+  <object-name>b8265-flat</object-name>
+  <object-name>b8266-flat</object-name>
+  <object-name>b8267-flat</object-name>
+  <object-name>b8268-flat</object-name>
+</animation>
+
+</PropertyList>

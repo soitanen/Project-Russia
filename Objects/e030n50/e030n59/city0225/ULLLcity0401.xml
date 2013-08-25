@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<PropertyList>
+<path>ULLLcity0401.ac</path>
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2746</object-name>
+  <object-name>b2750</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9678_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2749</object-name>
+  <object-name>b2754</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/LZ_old_bright_bc2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2745</object-name>
+  <object-name>b2751</object-name>
+  <object-name>b2752</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9710_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2747</object-name>
+  <object-name>b2753</object-name>
+  <object-name>b2755</object-name>
+</effect>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b2746</object-name>
+  <object-name>b2747</object-name>
+  <object-name>b2749</object-name>
+  <object-name>b2750</object-name>
+  <object-name>b2754</object-name>
+  <object-name>b2755</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/detailed</max-property>
+  <object-name>b2745</object-name>
+  <object-name>b2748</object-name>
+  <object-name>b2751</object-name>
+  <object-name>b2752</object-name>
+  <object-name>b2753</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/roof</max-property>
+  <object-name>b2745-roof</object-name>
+  <object-name>b2746-roof</object-name>
+  <object-name>b2748-roof</object-name>
+  <object-name>b2750-roof</object-name>
+  <object-name>b2751-roof</object-name>
+  <object-name>b2752-roof</object-name>
+  <object-name>b2753-roof</object-name>
+  <object-name>b2755-roof</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-property>/sim/rendering/static-lod/roof</min-property>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b2745-flat</object-name>
+  <object-name>b2746-flat</object-name>
+  <object-name>b2748-flat</object-name>
+  <object-name>b2750-flat</object-name>
+  <object-name>b2751-flat</object-name>
+  <object-name>b2752-flat</object-name>
+  <object-name>b2753-flat</object-name>
+  <object-name>b2755-flat</object-name>
+</animation>
+
+</PropertyList>

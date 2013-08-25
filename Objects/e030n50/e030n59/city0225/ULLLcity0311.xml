@@ -1,0 +1,445 @@
+<?xml version="1.0"?>
+<PropertyList>
+<path>ULLLcity0311.ac</path>
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9678_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2453</object-name>
+  <object-name>b2469</object-name>
+  <object-name>b2512</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9710_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2392</object-name>
+  <object-name>b2407</object-name>
+  <object-name>b2413</object-name>
+  <object-name>b2417</object-name>
+  <object-name>b2418</object-name>
+  <object-name>b2435</object-name>
+  <object-name>b2441</object-name>
+  <object-name>b2466</object-name>
+  <object-name>b2468</object-name>
+  <object-name>b2471</object-name>
+  <object-name>b2474</object-name>
+  <object-name>b2477</object-name>
+  <object-name>b2482</object-name>
+  <object-name>b2499</object-name>
+  <object-name>b2506</object-name>
+  <object-name>b2513</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9503_noroofsec_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2393</object-name>
+  <object-name>b2395</object-name>
+  <object-name>b2403</object-name>
+  <object-name>b2416</object-name>
+  <object-name>b2422</object-name>
+  <object-name>b2423</object-name>
+  <object-name>b2432</object-name>
+  <object-name>b2444</object-name>
+  <object-name>b2450</object-name>
+  <object-name>b2451</object-name>
+  <object-name>b2460</object-name>
+  <object-name>b2483</object-name>
+  <object-name>b2485</object-name>
+  <object-name>b2486</object-name>
+  <object-name>b2487</object-name>
+  <object-name>b2488</object-name>
+  <object-name>b2494</object-name>
+  <object-name>b2497</object-name>
+  <object-name>b2498</object-name>
+  <object-name>b2503</object-name>
+  <object-name>b2504</object-name>
+  <object-name>b2514</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2399</object-name>
+  <object-name>b2400</object-name>
+  <object-name>b2408</object-name>
+  <object-name>b2409</object-name>
+  <object-name>b2412</object-name>
+  <object-name>b2414</object-name>
+  <object-name>b2421</object-name>
+  <object-name>b2425</object-name>
+  <object-name>b2426</object-name>
+  <object-name>b2427</object-name>
+  <object-name>b2429</object-name>
+  <object-name>b2433</object-name>
+  <object-name>b2437</object-name>
+  <object-name>b2442</object-name>
+  <object-name>b2446</object-name>
+  <object-name>b2448</object-name>
+  <object-name>b2449</object-name>
+  <object-name>b2467</object-name>
+  <object-name>b2470</object-name>
+  <object-name>b2472</object-name>
+  <object-name>b2479</object-name>
+  <object-name>b2484</object-name>
+  <object-name>b2489</object-name>
+  <object-name>b2490</object-name>
+  <object-name>b2495</object-name>
+  <object-name>b2496</object-name>
+  <object-name>b2500</object-name>
+  <object-name>b2502</object-name>
+  <object-name>b2507</object-name>
+  <object-name>b2509</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2394</object-name>
+  <object-name>b2396</object-name>
+  <object-name>b2398</object-name>
+  <object-name>b2401</object-name>
+  <object-name>b2411</object-name>
+  <object-name>b2424</object-name>
+  <object-name>b2428</object-name>
+  <object-name>b2436</object-name>
+  <object-name>b2439</object-name>
+  <object-name>b2454</object-name>
+  <object-name>b2455</object-name>
+  <object-name>b2457</object-name>
+  <object-name>b2465</object-name>
+  <object-name>b2475</object-name>
+  <object-name>b2481</object-name>
+  <object-name>b2491</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/LZ_old_bright_bc2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2397</object-name>
+  <object-name>b2404</object-name>
+  <object-name>b2405</object-name>
+  <object-name>b2431</object-name>
+  <object-name>b2459</object-name>
+  <object-name>b2464</object-name>
+  <object-name>b2478</object-name>
+  <object-name>b2480</object-name>
+  <object-name>b2511</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/wohnheime_petersburger_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2415</object-name>
+  <object-name>b2430</object-name>
+  <object-name>b2438</object-name>
+  <object-name>b2443</object-name>
+  <object-name>b2447</object-name>
+  <object-name>b2456</object-name>
+  <object-name>b2462</object-name>
+  <object-name>b2493</object-name>
+</effect>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b2392</object-name>
+  <object-name>b2393</object-name>
+  <object-name>b2394</object-name>
+  <object-name>b2395</object-name>
+  <object-name>b2396</object-name>
+  <object-name>b2398</object-name>
+  <object-name>b2399</object-name>
+  <object-name>b2400</object-name>
+  <object-name>b2401</object-name>
+  <object-name>b2402</object-name>
+  <object-name>b2403</object-name>
+  <object-name>b2406</object-name>
+  <object-name>b2407</object-name>
+  <object-name>b2408</object-name>
+  <object-name>b2409</object-name>
+  <object-name>b2410</object-name>
+  <object-name>b2411</object-name>
+  <object-name>b2412</object-name>
+  <object-name>b2413</object-name>
+  <object-name>b2414</object-name>
+  <object-name>b2415</object-name>
+  <object-name>b2416</object-name>
+  <object-name>b2419</object-name>
+  <object-name>b2420</object-name>
+  <object-name>b2422</object-name>
+  <object-name>b2423</object-name>
+  <object-name>b2424</object-name>
+  <object-name>b2425</object-name>
+  <object-name>b2426</object-name>
+  <object-name>b2427</object-name>
+  <object-name>b2428</object-name>
+  <object-name>b2429</object-name>
+  <object-name>b2430</object-name>
+  <object-name>b2431</object-name>
+  <object-name>b2432</object-name>
+  <object-name>b2433</object-name>
+  <object-name>b2434</object-name>
+  <object-name>b2436</object-name>
+  <object-name>b2437</object-name>
+  <object-name>b2438</object-name>
+  <object-name>b2439</object-name>
+  <object-name>b2440</object-name>
+  <object-name>b2442</object-name>
+  <object-name>b2443</object-name>
+  <object-name>b2445</object-name>
+  <object-name>b2446</object-name>
+  <object-name>b2447</object-name>
+  <object-name>b2448</object-name>
+  <object-name>b2449</object-name>
+  <object-name>b2450</object-name>
+  <object-name>b2451</object-name>
+  <object-name>b2452</object-name>
+  <object-name>b2453</object-name>
+  <object-name>b2454</object-name>
+  <object-name>b2455</object-name>
+  <object-name>b2456</object-name>
+  <object-name>b2457</object-name>
+  <object-name>b2458</object-name>
+  <object-name>b2459</object-name>
+  <object-name>b2460</object-name>
+  <object-name>b2461</object-name>
+  <object-name>b2462</object-name>
+  <object-name>b2463</object-name>
+  <object-name>b2465</object-name>
+  <object-name>b2466</object-name>
+  <object-name>b2467</object-name>
+  <object-name>b2468</object-name>
+  <object-name>b2469</object-name>
+  <object-name>b2470</object-name>
+  <object-name>b2471</object-name>
+  <object-name>b2472</object-name>
+  <object-name>b2473</object-name>
+  <object-name>b2474</object-name>
+  <object-name>b2475</object-name>
+  <object-name>b2476</object-name>
+  <object-name>b2477</object-name>
+  <object-name>b2486</object-name>
+  <object-name>b2487</object-name>
+  <object-name>b2490</object-name>
+  <object-name>b2491</object-name>
+  <object-name>b2492</object-name>
+  <object-name>b2493</object-name>
+  <object-name>b2494</object-name>
+  <object-name>b2496</object-name>
+  <object-name>b2497</object-name>
+  <object-name>b2499</object-name>
+  <object-name>b2500</object-name>
+  <object-name>b2501</object-name>
+  <object-name>b2502</object-name>
+  <object-name>b2503</object-name>
+  <object-name>b2504</object-name>
+  <object-name>b2505</object-name>
+  <object-name>b2506</object-name>
+  <object-name>b2507</object-name>
+  <object-name>b2508</object-name>
+  <object-name>b2509</object-name>
+  <object-name>b2510</object-name>
+  <object-name>b2512</object-name>
+  <object-name>b2514</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/detailed</max-property>
+  <object-name>b2397</object-name>
+  <object-name>b2404</object-name>
+  <object-name>b2405</object-name>
+  <object-name>b2417</object-name>
+  <object-name>b2418</object-name>
+  <object-name>b2421</object-name>
+  <object-name>b2435</object-name>
+  <object-name>b2441</object-name>
+  <object-name>b2444</object-name>
+  <object-name>b2464</object-name>
+  <object-name>b2478</object-name>
+  <object-name>b2479</object-name>
+  <object-name>b2480</object-name>
+  <object-name>b2481</object-name>
+  <object-name>b2482</object-name>
+  <object-name>b2483</object-name>
+  <object-name>b2484</object-name>
+  <object-name>b2485</object-name>
+  <object-name>b2488</object-name>
+  <object-name>b2489</object-name>
+  <object-name>b2495</object-name>
+  <object-name>b2498</object-name>
+  <object-name>b2511</object-name>
+  <object-name>b2513</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/roof</max-property>
+  <object-name>b2392-roof</object-name>
+  <object-name>b2393-roof</object-name>
+  <object-name>b2394-roof</object-name>
+  <object-name>b2395-roof</object-name>
+  <object-name>b2397-roof</object-name>
+  <object-name>b2400-roof</object-name>
+  <object-name>b2401-roof</object-name>
+  <object-name>b2404-roof</object-name>
+  <object-name>b2405-roof</object-name>
+  <object-name>b2408-roof</object-name>
+  <object-name>b2409-roof</object-name>
+  <object-name>b2413-roof</object-name>
+  <object-name>b2417-roof</object-name>
+  <object-name>b2418-roof</object-name>
+  <object-name>b2421-roof</object-name>
+  <object-name>b2423-roof</object-name>
+  <object-name>b2427-roof</object-name>
+  <object-name>b2431-roof</object-name>
+  <object-name>b2435-roof</object-name>
+  <object-name>b2441-roof</object-name>
+  <object-name>b2444-roof</object-name>
+  <object-name>b2449-roof</object-name>
+  <object-name>b2455-roof</object-name>
+  <object-name>b2459-roof</object-name>
+  <object-name>b2460-roof</object-name>
+  <object-name>b2463-roof</object-name>
+  <object-name>b2464-roof</object-name>
+  <object-name>b2466-roof</object-name>
+  <object-name>b2467-roof</object-name>
+  <object-name>b2477-roof</object-name>
+  <object-name>b2478-roof</object-name>
+  <object-name>b2479-roof</object-name>
+  <object-name>b2480-roof</object-name>
+  <object-name>b2481-roof</object-name>
+  <object-name>b2482-roof</object-name>
+  <object-name>b2483-roof</object-name>
+  <object-name>b2484-roof</object-name>
+  <object-name>b2485-roof</object-name>
+  <object-name>b2486-roof</object-name>
+  <object-name>b2488-roof</object-name>
+  <object-name>b2489-roof</object-name>
+  <object-name>b2490-roof</object-name>
+  <object-name>b2491-roof</object-name>
+  <object-name>b2494-roof</object-name>
+  <object-name>b2495-roof</object-name>
+  <object-name>b2498-roof</object-name>
+  <object-name>b2499-roof</object-name>
+  <object-name>b2504-roof</object-name>
+  <object-name>b2506-roof</object-name>
+  <object-name>b2507-roof</object-name>
+  <object-name>b2511-roof</object-name>
+  <object-name>b2513-roof</object-name>
+  <object-name>b2514-roof</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-property>/sim/rendering/static-lod/roof</min-property>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b2392-flat</object-name>
+  <object-name>b2393-flat</object-name>
+  <object-name>b2394-flat</object-name>
+  <object-name>b2395-flat</object-name>
+  <object-name>b2397-flat</object-name>
+  <object-name>b2400-flat</object-name>
+  <object-name>b2401-flat</object-name>
+  <object-name>b2404-flat</object-name>
+  <object-name>b2405-flat</object-name>
+  <object-name>b2408-flat</object-name>
+  <object-name>b2409-flat</object-name>
+  <object-name>b2413-flat</object-name>
+  <object-name>b2417-flat</object-name>
+  <object-name>b2418-flat</object-name>
+  <object-name>b2421-flat</object-name>
+  <object-name>b2423-flat</object-name>
+  <object-name>b2427-flat</object-name>
+  <object-name>b2431-flat</object-name>
+  <object-name>b2435-flat</object-name>
+  <object-name>b2441-flat</object-name>
+  <object-name>b2444-flat</object-name>
+  <object-name>b2449-flat</object-name>
+  <object-name>b2455-flat</object-name>
+  <object-name>b2459-flat</object-name>
+  <object-name>b2460-flat</object-name>
+  <object-name>b2463-flat</object-name>
+  <object-name>b2464-flat</object-name>
+  <object-name>b2466-flat</object-name>
+  <object-name>b2467-flat</object-name>
+  <object-name>b2477-flat</object-name>
+  <object-name>b2478-flat</object-name>
+  <object-name>b2479-flat</object-name>
+  <object-name>b2480-flat</object-name>
+  <object-name>b2481-flat</object-name>
+  <object-name>b2482-flat</object-name>
+  <object-name>b2483-flat</object-name>
+  <object-name>b2484-flat</object-name>
+  <object-name>b2485-flat</object-name>
+  <object-name>b2486-flat</object-name>
+  <object-name>b2488-flat</object-name>
+  <object-name>b2489-flat</object-name>
+  <object-name>b2490-flat</object-name>
+  <object-name>b2491-flat</object-name>
+  <object-name>b2494-flat</object-name>
+  <object-name>b2495-flat</object-name>
+  <object-name>b2498-flat</object-name>
+  <object-name>b2499-flat</object-name>
+  <object-name>b2504-flat</object-name>
+  <object-name>b2506-flat</object-name>
+  <object-name>b2507-flat</object-name>
+  <object-name>b2511-flat</object-name>
+  <object-name>b2513-flat</object-name>
+  <object-name>b2514-flat</object-name>
+</animation>
+
+</PropertyList>

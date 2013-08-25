@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<PropertyList>
+<path>ULLLcity0300.ac</path>
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9678_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1933</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/wohnheime_petersburger_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1931</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9503_noroofsec_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1935</object-name>
+  <object-name>b1944</object-name>
+  <object-name>b1947</object-name>
+  <object-name>b1949</object-name>
+  <object-name>b1951</object-name>
+  <object-name>b1952</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1928</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1927</object-name>
+  <object-name>b1929</object-name>
+  <object-name>b1936</object-name>
+  <object-name>b1946</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/LZ_old_bright_bc2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1926</object-name>
+  <object-name>b1937</object-name>
+  <object-name>b1939</object-name>
+  <object-name>b1941</object-name>
+  <object-name>b1942</object-name>
+  <object-name>b1948</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9710_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1932</object-name>
+  <object-name>b1938</object-name>
+  <object-name>b1940</object-name>
+  <object-name>b1943</object-name>
+  <object-name>b1950</object-name>
+</effect>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b1926</object-name>
+  <object-name>b1927</object-name>
+  <object-name>b1928</object-name>
+  <object-name>b1929</object-name>
+  <object-name>b1930</object-name>
+  <object-name>b1931</object-name>
+  <object-name>b1932</object-name>
+  <object-name>b1933</object-name>
+  <object-name>b1934</object-name>
+  <object-name>b1935</object-name>
+  <object-name>b1936</object-name>
+  <object-name>b1937</object-name>
+  <object-name>b1938</object-name>
+  <object-name>b1939</object-name>
+  <object-name>b1940</object-name>
+  <object-name>b1941</object-name>
+  <object-name>b1942</object-name>
+  <object-name>b1943</object-name>
+  <object-name>b1944</object-name>
+  <object-name>b1947</object-name>
+  <object-name>b1948</object-name>
+  <object-name>b1949</object-name>
+  <object-name>b1951</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/detailed</max-property>
+  <object-name>b1945</object-name>
+  <object-name>b1946</object-name>
+  <object-name>b1950</object-name>
+  <object-name>b1952</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/roof</max-property>
+  <object-name>b1926-roof</object-name>
+  <object-name>b1935-roof</object-name>
+  <object-name>b1936-roof</object-name>
+  <object-name>b1940-roof</object-name>
+  <object-name>b1942-roof</object-name>
+  <object-name>b1945-roof</object-name>
+  <object-name>b1946-roof</object-name>
+  <object-name>b1949-roof</object-name>
+  <object-name>b1950-roof</object-name>
+  <object-name>b1951-roof</object-name>
+  <object-name>b1952-roof</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-property>/sim/rendering/static-lod/roof</min-property>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b1926-flat</object-name>
+  <object-name>b1935-flat</object-name>
+  <object-name>b1936-flat</object-name>
+  <object-name>b1940-flat</object-name>
+  <object-name>b1942-flat</object-name>
+  <object-name>b1945-flat</object-name>
+  <object-name>b1946-flat</object-name>
+  <object-name>b1949-flat</object-name>
+  <object-name>b1950-flat</object-name>
+  <object-name>b1951-flat</object-name>
+  <object-name>b1952-flat</object-name>
+</animation>
+
+</PropertyList>

@@ -11,26 +11,26 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b4656</object-name>
-  <object-name>b4681</object-name>
-  <object-name>b4691</object-name>
+  <object-name>b4668</object-name>
+  <object-name>b4676</object-name>
+  <object-name>b4701</object-name>
   <object-name>b4707</object-name>
-  <object-name>b4709</object-name>
   <object-name>b4719</object-name>
-  <object-name>b4722</object-name>
-  <object-name>b4729</object-name>
-  <object-name>b4730</object-name>
-  <object-name>b4752</object-name>
-  <object-name>b4756</object-name>
-  <object-name>b4761</object-name>
-  <object-name>b4768</object-name>
+  <object-name>b4725</object-name>
+  <object-name>b4727</object-name>
+  <object-name>b4739</object-name>
+  <object-name>b4741</object-name>
+  <object-name>b4742</object-name>
+  <object-name>b4749</object-name>
   <object-name>b4769</object-name>
+  <object-name>b4773</object-name>
   <object-name>b4775</object-name>
-  <object-name>b4776</object-name>
   <object-name>b4777</object-name>
-  <object-name>b4779</object-name>
-  <object-name>b4787</object-name>
-  <object-name>b4788</object-name>
+  <object-name>b4789</object-name>
+  <object-name>b4792</object-name>
+  <object-name>b4801</object-name>
+  <object-name>b4806</object-name>
+  <object-name>b4814</object-name>
 </effect>
 
 <effect>
@@ -43,24 +43,32 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b4666</object-name>
-  <object-name>b4675</object-name>
-  <object-name>b4677</object-name>
-  <object-name>b4680</object-name>
-  <object-name>b4692</object-name>
-  <object-name>b4693</object-name>
-  <object-name>b4703</object-name>
-  <object-name>b4717</object-name>
-  <object-name>b4727</object-name>
-  <object-name>b4739</object-name>
-  <object-name>b4740</object-name>
-  <object-name>b4753</object-name>
+  <object-name>b4671</object-name>
+  <object-name>b4678</object-name>
+  <object-name>b4682</object-name>
+  <object-name>b4691</object-name>
+  <object-name>b4712</object-name>
+  <object-name>b4718</object-name>
+  <object-name>b4723</object-name>
+  <object-name>b4724</object-name>
+  <object-name>b4726</object-name>
+  <object-name>b4751</object-name>
   <object-name>b4762</object-name>
-  <object-name>b4770</object-name>
-  <object-name>b4773</object-name>
-  <object-name>b4778</object-name>
-  <object-name>b4782</object-name>
-  <object-name>b4789</object-name>
+  <object-name>b4763</object-name>
+  <object-name>b4767</object-name>
+  <object-name>b4776</object-name>
+  <object-name>b4779</object-name>
+  <object-name>b4793</object-name>
+  <object-name>b4795</object-name>
+  <object-name>b4807</object-name>
+  <object-name>b4808</object-name>
+  <object-name>b4810</object-name>
+  <object-name>b4811</object-name>
+  <object-name>b4813</object-name>
+  <object-name>b4817</object-name>
+  <object-name>b4820</object-name>
+  <object-name>b4823</object-name>
+  <object-name>b4824</object-name>
 </effect>
 
 <effect>
@@ -73,20 +81,29 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b4669</object-name>
-  <object-name>b4673</object-name>
-  <object-name>b4684</object-name>
-  <object-name>b4690</object-name>
-  <object-name>b4697</object-name>
+  <object-name>b4675</object-name>
+  <object-name>b4677</object-name>
+  <object-name>b4696</object-name>
   <object-name>b4706</object-name>
-  <object-name>b4715</object-name>
-  <object-name>b4716</object-name>
-  <object-name>b4744</object-name>
-  <object-name>b4759</object-name>
-  <object-name>b4765</object-name>
-  <object-name>b4774</object-name>
-  <object-name>b4783</object-name>
-  <object-name>b4785</object-name>
+  <object-name>b4711</object-name>
+  <object-name>b4721</object-name>
+  <object-name>b4740</object-name>
+  <object-name>b4743</object-name>
+  <object-name>b4745</object-name>
+  <object-name>b4747</object-name>
+  <object-name>b4748</object-name>
+  <object-name>b4750</object-name>
+  <object-name>b4770</object-name>
+  <object-name>b4780</object-name>
+  <object-name>b4781</object-name>
+  <object-name>b4782</object-name>
+  <object-name>b4784</object-name>
+  <object-name>b4787</object-name>
+  <object-name>b4788</object-name>
+  <object-name>b4798</object-name>
+  <object-name>b4803</object-name>
+  <object-name>b4812</object-name>
+  <object-name>b4821</object-name>
 </effect>
 
 <effect>
@@ -99,20 +116,16 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b4672</object-name>
-  <object-name>b4676</object-name>
-  <object-name>b4682</object-name>
+  <object-name>b4679</object-name>
+  <object-name>b4681</object-name>
   <object-name>b4685</object-name>
-  <object-name>b4687</object-name>
-  <object-name>b4698</object-name>
-  <object-name>b4702</object-name>
-  <object-name>b4718</object-name>
-  <object-name>b4728</object-name>
-  <object-name>b4734</object-name>
-  <object-name>b4736</object-name>
-  <object-name>b4746</object-name>
-  <object-name>b4754</object-name>
-  <object-name>b4767</object-name>
+  <object-name>b4690</object-name>
+  <object-name>b4699</object-name>
+  <object-name>b4709</object-name>
+  <object-name>b4713</object-name>
+  <object-name>b4738</object-name>
+  <object-name>b4791</object-name>
+  <object-name>b4818</object-name>
 </effect>
 
 <effect>
@@ -125,19 +138,27 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b4671</object-name>
-  <object-name>b4688</object-name>
-  <object-name>b4695</object-name>
-  <object-name>b4699</object-name>
+  <object-name>b4683</object-name>
+  <object-name>b4684</object-name>
   <object-name>b4708</object-name>
   <object-name>b4710</object-name>
+  <object-name>b4717</object-name>
   <object-name>b4720</object-name>
-  <object-name>b4743</object-name>
-  <object-name>b4750</object-name>
-  <object-name>b4755</object-name>
-  <object-name>b4757</object-name>
-  <object-name>b4763</object-name>
-  <object-name>b4784</object-name>
+  <object-name>b4722</object-name>
+  <object-name>b4728</object-name>
+  <object-name>b4729</object-name>
+  <object-name>b4744</object-name>
+  <object-name>b4746</object-name>
+  <object-name>b4758</object-name>
+  <object-name>b4774</object-name>
+  <object-name>b4778</object-name>
+  <object-name>b4783</object-name>
+  <object-name>b4785</object-name>
+  <object-name>b4786</object-name>
+  <object-name>b4797</object-name>
+  <object-name>b4804</object-name>
+  <object-name>b4805</object-name>
+  <object-name>b4816</object-name>
 </effect>
 
 <effect>
@@ -150,17 +171,24 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b4658</object-name>
-  <object-name>b4660</object-name>
-  <object-name>b4661</object-name>
-  <object-name>b4662</object-name>
-  <object-name>b4678</object-name>
-  <object-name>b4686</object-name>
-  <object-name>b4712</object-name>
-  <object-name>b4713</object-name>
-  <object-name>b4714</object-name>
-  <object-name>b4735</object-name>
-  <object-name>b4738</object-name>
+  <object-name>b4670</object-name>
+  <object-name>b4672</object-name>
+  <object-name>b4680</object-name>
+  <object-name>b4687</object-name>
+  <object-name>b4689</object-name>
+  <object-name>b4695</object-name>
+  <object-name>b4703</object-name>
+  <object-name>b4715</object-name>
+  <object-name>b4730</object-name>
+  <object-name>b4733</object-name>
+  <object-name>b4752</object-name>
+  <object-name>b4753</object-name>
+  <object-name>b4754</object-name>
+  <object-name>b4756</object-name>
+  <object-name>b4759</object-name>
+  <object-name>b4760</object-name>
+  <object-name>b4765</object-name>
+  <object-name>b4766</object-name>
 </effect>
 
 <effect>
@@ -173,35 +201,69 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b4657</object-name>
-  <object-name>b4663</object-name>
-  <object-name>b4665</object-name>
-  <object-name>b4689</object-name>
-  <object-name>b4700</object-name>
-  <object-name>b4701</object-name>
-  <object-name>b4704</object-name>
-  <object-name>b4705</object-name>
-  <object-name>b4721</object-name>
-  <object-name>b4723</object-name>
-  <object-name>b4724</object-name>
-  <object-name>b4725</object-name>
-  <object-name>b4726</object-name>
-  <object-name>b4748</object-name>
-  <object-name>b4758</object-name>
-  <object-name>b4764</object-name>
-  <object-name>b4766</object-name>
-  <object-name>b4771</object-name>
-  <object-name>b4780</object-name>
-  <object-name>b4781</object-name>
-  <object-name>b4786</object-name>
+  <object-name>b4673</object-name>
+  <object-name>b4686</object-name>
+  <object-name>b4702</object-name>
+  <object-name>b4716</object-name>
+  <object-name>b4731</object-name>
+  <object-name>b4735</object-name>
+  <object-name>b4737</object-name>
+  <object-name>b4757</object-name>
+  <object-name>b4772</object-name>
+  <object-name>b4796</object-name>
+  <object-name>b4799</object-name>
+  <object-name>b4802</object-name>
+  <object-name>b4809</object-name>
+  <object-name>b4815</object-name>
+  <object-name>b4822</object-name>
 </effect>
 
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
+    <x-m>450.45</x-m>
+    <y-m>-1603.47</y-m>
+    <z-m>82.4308</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>502.295</x-m>
+    <y-m>-1765.47</y-m>
+    <z-m>82.4308</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>547.045</x-m>
+    <y-m>-1711.66</y-m>
+    <z-m>82.4308</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>514.643</x-m>
+    <y-m>-1636.32</y-m>
+    <z-m>82.4308</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
     <x-m>349.436</x-m>
     <y-m>-808.554</y-m>
-    <z-m>65.7509</z-m>
+    <z-m>65.0903</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -211,7 +273,7 @@
   <offsets>
     <x-m>372.366</x-m>
     <y-m>-818.423</y-m>
-    <z-m>65.7509</z-m>
+    <z-m>65.0903</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -221,7 +283,7 @@
   <offsets>
     <x-m>376.908</x-m>
     <y-m>-788.574</y-m>
-    <z-m>65.7509</z-m>
+    <z-m>65.0903</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -231,7 +293,7 @@
   <offsets>
     <x-m>369.49</x-m>
     <y-m>-785.236</y-m>
-    <z-m>65.7509</z-m>
+    <z-m>65.0903</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -239,9 +301,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>833.641</x-m>
-    <y-m>-165.607</y-m>
-    <z-m>76.6344</z-m>
+    <x-m>756.157</x-m>
+    <y-m>-214.421</y-m>
+    <z-m>73.3176</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -249,9 +311,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>843.757</x-m>
-    <y-m>-142.161</y-m>
-    <z-m>76.6344</z-m>
+    <x-m>788.847</x-m>
+    <y-m>-228.57</y-m>
+    <z-m>73.3176</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -259,9 +321,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>820.549</x-m>
-    <y-m>-132.152</y-m>
-    <z-m>76.6344</z-m>
+    <x-m>798.264</x-m>
+    <y-m>-206.83</y-m>
+    <z-m>73.3176</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -269,9 +331,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>810.434</x-m>
-    <y-m>-155.597</y-m>
-    <z-m>76.6344</z-m>
+    <x-m>765.573</x-m>
+    <y-m>-192.68</y-m>
+    <z-m>73.3176</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -281,7 +343,7 @@
   <offsets>
     <x-m>661.75</x-m>
     <y-m>-1.54825</y-m>
-    <z-m>84.0394</z-m>
+    <z-m>84.2344</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -291,7 +353,7 @@
   <offsets>
     <x-m>686.679</x-m>
     <y-m>30.9535</y-m>
-    <z-m>84.0394</z-m>
+    <z-m>84.2344</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -301,7 +363,7 @@
   <offsets>
     <x-m>645.205</x-m>
     <y-m>8.2268</y-m>
-    <z-m>84.0394</z-m>
+    <z-m>84.2344</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -311,7 +373,7 @@
   <offsets>
     <x-m>655.265</x-m>
     <y-m>-34.5572</y-m>
-    <z-m>84.0394</z-m>
+    <z-m>84.2344</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -321,7 +383,7 @@
   <offsets>
     <x-m>686.834</x-m>
     <y-m>-269.554</y-m>
-    <z-m>66.9399</z-m>
+    <z-m>69.6149</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -331,7 +393,7 @@
   <offsets>
     <x-m>719.525</x-m>
     <y-m>-283.704</y-m>
-    <z-m>66.9399</z-m>
+    <z-m>69.6149</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -341,7 +403,7 @@
   <offsets>
     <x-m>728.941</x-m>
     <y-m>-261.964</y-m>
-    <z-m>66.9399</z-m>
+    <z-m>69.6149</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -351,7 +413,47 @@
   <offsets>
     <x-m>696.25</x-m>
     <y-m>-247.808</y-m>
-    <z-m>66.9399</z-m>
+    <z-m>69.6149</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>647.914</x-m>
+    <y-m>-295.318</y-m>
+    <z-m>71.0954</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>647.026</x-m>
+    <y-m>-275.161</y-m>
+    <z-m>71.0954</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>627.683</x-m>
+    <y-m>-259.406</y-m>
+    <z-m>71.0954</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>628.493</x-m>
+    <y-m>-287.343</y-m>
+    <z-m>71.0954</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -361,7 +463,7 @@
   <offsets>
     <x-m>682.559</x-m>
     <y-m>-335.672</y-m>
-    <z-m>80.1836</z-m>
+    <z-m>79.4433</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -371,7 +473,7 @@
   <offsets>
     <x-m>681.016</x-m>
     <y-m>-315.81</y-m>
-    <z-m>80.1836</z-m>
+    <z-m>79.4433</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -381,7 +483,7 @@
   <offsets>
     <x-m>664.904</x-m>
     <y-m>-297.865</y-m>
-    <z-m>80.1836</z-m>
+    <z-m>79.4433</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -391,7 +493,7 @@
   <offsets>
     <x-m>658.43</x-m>
     <y-m>-320.765</y-m>
-    <z-m>80.1836</z-m>
+    <z-m>79.4433</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -401,7 +503,7 @@
   <offsets>
     <x-m>603.776</x-m>
     <y-m>-326.371</y-m>
-    <z-m>79.8908</z-m>
+    <z-m>78.9492</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -411,7 +513,7 @@
   <offsets>
     <x-m>602.376</x-m>
     <y-m>-306.632</y-m>
-    <z-m>79.8908</z-m>
+    <z-m>78.9492</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -421,7 +523,7 @@
   <offsets>
     <x-m>582.411</x-m>
     <y-m>-288.653</y-m>
-    <z-m>79.8908</z-m>
+    <z-m>78.9492</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -431,7 +533,7 @@
   <offsets>
     <x-m>578.414</x-m>
     <y-m>-313.603</y-m>
-    <z-m>79.8908</z-m>
+    <z-m>78.9492</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -439,9 +541,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>616.401</x-m>
-    <y-m>-491.761</y-m>
-    <z-m>70.0969</z-m>
+    <x-m>585.909</x-m>
+    <y-m>-456.958</y-m>
+    <z-m>77.2596</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -449,9 +551,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>601.333</x-m>
-    <y-m>-453.196</y-m>
-    <z-m>70.0969</z-m>
+    <x-m>570.841</x-m>
+    <y-m>-418.387</y-m>
+    <z-m>77.2596</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -459,9 +561,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>593.36</x-m>
-    <y-m>-469.224</y-m>
-    <z-m>70.0969</z-m>
+    <x-m>562.868</x-m>
+    <y-m>-434.421</y-m>
+    <z-m>77.2596</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -469,9 +571,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>606.84</x-m>
-    <y-m>-487.013</y-m>
-    <z-m>70.0969</z-m>
+    <x-m>576.348</x-m>
+    <y-m>-452.21</y-m>
+    <z-m>77.2596</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -479,9 +581,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>865.499</x-m>
-    <y-m>-56.1024</y-m>
-    <z-m>72.4096</z-m>
+    <x-m>496.976</x-m>
+    <y-m>-741.694</y-m>
+    <z-m>67.6435</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -489,9 +591,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>906.395</x-m>
-    <y-m>-70.7483</y-m>
-    <z-m>72.4096</z-m>
+    <x-m>525.481</x-m>
+    <y-m>-759.45</y-m>
+    <z-m>67.6435</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -499,9 +601,9 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>910.681</x-m>
-    <y-m>-52.4131</y-m>
-    <z-m>72.4096</z-m>
+    <x-m>532.343</x-m>
+    <y-m>-734.522</y-m>
+    <z-m>67.6435</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -509,9 +611,49 @@
 <model>
   <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
   <offsets>
-    <x-m>869.596</x-m>
-    <y-m>-40.4311</y-m>
-    <z-m>72.4096</z-m>
+    <x-m>520.317</x-m>
+    <y-m>-725.293</y-m>
+    <z-m>67.6435</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>346.449</x-m>
+    <y-m>-983.568</y-m>
+    <z-m>74.5051</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>370.878</x-m>
+    <y-m>-994.202</y-m>
+    <z-m>74.5051</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>380.45</x-m>
+    <y-m>-972.233</y-m>
+    <z-m>74.5051</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>356.01</x-m>
+    <y-m>-961.599</y-m>
+    <z-m>74.5051</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -521,7 +663,7 @@
   <offsets>
     <x-m>388.501</x-m>
     <y-m>-526.403</y-m>
-    <z-m>68.0705</z-m>
+    <z-m>61.7822</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -531,7 +673,7 @@
   <offsets>
     <x-m>404.057</x-m>
     <y-m>-526.927</y-m>
-    <z-m>68.0705</z-m>
+    <z-m>61.7822</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -541,7 +683,7 @@
   <offsets>
     <x-m>406.922</x-m>
     <y-m>-471.905</y-m>
-    <z-m>68.0705</z-m>
+    <z-m>61.7822</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -551,7 +693,7 @@
   <offsets>
     <x-m>397.14</x-m>
     <y-m>-439.213</y-m>
-    <z-m>68.0705</z-m>
+    <z-m>61.7822</z-m>
     <pitch-deg> 0.00</pitch-deg>
     <heading-deg>0.0 </heading-deg>
   </offsets>
@@ -560,28 +702,17 @@
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b4656</object-name>
-  <object-name>b4658</object-name>
-  <object-name>b4659</object-name>
-  <object-name>b4660</object-name>
-  <object-name>b4661</object-name>
-  <object-name>b4662</object-name>
-  <object-name>b4663</object-name>
-  <object-name>b4664</object-name>
-  <object-name>b4665</object-name>
-  <object-name>b4666</object-name>
-  <object-name>b4667</object-name>
-  <object-name>b4668</object-name>
   <object-name>b4669</object-name>
   <object-name>b4670</object-name>
   <object-name>b4672</object-name>
   <object-name>b4673</object-name>
-  <object-name>b4674</object-name>
   <object-name>b4675</object-name>
   <object-name>b4676</object-name>
   <object-name>b4677</object-name>
   <object-name>b4678</object-name>
   <object-name>b4679</object-name>
+  <object-name>b4680</object-name>
+  <object-name>b4681</object-name>
   <object-name>b4682</object-name>
   <object-name>b4683</object-name>
   <object-name>b4684</object-name>
@@ -595,10 +726,9 @@
   <object-name>b4692</object-name>
   <object-name>b4693</object-name>
   <object-name>b4694</object-name>
-  <object-name>b4696</object-name>
+  <object-name>b4695</object-name>
   <object-name>b4697</object-name>
   <object-name>b4698</object-name>
-  <object-name>b4699</object-name>
   <object-name>b4700</object-name>
   <object-name>b4701</object-name>
   <object-name>b4702</object-name>
@@ -608,18 +738,26 @@
   <object-name>b4706</object-name>
   <object-name>b4707</object-name>
   <object-name>b4708</object-name>
+  <object-name>b4709</object-name>
   <object-name>b4710</object-name>
   <object-name>b4711</object-name>
   <object-name>b4712</object-name>
   <object-name>b4713</object-name>
   <object-name>b4714</object-name>
   <object-name>b4715</object-name>
+  <object-name>b4716</object-name>
+  <object-name>b4717</object-name>
   <object-name>b4718</object-name>
   <object-name>b4719</object-name>
   <object-name>b4720</object-name>
+  <object-name>b4721</object-name>
+  <object-name>b4722</object-name>
   <object-name>b4723</object-name>
   <object-name>b4724</object-name>
+  <object-name>b4725</object-name>
+  <object-name>b4726</object-name>
   <object-name>b4727</object-name>
+  <object-name>b4728</object-name>
   <object-name>b4729</object-name>
   <object-name>b4730</object-name>
   <object-name>b4731</object-name>
@@ -627,18 +765,10 @@
   <object-name>b4733</object-name>
   <object-name>b4734</object-name>
   <object-name>b4735</object-name>
-  <object-name>b4736</object-name>
-  <object-name>b4737</object-name>
   <object-name>b4738</object-name>
-  <object-name>b4739</object-name>
-  <object-name>b4740</object-name>
-  <object-name>b4741</object-name>
-  <object-name>b4742</object-name>
-  <object-name>b4743</object-name>
-  <object-name>b4744</object-name>
-  <object-name>b4745</object-name>
   <object-name>b4746</object-name>
   <object-name>b4747</object-name>
+  <object-name>b4748</object-name>
   <object-name>b4750</object-name>
   <object-name>b4751</object-name>
   <object-name>b4752</object-name>
@@ -649,178 +779,230 @@
   <object-name>b4757</object-name>
   <object-name>b4758</object-name>
   <object-name>b4759</object-name>
+  <object-name>b4760</object-name>
   <object-name>b4761</object-name>
+  <object-name>b4762</object-name>
+  <object-name>b4763</object-name>
+  <object-name>b4764</object-name>
   <object-name>b4765</object-name>
   <object-name>b4766</object-name>
   <object-name>b4767</object-name>
   <object-name>b4768</object-name>
+  <object-name>b4769</object-name>
   <object-name>b4770</object-name>
   <object-name>b4771</object-name>
-  <object-name>b4772</object-name>
   <object-name>b4773</object-name>
+  <object-name>b4774</object-name>
   <object-name>b4775</object-name>
+  <object-name>b4776</object-name>
   <object-name>b4777</object-name>
+  <object-name>b4778</object-name>
   <object-name>b4779</object-name>
   <object-name>b4781</object-name>
+  <object-name>b4782</object-name>
   <object-name>b4783</object-name>
+  <object-name>b4784</object-name>
   <object-name>b4785</object-name>
-  <object-name>b4786</object-name>
-  <object-name>b4787</object-name>
-  <object-name>b4789</object-name>
+  <object-name>b4788</object-name>
   <object-name>b4790</object-name>
+  <object-name>b4791</object-name>
+  <object-name>b4792</object-name>
+  <object-name>b4793</object-name>
+  <object-name>b4794</object-name>
+  <object-name>b4796</object-name>
+  <object-name>b4797</object-name>
+  <object-name>b4798</object-name>
+  <object-name>b4800</object-name>
+  <object-name>b4801</object-name>
+  <object-name>b4802</object-name>
+  <object-name>b4803</object-name>
+  <object-name>b4805</object-name>
+  <object-name>b4810</object-name>
+  <object-name>b4812</object-name>
+  <object-name>b4813</object-name>
+  <object-name>b4815</object-name>
+  <object-name>b4816</object-name>
+  <object-name>b4818</object-name>
+  <object-name>b4819</object-name>
+  <object-name>b4820</object-name>
+  <object-name>b4823</object-name>
+  <object-name>b4824</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/detailed</max-property>
-  <object-name>b4657</object-name>
+  <object-name>b4668</object-name>
   <object-name>b4671</object-name>
-  <object-name>b4680</object-name>
-  <object-name>b4681</object-name>
-  <object-name>b4695</object-name>
-  <object-name>b4709</object-name>
-  <object-name>b4716</object-name>
-  <object-name>b4717</object-name>
-  <object-name>b4721</object-name>
-  <object-name>b4722</object-name>
-  <object-name>b4725</object-name>
-  <object-name>b4726</object-name>
-  <object-name>b4728</object-name>
-  <object-name>b4748</object-name>
+  <object-name>b4674</object-name>
+  <object-name>b4696</object-name>
+  <object-name>b4699</object-name>
+  <object-name>b4736</object-name>
+  <object-name>b4737</object-name>
+  <object-name>b4739</object-name>
+  <object-name>b4740</object-name>
+  <object-name>b4741</object-name>
+  <object-name>b4742</object-name>
+  <object-name>b4743</object-name>
+  <object-name>b4744</object-name>
+  <object-name>b4745</object-name>
   <object-name>b4749</object-name>
-  <object-name>b4760</object-name>
-  <object-name>b4762</object-name>
-  <object-name>b4763</object-name>
-  <object-name>b4764</object-name>
-  <object-name>b4769</object-name>
-  <object-name>b4774</object-name>
-  <object-name>b4776</object-name>
-  <object-name>b4778</object-name>
+  <object-name>b4772</object-name>
   <object-name>b4780</object-name>
-  <object-name>b4782</object-name>
-  <object-name>b4784</object-name>
-  <object-name>b4788</object-name>
+  <object-name>b4786</object-name>
+  <object-name>b4787</object-name>
+  <object-name>b4789</object-name>
+  <object-name>b4795</object-name>
+  <object-name>b4799</object-name>
+  <object-name>b4804</object-name>
+  <object-name>b4806</object-name>
+  <object-name>b4807</object-name>
+  <object-name>b4808</object-name>
+  <object-name>b4809</object-name>
+  <object-name>b4811</object-name>
+  <object-name>b4814</object-name>
+  <object-name>b4817</object-name>
+  <object-name>b4821</object-name>
+  <object-name>b4822</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/roof</max-property>
-  <object-name>b4657-roof</object-name>
-  <object-name>b4665-roof</object-name>
+  <object-name>b4668-roof</object-name>
   <object-name>b4671-roof</object-name>
-  <object-name>b4675-roof</object-name>
-  <object-name>b4680-roof</object-name>
-  <object-name>b4681-roof</object-name>
-  <object-name>b4688-roof</object-name>
-  <object-name>b4689-roof</object-name>
-  <object-name>b4692-roof</object-name>
-  <object-name>b4693-roof</object-name>
-  <object-name>b4695-roof</object-name>
-  <object-name>b4700-roof</object-name>
-  <object-name>b4701-roof</object-name>
-  <object-name>b4703-roof</object-name>
-  <object-name>b4705-roof</object-name>
+  <object-name>b4674-roof</object-name>
+  <object-name>b4677-roof</object-name>
+  <object-name>b4686-roof</object-name>
+  <object-name>b4691-roof</object-name>
+  <object-name>b4696-roof</object-name>
+  <object-name>b4706-roof</object-name>
   <object-name>b4707-roof</object-name>
-  <object-name>b4709-roof</object-name>
-  <object-name>b4716-roof</object-name>
+  <object-name>b4708-roof</object-name>
   <object-name>b4717-roof</object-name>
-  <object-name>b4719-roof</object-name>
-  <object-name>b4720-roof</object-name>
+  <object-name>b4718-roof</object-name>
   <object-name>b4721-roof</object-name>
-  <object-name>b4722-roof</object-name>
-  <object-name>b4723-roof</object-name>
   <object-name>b4724-roof</object-name>
   <object-name>b4725-roof</object-name>
   <object-name>b4726-roof</object-name>
-  <object-name>b4727-roof</object-name>
+  <object-name>b4737-roof</object-name>
+  <object-name>b4739-roof</object-name>
+  <object-name>b4740-roof</object-name>
+  <object-name>b4741-roof</object-name>
+  <object-name>b4742-roof</object-name>
   <object-name>b4743-roof</object-name>
-  <object-name>b4748-roof</object-name>
-  <object-name>b4749-roof</object-name>
-  <object-name>b4750-roof</object-name>
-  <object-name>b4753-roof</object-name>
-  <object-name>b4755-roof</object-name>
-  <object-name>b4758-roof</object-name>
-  <object-name>b4759-roof</object-name>
-  <object-name>b4760-roof</object-name>
-  <object-name>b4761-roof</object-name>
-  <object-name>b4762-roof</object-name>
-  <object-name>b4763-roof</object-name>
-  <object-name>b4764-roof</object-name>
-  <object-name>b4766-roof</object-name>
-  <object-name>b4769-roof</object-name>
-  <object-name>b4770-roof</object-name>
+  <object-name>b4744-roof</object-name>
+  <object-name>b4745-roof</object-name>
+  <object-name>b4746-roof</object-name>
+  <object-name>b4747-roof</object-name>
+  <object-name>b4767-roof</object-name>
+  <object-name>b4772-roof</object-name>
+  <object-name>b4773-roof</object-name>
   <object-name>b4774-roof</object-name>
-  <object-name>b4775-roof</object-name>
-  <object-name>b4776-roof</object-name>
   <object-name>b4778-roof</object-name>
+  <object-name>b4779-roof</object-name>
+  <object-name>b4780-roof</object-name>
   <object-name>b4781-roof</object-name>
   <object-name>b4782-roof</object-name>
   <object-name>b4783-roof</object-name>
   <object-name>b4784-roof</object-name>
+  <object-name>b4785-roof</object-name>
+  <object-name>b4786-roof</object-name>
   <object-name>b4787-roof</object-name>
   <object-name>b4788-roof</object-name>
+  <object-name>b4789-roof</object-name>
+  <object-name>b4793-roof</object-name>
+  <object-name>b4795-roof</object-name>
+  <object-name>b4796-roof</object-name>
+  <object-name>b4797-roof</object-name>
+  <object-name>b4798-roof</object-name>
+  <object-name>b4799-roof</object-name>
+  <object-name>b4801-roof</object-name>
+  <object-name>b4802-roof</object-name>
+  <object-name>b4804-roof</object-name>
+  <object-name>b4806-roof</object-name>
+  <object-name>b4807-roof</object-name>
+  <object-name>b4808-roof</object-name>
+  <object-name>b4809-roof</object-name>
+  <object-name>b4813-roof</object-name>
+  <object-name>b4814-roof</object-name>
+  <object-name>b4816-roof</object-name>
+  <object-name>b4820-roof</object-name>
+  <object-name>b4821-roof</object-name>
+  <object-name>b4822-roof</object-name>
+  <object-name>b4823-roof</object-name>
+  <object-name>b4824-roof</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-property>/sim/rendering/static-lod/roof</min-property>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b4657-flat</object-name>
-  <object-name>b4665-flat</object-name>
+  <object-name>b4668-flat</object-name>
   <object-name>b4671-flat</object-name>
-  <object-name>b4675-flat</object-name>
-  <object-name>b4680-flat</object-name>
-  <object-name>b4681-flat</object-name>
-  <object-name>b4688-flat</object-name>
-  <object-name>b4689-flat</object-name>
-  <object-name>b4692-flat</object-name>
-  <object-name>b4693-flat</object-name>
-  <object-name>b4695-flat</object-name>
-  <object-name>b4700-flat</object-name>
-  <object-name>b4701-flat</object-name>
-  <object-name>b4703-flat</object-name>
-  <object-name>b4705-flat</object-name>
+  <object-name>b4674-flat</object-name>
+  <object-name>b4677-flat</object-name>
+  <object-name>b4686-flat</object-name>
+  <object-name>b4691-flat</object-name>
+  <object-name>b4696-flat</object-name>
+  <object-name>b4706-flat</object-name>
   <object-name>b4707-flat</object-name>
-  <object-name>b4709-flat</object-name>
-  <object-name>b4716-flat</object-name>
+  <object-name>b4708-flat</object-name>
   <object-name>b4717-flat</object-name>
-  <object-name>b4719-flat</object-name>
-  <object-name>b4720-flat</object-name>
+  <object-name>b4718-flat</object-name>
   <object-name>b4721-flat</object-name>
-  <object-name>b4722-flat</object-name>
-  <object-name>b4723-flat</object-name>
   <object-name>b4724-flat</object-name>
   <object-name>b4725-flat</object-name>
   <object-name>b4726-flat</object-name>
-  <object-name>b4727-flat</object-name>
+  <object-name>b4737-flat</object-name>
+  <object-name>b4739-flat</object-name>
+  <object-name>b4740-flat</object-name>
+  <object-name>b4741-flat</object-name>
+  <object-name>b4742-flat</object-name>
   <object-name>b4743-flat</object-name>
-  <object-name>b4748-flat</object-name>
-  <object-name>b4749-flat</object-name>
-  <object-name>b4750-flat</object-name>
-  <object-name>b4753-flat</object-name>
-  <object-name>b4755-flat</object-name>
-  <object-name>b4758-flat</object-name>
-  <object-name>b4759-flat</object-name>
-  <object-name>b4760-flat</object-name>
-  <object-name>b4761-flat</object-name>
-  <object-name>b4762-flat</object-name>
-  <object-name>b4763-flat</object-name>
-  <object-name>b4764-flat</object-name>
-  <object-name>b4766-flat</object-name>
-  <object-name>b4769-flat</object-name>
-  <object-name>b4770-flat</object-name>
+  <object-name>b4744-flat</object-name>
+  <object-name>b4745-flat</object-name>
+  <object-name>b4746-flat</object-name>
+  <object-name>b4747-flat</object-name>
+  <object-name>b4767-flat</object-name>
+  <object-name>b4772-flat</object-name>
+  <object-name>b4773-flat</object-name>
   <object-name>b4774-flat</object-name>
-  <object-name>b4775-flat</object-name>
-  <object-name>b4776-flat</object-name>
   <object-name>b4778-flat</object-name>
+  <object-name>b4779-flat</object-name>
+  <object-name>b4780-flat</object-name>
   <object-name>b4781-flat</object-name>
   <object-name>b4782-flat</object-name>
   <object-name>b4783-flat</object-name>
   <object-name>b4784-flat</object-name>
+  <object-name>b4785-flat</object-name>
+  <object-name>b4786-flat</object-name>
   <object-name>b4787-flat</object-name>
   <object-name>b4788-flat</object-name>
+  <object-name>b4789-flat</object-name>
+  <object-name>b4793-flat</object-name>
+  <object-name>b4795-flat</object-name>
+  <object-name>b4796-flat</object-name>
+  <object-name>b4797-flat</object-name>
+  <object-name>b4798-flat</object-name>
+  <object-name>b4799-flat</object-name>
+  <object-name>b4801-flat</object-name>
+  <object-name>b4802-flat</object-name>
+  <object-name>b4804-flat</object-name>
+  <object-name>b4806-flat</object-name>
+  <object-name>b4807-flat</object-name>
+  <object-name>b4808-flat</object-name>
+  <object-name>b4809-flat</object-name>
+  <object-name>b4813-flat</object-name>
+  <object-name>b4814-flat</object-name>
+  <object-name>b4816-flat</object-name>
+  <object-name>b4820-flat</object-name>
+  <object-name>b4821-flat</object-name>
+  <object-name>b4822-flat</object-name>
+  <object-name>b4823-flat</object-name>
+  <object-name>b4824-flat</object-name>
 </animation>
 
 </PropertyList>

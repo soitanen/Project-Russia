@@ -11,24 +11,10 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b886</object-name>
-  <object-name>b890</object-name>
-  <object-name>b894</object-name>
-  <object-name>b896</object-name>
-</effect>
-
-<effect>
-  <inherits-from>cityLM</inherits-from>
-  <parameters>
-    <lightmap-enabled type="int">1</lightmap-enabled>
-    <texture n="3">
-      <image>tex/DSCF9495_pow2_LM.png</image>
-      <wrap-s>repeat</wrap-s>
-      <wrap-t>repeat</wrap-t>
-    </texture>
-  </parameters>
-  <object-name>b882</object-name>
-  <object-name>b891</object-name>
+  <object-name>b866</object-name>
+  <object-name>b867</object-name>
+  <object-name>b874</object-name>
+  <object-name>b876</object-name>
 </effect>
 
 <effect>
@@ -41,9 +27,22 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b881</object-name>
-  <object-name>b884</object-name>
-  <object-name>b892</object-name>
+  <object-name>b868</object-name>
+  <object-name>b872</object-name>
+  <object-name>b873</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9678_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b865</object-name>
 </effect>
 
 <effect>
@@ -56,9 +55,8 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b887</object-name>
-  <object-name>b893</object-name>
-  <object-name>b895</object-name>
+  <object-name>b871</object-name>
+  <object-name>b875</object-name>
 </effect>
 
 <effect>
@@ -71,69 +69,59 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b885</object-name>
-  <object-name>b889</object-name>
+  <object-name>b869</object-name>
 </effect>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b880</object-name>
-  <object-name>b881</object-name>
-  <object-name>b882</object-name>
-  <object-name>b883</object-name>
-  <object-name>b884</object-name>
-  <object-name>b885</object-name>
-  <object-name>b887</object-name>
-  <object-name>b892</object-name>
+  <object-name>b865</object-name>
+  <object-name>b866</object-name>
+  <object-name>b868</object-name>
+  <object-name>b869</object-name>
+  <object-name>b870</object-name>
+  <object-name>b872</object-name>
+  <object-name>b874</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/detailed</max-property>
-  <object-name>b886</object-name>
-  <object-name>b888</object-name>
-  <object-name>b889</object-name>
-  <object-name>b890</object-name>
-  <object-name>b891</object-name>
-  <object-name>b893</object-name>
-  <object-name>b894</object-name>
-  <object-name>b895</object-name>
-  <object-name>b896</object-name>
+  <object-name>b867</object-name>
+  <object-name>b871</object-name>
+  <object-name>b873</object-name>
+  <object-name>b875</object-name>
+  <object-name>b876</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/roof</max-property>
-  <object-name>b886-roof</object-name>
-  <object-name>b887-roof</object-name>
-  <object-name>b889-roof</object-name>
-  <object-name>b890-roof</object-name>
-  <object-name>b891-roof</object-name>
-  <object-name>b892-roof</object-name>
-  <object-name>b893-roof</object-name>
-  <object-name>b894-roof</object-name>
-  <object-name>b895-roof</object-name>
-  <object-name>b896-roof</object-name>
+  <object-name>b866-roof</object-name>
+  <object-name>b867-roof</object-name>
+  <object-name>b868-roof</object-name>
+  <object-name>b872-roof</object-name>
+  <object-name>b873-roof</object-name>
+  <object-name>b874-roof</object-name>
+  <object-name>b875-roof</object-name>
+  <object-name>b876-roof</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-property>/sim/rendering/static-lod/roof</min-property>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b886-flat</object-name>
-  <object-name>b887-flat</object-name>
-  <object-name>b889-flat</object-name>
-  <object-name>b890-flat</object-name>
-  <object-name>b891-flat</object-name>
-  <object-name>b892-flat</object-name>
-  <object-name>b893-flat</object-name>
-  <object-name>b894-flat</object-name>
-  <object-name>b895-flat</object-name>
-  <object-name>b896-flat</object-name>
+  <object-name>b866-flat</object-name>
+  <object-name>b867-flat</object-name>
+  <object-name>b868-flat</object-name>
+  <object-name>b872-flat</object-name>
+  <object-name>b873-flat</object-name>
+  <object-name>b874-flat</object-name>
+  <object-name>b875-flat</object-name>
+  <object-name>b876-flat</object-name>
 </animation>
 
 </PropertyList>

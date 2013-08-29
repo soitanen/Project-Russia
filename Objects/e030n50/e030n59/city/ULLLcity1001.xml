@@ -6,96 +6,78 @@
   <parameters>
     <lightmap-enabled type="int">1</lightmap-enabled>
     <texture n="3">
-      <image>tex/DSCF9503_noroofsec_pow2_LM.png</image>
-      <wrap-s>repeat</wrap-s>
-      <wrap-t>repeat</wrap-t>
-    </texture>
-  </parameters>
-  <object-name>b27153</object-name>
-  <object-name>b27156</object-name>
-</effect>
-
-<effect>
-  <inherits-from>cityLM</inherits-from>
-  <parameters>
-    <lightmap-enabled type="int">1</lightmap-enabled>
-    <texture n="3">
-      <image>tex/DSCF9495_pow2_LM.png</image>
-      <wrap-s>repeat</wrap-s>
-      <wrap-t>repeat</wrap-t>
-    </texture>
-  </parameters>
-  <object-name>b27151</object-name>
-</effect>
-
-<effect>
-  <inherits-from>cityLM</inherits-from>
-  <parameters>
-    <lightmap-enabled type="int">1</lightmap-enabled>
-    <texture n="3">
-      <image>tex/DSCF9710_LM.png</image>
-      <wrap-s>repeat</wrap-s>
-      <wrap-t>repeat</wrap-t>
-    </texture>
-  </parameters>
-  <object-name>b27152</object-name>
-  <object-name>b27154</object-name>
-  <object-name>b27155</object-name>
-</effect>
-
-<effect>
-  <inherits-from>cityLM</inherits-from>
-  <parameters>
-    <lightmap-enabled type="int">1</lightmap-enabled>
-    <texture n="3">
       <image>tex/LZ_old_bright_bc2_LM.png</image>
       <wrap-s>repeat</wrap-s>
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b27150</object-name>
+  <object-name>b27206</object-name>
+  <object-name>b27211</object-name>
+  <object-name>b27212</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9503_noroofsec_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b27208</object-name>
+  <object-name>b27210</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9678_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b27209</object-name>
 </effect>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b27149</object-name>
-  <object-name>b27150</object-name>
-  <object-name>b27154</object-name>
-  <object-name>b27156</object-name>
+  <object-name>b27207</object-name>
+  <object-name>b27209</object-name>
+  <object-name>b27212</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/detailed</max-property>
-  <object-name>b27151</object-name>
-  <object-name>b27152</object-name>
-  <object-name>b27153</object-name>
-  <object-name>b27155</object-name>
+  <object-name>b27206</object-name>
+  <object-name>b27208</object-name>
+  <object-name>b27210</object-name>
+  <object-name>b27211</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/roof</max-property>
-  <object-name>b27151-roof</object-name>
-  <object-name>b27152-roof</object-name>
-  <object-name>b27154-roof</object-name>
-  <object-name>b27155-roof</object-name>
-  <object-name>b27156-roof</object-name>
+  <object-name>b27206-roof</object-name>
+  <object-name>b27210-roof</object-name>
+  <object-name>b27211-roof</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-property>/sim/rendering/static-lod/roof</min-property>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b27151-flat</object-name>
-  <object-name>b27152-flat</object-name>
-  <object-name>b27154-flat</object-name>
-  <object-name>b27155-flat</object-name>
-  <object-name>b27156-flat</object-name>
+  <object-name>b27206-flat</object-name>
+  <object-name>b27210-flat</object-name>
+  <object-name>b27211-flat</object-name>
 </animation>
 
 </PropertyList>

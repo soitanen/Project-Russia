@@ -6,12 +6,12 @@
   <parameters>
     <lightmap-enabled type="int">1</lightmap-enabled>
     <texture n="3">
-      <image>tex/DSCF9710_LM.png</image>
+      <image>tex/DSCF9495_pow2_LM.png</image>
       <wrap-s>repeat</wrap-s>
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b36629</object-name>
+  <object-name>b36613</object-name>
 </effect>
 
 <effect>
@@ -24,7 +24,22 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b36632</object-name>
+  <object-name>b36608</object-name>
+  <object-name>b36611</object-name>
+  <object-name>b36614</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9710_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b36612</object-name>
 </effect>
 
 <effect>
@@ -37,48 +52,20 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b36630</object-name>
-  <object-name>b36634</object-name>
-</effect>
-
-<effect>
-  <inherits-from>cityLM</inherits-from>
-  <parameters>
-    <lightmap-enabled type="int">1</lightmap-enabled>
-    <texture n="3">
-      <image>tex/DSCF9495_pow2_LM.png</image>
-      <wrap-s>repeat</wrap-s>
-      <wrap-t>repeat</wrap-t>
-    </texture>
-  </parameters>
-  <object-name>b36635</object-name>
-</effect>
-
-<effect>
-  <inherits-from>cityLM</inherits-from>
-  <parameters>
-    <lightmap-enabled type="int">1</lightmap-enabled>
-    <texture n="3">
-      <image>tex/LZ_old_bright_bc2_LM.png</image>
-      <wrap-s>repeat</wrap-s>
-      <wrap-t>repeat</wrap-t>
-    </texture>
-  </parameters>
-  <object-name>b36631</object-name>
-  <object-name>b36633</object-name>
+  <object-name>b36610</object-name>
 </effect>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b36629</object-name>
-  <object-name>b36630</object-name>
-  <object-name>b36631</object-name>
-  <object-name>b36632</object-name>
-  <object-name>b36633</object-name>
-  <object-name>b36634</object-name>
-  <object-name>b36635</object-name>
+  <object-name>b36608</object-name>
+  <object-name>b36609</object-name>
+  <object-name>b36610</object-name>
+  <object-name>b36611</object-name>
+  <object-name>b36612</object-name>
+  <object-name>b36613</object-name>
+  <object-name>b36614</object-name>
 </animation>
 
 <animation>
@@ -91,18 +78,18 @@
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/roof</max-property>
-  <object-name>b36629-roof</object-name>
-  <object-name>b36632-roof</object-name>
-  <object-name>b36633-roof</object-name>
+  <object-name>b36608-roof</object-name>
+  <object-name>b36610-roof</object-name>
+  <object-name>b36612-roof</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-property>/sim/rendering/static-lod/roof</min-property>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b36629-flat</object-name>
-  <object-name>b36632-flat</object-name>
-  <object-name>b36633-flat</object-name>
+  <object-name>b36608-flat</object-name>
+  <object-name>b36610-flat</object-name>
+  <object-name>b36612-flat</object-name>
 </animation>
 
 </PropertyList>

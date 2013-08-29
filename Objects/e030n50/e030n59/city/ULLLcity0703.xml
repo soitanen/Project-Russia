@@ -11,14 +11,11 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b7899</object-name>
-  <object-name>b7905</object-name>
-  <object-name>b7909</object-name>
-  <object-name>b7918</object-name>
-  <object-name>b7920</object-name>
+  <object-name>b7908</object-name>
+  <object-name>b7915</object-name>
   <object-name>b7923</object-name>
-  <object-name>b7926</object-name>
-  <object-name>b7928</object-name>
+  <object-name>b7927</object-name>
+  <object-name>b7929</object-name>
 </effect>
 
 <effect>
@@ -31,14 +28,13 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b7903</object-name>
-  <object-name>b7907</object-name>
-  <object-name>b7910</object-name>
-  <object-name>b7929</object-name>
-  <object-name>b7935</object-name>
-  <object-name>b7937</object-name>
-  <object-name>b7940</object-name>
-  <object-name>b7941</object-name>
+  <object-name>b7913</object-name>
+  <object-name>b7916</object-name>
+  <object-name>b7917</object-name>
+  <object-name>b7921</object-name>
+  <object-name>b7930</object-name>
+  <object-name>b7933</object-name>
+  <object-name>b7936</object-name>
 </effect>
 
 <effect>
@@ -51,14 +47,12 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b7902</object-name>
-  <object-name>b7906</object-name>
-  <object-name>b7911</object-name>
+  <object-name>b7909</object-name>
+  <object-name>b7920</object-name>
+  <object-name>b7922</object-name>
+  <object-name>b7931</object-name>
   <object-name>b7934</object-name>
-  <object-name>b7936</object-name>
-  <object-name>b7938</object-name>
-  <object-name>b7939</object-name>
-  <object-name>b7945</object-name>
+  <object-name>b7935</object-name>
 </effect>
 
 <effect>
@@ -71,11 +65,7 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b7900</object-name>
-  <object-name>b7901</object-name>
-  <object-name>b7921</object-name>
-  <object-name>b7933</object-name>
-  <object-name>b7943</object-name>
+  <object-name>b7904</object-name>
 </effect>
 
 <effect>
@@ -88,12 +78,14 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b7898</object-name>
-  <object-name>b7913</object-name>
-  <object-name>b7917</object-name>
-  <object-name>b7922</object-name>
+  <object-name>b7901</object-name>
+  <object-name>b7902</object-name>
+  <object-name>b7903</object-name>
+  <object-name>b7905</object-name>
+  <object-name>b7906</object-name>
+  <object-name>b7912</object-name>
   <object-name>b7925</object-name>
-  <object-name>b7942</object-name>
+  <object-name>b7926</object-name>
 </effect>
 
 <effect>
@@ -106,26 +98,26 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b7904</object-name>
-  <object-name>b7912</object-name>
+  <object-name>b7900</object-name>
+  <object-name>b7907</object-name>
+  <object-name>b7911</object-name>
   <object-name>b7914</object-name>
-  <object-name>b7915</object-name>
+  <object-name>b7919</object-name>
   <object-name>b7924</object-name>
-  <object-name>b7931</object-name>
-  <object-name>b7946</object-name>
+  <object-name>b7928</object-name>
+  <object-name>b7932</object-name>
 </effect>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b7897</object-name>
   <object-name>b7901</object-name>
+  <object-name>b7902</object-name>
   <object-name>b7903</object-name>
   <object-name>b7904</object-name>
   <object-name>b7905</object-name>
-  <object-name>b7906</object-name>
-  <object-name>b7912</object-name>
+  <object-name>b7907</object-name>
   <object-name>b7914</object-name>
   <object-name>b7915</object-name>
   <object-name>b7916</object-name>
@@ -145,94 +137,72 @@
   <object-name>b7933</object-name>
   <object-name>b7934</object-name>
   <object-name>b7935</object-name>
-  <object-name>b7936</object-name>
-  <object-name>b7937</object-name>
-  <object-name>b7938</object-name>
-  <object-name>b7939</object-name>
-  <object-name>b7943</object-name>
-  <object-name>b7944</object-name>
-  <object-name>b7945</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/detailed</max-property>
-  <object-name>b7898</object-name>
-  <object-name>b7899</object-name>
   <object-name>b7900</object-name>
-  <object-name>b7902</object-name>
-  <object-name>b7907</object-name>
+  <object-name>b7906</object-name>
   <object-name>b7908</object-name>
   <object-name>b7909</object-name>
   <object-name>b7910</object-name>
   <object-name>b7911</object-name>
+  <object-name>b7912</object-name>
   <object-name>b7913</object-name>
   <object-name>b7918</object-name>
   <object-name>b7923</object-name>
   <object-name>b7924</object-name>
-  <object-name>b7940</object-name>
-  <object-name>b7941</object-name>
-  <object-name>b7942</object-name>
-  <object-name>b7946</object-name>
+  <object-name>b7936</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/roof</max-property>
-  <object-name>b7898-roof</object-name>
-  <object-name>b7902-roof</object-name>
-  <object-name>b7907-roof</object-name>
+  <object-name>b7903-roof</object-name>
+  <object-name>b7906-roof</object-name>
   <object-name>b7908-roof</object-name>
-  <object-name>b7910-roof</object-name>
+  <object-name>b7909-roof</object-name>
   <object-name>b7911-roof</object-name>
+  <object-name>b7912-roof</object-name>
   <object-name>b7913-roof</object-name>
   <object-name>b7914-roof</object-name>
-  <object-name>b7917-roof</object-name>
   <object-name>b7918-roof</object-name>
-  <object-name>b7920-roof</object-name>
-  <object-name>b7922-roof</object-name>
+  <object-name>b7919-roof</object-name>
+  <object-name>b7921-roof</object-name>
   <object-name>b7923-roof</object-name>
-  <object-name>b7924-roof</object-name>
+  <object-name>b7927-roof</object-name>
   <object-name>b7929-roof</object-name>
   <object-name>b7931-roof</object-name>
-  <object-name>b7934-roof</object-name>
+  <object-name>b7932-roof</object-name>
+  <object-name>b7935-roof</object-name>
   <object-name>b7936-roof</object-name>
-  <object-name>b7938-roof</object-name>
-  <object-name>b7940-roof</object-name>
-  <object-name>b7941-roof</object-name>
-  <object-name>b7942-roof</object-name>
-  <object-name>b7946-roof</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-property>/sim/rendering/static-lod/roof</min-property>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b7898-flat</object-name>
-  <object-name>b7902-flat</object-name>
-  <object-name>b7907-flat</object-name>
+  <object-name>b7903-flat</object-name>
+  <object-name>b7906-flat</object-name>
   <object-name>b7908-flat</object-name>
-  <object-name>b7910-flat</object-name>
+  <object-name>b7909-flat</object-name>
   <object-name>b7911-flat</object-name>
+  <object-name>b7912-flat</object-name>
   <object-name>b7913-flat</object-name>
   <object-name>b7914-flat</object-name>
-  <object-name>b7917-flat</object-name>
   <object-name>b7918-flat</object-name>
-  <object-name>b7920-flat</object-name>
-  <object-name>b7922-flat</object-name>
+  <object-name>b7919-flat</object-name>
+  <object-name>b7921-flat</object-name>
   <object-name>b7923-flat</object-name>
-  <object-name>b7924-flat</object-name>
+  <object-name>b7927-flat</object-name>
   <object-name>b7929-flat</object-name>
   <object-name>b7931-flat</object-name>
-  <object-name>b7934-flat</object-name>
+  <object-name>b7932-flat</object-name>
+  <object-name>b7935-flat</object-name>
   <object-name>b7936-flat</object-name>
-  <object-name>b7938-flat</object-name>
-  <object-name>b7940-flat</object-name>
-  <object-name>b7941-flat</object-name>
-  <object-name>b7942-flat</object-name>
-  <object-name>b7946-flat</object-name>
 </animation>
 
 </PropertyList>

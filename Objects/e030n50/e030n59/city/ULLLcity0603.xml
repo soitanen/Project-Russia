@@ -11,34 +11,7 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b5237</object-name>
-  <object-name>b5243</object-name>
-</effect>
-
-<effect>
-  <inherits-from>cityLM</inherits-from>
-  <parameters>
-    <lightmap-enabled type="int">1</lightmap-enabled>
-    <texture n="3">
-      <image>tex/DSCF9495_pow2_LM.png</image>
-      <wrap-s>repeat</wrap-s>
-      <wrap-t>repeat</wrap-t>
-    </texture>
-  </parameters>
-  <object-name>b5242</object-name>
-</effect>
-
-<effect>
-  <inherits-from>cityLM</inherits-from>
-  <parameters>
-    <lightmap-enabled type="int">1</lightmap-enabled>
-    <texture n="3">
-      <image>tex/LZ_old_bright_bc2_LM.png</image>
-      <wrap-s>repeat</wrap-s>
-      <wrap-t>repeat</wrap-t>
-    </texture>
-  </parameters>
-  <object-name>b5235</object-name>
+  <object-name>b5259</object-name>
 </effect>
 
 <effect>
@@ -51,21 +24,8 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b5236</object-name>
-  <object-name>b5245</object-name>
-</effect>
-
-<effect>
-  <inherits-from>cityLM</inherits-from>
-  <parameters>
-    <lightmap-enabled type="int">1</lightmap-enabled>
-    <texture n="3">
-      <image>tex/DSCF9710_LM.png</image>
-      <wrap-s>repeat</wrap-s>
-      <wrap-t>repeat</wrap-t>
-    </texture>
-  </parameters>
-  <object-name>b5246</object-name>
+  <object-name>b5257</object-name>
+  <object-name>b5263</object-name>
 </effect>
 
 <effect>
@@ -78,7 +38,25 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b5238</object-name>
+  <object-name>b5260</object-name>
+  <object-name>b5261</object-name>
+  <object-name>b5262</object-name>
+  <object-name>b5264</object-name>
+  <object-name>b5266</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9710_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b5255</object-name>
+  <object-name>b5270</object-name>
 </effect>
 
 <effect>
@@ -91,55 +69,60 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b5234</object-name>
-  <object-name>b5244</object-name>
+  <object-name>b5256</object-name>
+  <object-name>b5258</object-name>
+  <object-name>b5267</object-name>
+  <object-name>b5268</object-name>
 </effect>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b5236</object-name>
-  <object-name>b5237</object-name>
-  <object-name>b5238</object-name>
-  <object-name>b5239</object-name>
-  <object-name>b5240</object-name>
-  <object-name>b5241</object-name>
-  <object-name>b5242</object-name>
-  <object-name>b5244</object-name>
-  <object-name>b5245</object-name>
+  <object-name>b5256</object-name>
+  <object-name>b5258</object-name>
+  <object-name>b5259</object-name>
+  <object-name>b5260</object-name>
+  <object-name>b5261</object-name>
+  <object-name>b5262</object-name>
+  <object-name>b5263</object-name>
+  <object-name>b5264</object-name>
+  <object-name>b5265</object-name>
+  <object-name>b5266</object-name>
+  <object-name>b5267</object-name>
+  <object-name>b5268</object-name>
+  <object-name>b5269</object-name>
+  <object-name>b5270</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/detailed</max-property>
-  <object-name>b5234</object-name>
-  <object-name>b5235</object-name>
-  <object-name>b5243</object-name>
-  <object-name>b5246</object-name>
+  <object-name>b5255</object-name>
+  <object-name>b5257</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/roof</max-property>
-  <object-name>b5234-roof</object-name>
-  <object-name>b5237-roof</object-name>
-  <object-name>b5242-roof</object-name>
-  <object-name>b5243-roof</object-name>
-  <object-name>b5246-roof</object-name>
+  <object-name>b5255-roof</object-name>
+  <object-name>b5256-roof</object-name>
+  <object-name>b5259-roof</object-name>
+  <object-name>b5267-roof</object-name>
+  <object-name>b5268-roof</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-property>/sim/rendering/static-lod/roof</min-property>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b5234-flat</object-name>
-  <object-name>b5237-flat</object-name>
-  <object-name>b5242-flat</object-name>
-  <object-name>b5243-flat</object-name>
-  <object-name>b5246-flat</object-name>
+  <object-name>b5255-flat</object-name>
+  <object-name>b5256-flat</object-name>
+  <object-name>b5259-flat</object-name>
+  <object-name>b5267-flat</object-name>
+  <object-name>b5268-flat</object-name>
 </animation>
 
 </PropertyList>

@@ -11,21 +11,22 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b2060</object-name>
-  <object-name>b2066</object-name>
-  <object-name>b2067</object-name>
-  <object-name>b2074</object-name>
-  <object-name>b2076</object-name>
-  <object-name>b2077</object-name>
+  <object-name>b2082</object-name>
   <object-name>b2083</object-name>
-  <object-name>b2098</object-name>
-  <object-name>b2103</object-name>
-  <object-name>b2120</object-name>
-  <object-name>b2132</object-name>
-  <object-name>b2140</object-name>
-  <object-name>b2142</object-name>
+  <object-name>b2094</object-name>
+  <object-name>b2096</object-name>
+  <object-name>b2104</object-name>
+  <object-name>b2109</object-name>
+  <object-name>b2112</object-name>
+  <object-name>b2129</object-name>
   <object-name>b2143</object-name>
-  <object-name>b2149</object-name>
+  <object-name>b2146</object-name>
+  <object-name>b2153</object-name>
+  <object-name>b2157</object-name>
+  <object-name>b2163</object-name>
+  <object-name>b2168</object-name>
+  <object-name>b2170</object-name>
+  <object-name>b2178</object-name>
 </effect>
 
 <effect>
@@ -38,25 +39,23 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b2051</object-name>
-  <object-name>b2053</object-name>
-  <object-name>b2054</object-name>
-  <object-name>b2055</object-name>
-  <object-name>b2065</object-name>
-  <object-name>b2068</object-name>
-  <object-name>b2070</object-name>
-  <object-name>b2071</object-name>
-  <object-name>b2080</object-name>
-  <object-name>b2086</object-name>
+  <object-name>b2081</object-name>
+  <object-name>b2084</object-name>
+  <object-name>b2088</object-name>
   <object-name>b2091</object-name>
-  <object-name>b2092</object-name>
-  <object-name>b2094</object-name>
-  <object-name>b2096</object-name>
-  <object-name>b2112</object-name>
+  <object-name>b2100</object-name>
+  <object-name>b2103</object-name>
+  <object-name>b2115</object-name>
   <object-name>b2118</object-name>
+  <object-name>b2126</object-name>
+  <object-name>b2132</object-name>
   <object-name>b2144</object-name>
-  <object-name>b2145</object-name>
-  <object-name>b2147</object-name>
+  <object-name>b2148</object-name>
+  <object-name>b2154</object-name>
+  <object-name>b2155</object-name>
+  <object-name>b2156</object-name>
+  <object-name>b2169</object-name>
+  <object-name>b2174</object-name>
 </effect>
 
 <effect>
@@ -69,24 +68,25 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b2052</object-name>
-  <object-name>b2088</object-name>
-  <object-name>b2093</object-name>
-  <object-name>b2095</object-name>
-  <object-name>b2100</object-name>
-  <object-name>b2101</object-name>
-  <object-name>b2106</object-name>
+  <object-name>b2077</object-name>
+  <object-name>b2078</object-name>
+  <object-name>b2085</object-name>
+  <object-name>b2090</object-name>
+  <object-name>b2114</object-name>
   <object-name>b2119</object-name>
-  <object-name>b2121</object-name>
-  <object-name>b2124</object-name>
-  <object-name>b2126</object-name>
-  <object-name>b2127</object-name>
+  <object-name>b2122</object-name>
+  <object-name>b2125</object-name>
   <object-name>b2128</object-name>
-  <object-name>b2131</object-name>
   <object-name>b2133</object-name>
-  <object-name>b2139</object-name>
-  <object-name>b2148</object-name>
-  <object-name>b2154</object-name>
+  <object-name>b2138</object-name>
+  <object-name>b2141</object-name>
+  <object-name>b2145</object-name>
+  <object-name>b2147</object-name>
+  <object-name>b2151</object-name>
+  <object-name>b2162</object-name>
+  <object-name>b2164</object-name>
+  <object-name>b2171</object-name>
+  <object-name>b2177</object-name>
 </effect>
 
 <effect>
@@ -99,16 +99,12 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b2062</object-name>
-  <object-name>b2069</object-name>
-  <object-name>b2075</object-name>
-  <object-name>b2079</object-name>
-  <object-name>b2081</object-name>
-  <object-name>b2085</object-name>
-  <object-name>b2117</object-name>
-  <object-name>b2122</object-name>
-  <object-name>b2125</object-name>
-  <object-name>b2146</object-name>
+  <object-name>b2102</object-name>
+  <object-name>b2105</object-name>
+  <object-name>b2131</object-name>
+  <object-name>b2137</object-name>
+  <object-name>b2142</object-name>
+  <object-name>b2160</object-name>
 </effect>
 
 <effect>
@@ -121,7 +117,9 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b2138</object-name>
+  <object-name>b2099</object-name>
+  <object-name>b2159</object-name>
+  <object-name>b2167</object-name>
 </effect>
 
 <effect>
@@ -134,30 +132,19 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b2057</object-name>
-  <object-name>b2058</object-name>
-  <object-name>b2059</object-name>
-  <object-name>b2061</object-name>
-  <object-name>b2073</object-name>
-  <object-name>b2078</object-name>
-  <object-name>b2084</object-name>
-  <object-name>b2089</object-name>
-  <object-name>b2099</object-name>
-  <object-name>b2102</object-name>
-  <object-name>b2104</object-name>
-  <object-name>b2110</object-name>
-  <object-name>b2113</object-name>
-  <object-name>b2115</object-name>
-  <object-name>b2123</object-name>
-  <object-name>b2130</object-name>
+  <object-name>b2080</object-name>
+  <object-name>b2095</object-name>
+  <object-name>b2101</object-name>
+  <object-name>b2117</object-name>
+  <object-name>b2121</object-name>
   <object-name>b2134</object-name>
-  <object-name>b2135</object-name>
-  <object-name>b2136</object-name>
-  <object-name>b2137</object-name>
-  <object-name>b2141</object-name>
-  <object-name>b2150</object-name>
-  <object-name>b2151</object-name>
+  <object-name>b2149</object-name>
   <object-name>b2152</object-name>
+  <object-name>b2158</object-name>
+  <object-name>b2166</object-name>
+  <object-name>b2173</object-name>
+  <object-name>b2175</object-name>
+  <object-name>b2176</object-name>
 </effect>
 
 <effect>
@@ -170,76 +157,60 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b2056</object-name>
-  <object-name>b2063</object-name>
-  <object-name>b2064</object-name>
-  <object-name>b2072</object-name>
-  <object-name>b2082</object-name>
+  <object-name>b2079</object-name>
+  <object-name>b2086</object-name>
   <object-name>b2087</object-name>
+  <object-name>b2092</object-name>
+  <object-name>b2093</object-name>
   <object-name>b2097</object-name>
-  <object-name>b2105</object-name>
-  <object-name>b2109</object-name>
-  <object-name>b2116</object-name>
-  <object-name>b2129</object-name>
+  <object-name>b2098</object-name>
+  <object-name>b2106</object-name>
+  <object-name>b2110</object-name>
+  <object-name>b2111</object-name>
+  <object-name>b2113</object-name>
+  <object-name>b2120</object-name>
+  <object-name>b2123</object-name>
+  <object-name>b2127</object-name>
+  <object-name>b2130</object-name>
+  <object-name>b2135</object-name>
+  <object-name>b2136</object-name>
+  <object-name>b2161</object-name>
 </effect>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b2052</object-name>
-  <object-name>b2053</object-name>
-  <object-name>b2056</object-name>
-  <object-name>b2060</object-name>
-  <object-name>b2061</object-name>
-  <object-name>b2062</object-name>
-  <object-name>b2063</object-name>
-  <object-name>b2064</object-name>
-  <object-name>b2065</object-name>
-  <object-name>b2066</object-name>
-  <object-name>b2067</object-name>
-  <object-name>b2068</object-name>
-  <object-name>b2069</object-name>
-  <object-name>b2070</object-name>
-  <object-name>b2072</object-name>
-  <object-name>b2073</object-name>
-  <object-name>b2074</object-name>
-  <object-name>b2075</object-name>
-  <object-name>b2076</object-name>
-  <object-name>b2077</object-name>
   <object-name>b2078</object-name>
   <object-name>b2079</object-name>
   <object-name>b2080</object-name>
-  <object-name>b2082</object-name>
-  <object-name>b2083</object-name>
-  <object-name>b2085</object-name>
-  <object-name>b2087</object-name>
-  <object-name>b2088</object-name>
-  <object-name>b2090</object-name>
+  <object-name>b2081</object-name>
+  <object-name>b2089</object-name>
+  <object-name>b2091</object-name>
   <object-name>b2092</object-name>
   <object-name>b2093</object-name>
+  <object-name>b2095</object-name>
   <object-name>b2096</object-name>
+  <object-name>b2097</object-name>
+  <object-name>b2098</object-name>
   <object-name>b2099</object-name>
   <object-name>b2100</object-name>
   <object-name>b2101</object-name>
+  <object-name>b2102</object-name>
   <object-name>b2103</object-name>
+  <object-name>b2104</object-name>
+  <object-name>b2105</object-name>
   <object-name>b2106</object-name>
   <object-name>b2107</object-name>
   <object-name>b2108</object-name>
   <object-name>b2109</object-name>
-  <object-name>b2110</object-name>
   <object-name>b2111</object-name>
   <object-name>b2112</object-name>
-  <object-name>b2113</object-name>
-  <object-name>b2114</object-name>
   <object-name>b2115</object-name>
   <object-name>b2116</object-name>
   <object-name>b2117</object-name>
   <object-name>b2118</object-name>
-  <object-name>b2119</object-name>
   <object-name>b2121</object-name>
-  <object-name>b2122</object-name>
-  <object-name>b2123</object-name>
   <object-name>b2124</object-name>
   <object-name>b2125</object-name>
   <object-name>b2126</object-name>
@@ -252,6 +223,7 @@
   <object-name>b2133</object-name>
   <object-name>b2134</object-name>
   <object-name>b2135</object-name>
+  <object-name>b2136</object-name>
   <object-name>b2137</object-name>
   <object-name>b2138</object-name>
   <object-name>b2139</object-name>
@@ -263,136 +235,166 @@
   <object-name>b2145</object-name>
   <object-name>b2146</object-name>
   <object-name>b2147</object-name>
-  <object-name>b2148</object-name>
-  <object-name>b2149</object-name>
+  <object-name>b2151</object-name>
   <object-name>b2152</object-name>
   <object-name>b2153</object-name>
+  <object-name>b2154</object-name>
+  <object-name>b2155</object-name>
+  <object-name>b2157</object-name>
+  <object-name>b2158</object-name>
+  <object-name>b2159</object-name>
+  <object-name>b2160</object-name>
+  <object-name>b2161</object-name>
+  <object-name>b2162</object-name>
+  <object-name>b2163</object-name>
+  <object-name>b2164</object-name>
+  <object-name>b2165</object-name>
+  <object-name>b2166</object-name>
+  <object-name>b2167</object-name>
+  <object-name>b2168</object-name>
+  <object-name>b2169</object-name>
+  <object-name>b2172</object-name>
+  <object-name>b2173</object-name>
+  <object-name>b2174</object-name>
+  <object-name>b2176</object-name>
+  <object-name>b2177</object-name>
+  <object-name>b2178</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/detailed</max-property>
-  <object-name>b2051</object-name>
-  <object-name>b2054</object-name>
-  <object-name>b2055</object-name>
-  <object-name>b2057</object-name>
-  <object-name>b2058</object-name>
-  <object-name>b2059</object-name>
-  <object-name>b2071</object-name>
-  <object-name>b2081</object-name>
+  <object-name>b2077</object-name>
+  <object-name>b2082</object-name>
+  <object-name>b2083</object-name>
   <object-name>b2084</object-name>
+  <object-name>b2085</object-name>
   <object-name>b2086</object-name>
-  <object-name>b2089</object-name>
-  <object-name>b2091</object-name>
+  <object-name>b2087</object-name>
+  <object-name>b2088</object-name>
+  <object-name>b2090</object-name>
   <object-name>b2094</object-name>
-  <object-name>b2095</object-name>
-  <object-name>b2097</object-name>
-  <object-name>b2098</object-name>
-  <object-name>b2102</object-name>
-  <object-name>b2104</object-name>
-  <object-name>b2105</object-name>
+  <object-name>b2110</object-name>
+  <object-name>b2113</object-name>
+  <object-name>b2114</object-name>
+  <object-name>b2119</object-name>
   <object-name>b2120</object-name>
-  <object-name>b2136</object-name>
+  <object-name>b2122</object-name>
+  <object-name>b2123</object-name>
+  <object-name>b2148</object-name>
+  <object-name>b2149</object-name>
   <object-name>b2150</object-name>
-  <object-name>b2151</object-name>
-  <object-name>b2154</object-name>
+  <object-name>b2156</object-name>
+  <object-name>b2170</object-name>
+  <object-name>b2171</object-name>
+  <object-name>b2175</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/roof</max-property>
-  <object-name>b2051-roof</object-name>
-  <object-name>b2053-roof</object-name>
-  <object-name>b2055-roof</object-name>
-  <object-name>b2057-roof</object-name>
-  <object-name>b2058-roof</object-name>
-  <object-name>b2059-roof</object-name>
-  <object-name>b2061-roof</object-name>
-  <object-name>b2063-roof</object-name>
-  <object-name>b2064-roof</object-name>
-  <object-name>b2065-roof</object-name>
-  <object-name>b2070-roof</object-name>
-  <object-name>b2071-roof</object-name>
-  <object-name>b2073-roof</object-name>
+  <object-name>b2077-roof</object-name>
+  <object-name>b2078-roof</object-name>
+  <object-name>b2080-roof</object-name>
+  <object-name>b2081-roof</object-name>
+  <object-name>b2082-roof</object-name>
   <object-name>b2083-roof</object-name>
   <object-name>b2084-roof</object-name>
+  <object-name>b2085-roof</object-name>
   <object-name>b2086-roof</object-name>
+  <object-name>b2087-roof</object-name>
   <object-name>b2088-roof</object-name>
-  <object-name>b2089-roof</object-name>
   <object-name>b2090-roof</object-name>
   <object-name>b2091-roof</object-name>
-  <object-name>b2092-roof</object-name>
   <object-name>b2093-roof</object-name>
   <object-name>b2094-roof</object-name>
   <object-name>b2095-roof</object-name>
   <object-name>b2096-roof</object-name>
-  <object-name>b2097-roof</object-name>
   <object-name>b2098-roof</object-name>
-  <object-name>b2099-roof</object-name>
-  <object-name>b2100-roof</object-name>
-  <object-name>b2101-roof</object-name>
-  <object-name>b2102-roof</object-name>
-  <object-name>b2103-roof</object-name>
   <object-name>b2104-roof</object-name>
-  <object-name>b2105-roof</object-name>
+  <object-name>b2108-roof</object-name>
   <object-name>b2110-roof</object-name>
+  <object-name>b2114-roof</object-name>
+  <object-name>b2115-roof</object-name>
+  <object-name>b2116-roof</object-name>
+  <object-name>b2117-roof</object-name>
   <object-name>b2119-roof</object-name>
   <object-name>b2120-roof</object-name>
-  <object-name>b2136-roof</object-name>
-  <object-name>b2137-roof</object-name>
-  <object-name>b2150-roof</object-name>
+  <object-name>b2121-roof</object-name>
+  <object-name>b2122-roof</object-name>
+  <object-name>b2123-roof</object-name>
+  <object-name>b2125-roof</object-name>
+  <object-name>b2126-roof</object-name>
+  <object-name>b2127-roof</object-name>
+  <object-name>b2148-roof</object-name>
+  <object-name>b2149-roof</object-name>
   <object-name>b2151-roof</object-name>
-  <object-name>b2152-roof</object-name>
+  <object-name>b2153-roof</object-name>
+  <object-name>b2156-roof</object-name>
+  <object-name>b2157-roof</object-name>
+  <object-name>b2158-roof</object-name>
+  <object-name>b2170-roof</object-name>
+  <object-name>b2171-roof</object-name>
+  <object-name>b2173-roof</object-name>
+  <object-name>b2175-roof</object-name>
+  <object-name>b2176-roof</object-name>
+  <object-name>b2177-roof</object-name>
+  <object-name>b2178-roof</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-property>/sim/rendering/static-lod/roof</min-property>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b2051-flat</object-name>
-  <object-name>b2053-flat</object-name>
-  <object-name>b2055-flat</object-name>
-  <object-name>b2057-flat</object-name>
-  <object-name>b2058-flat</object-name>
-  <object-name>b2059-flat</object-name>
-  <object-name>b2061-flat</object-name>
-  <object-name>b2063-flat</object-name>
-  <object-name>b2064-flat</object-name>
-  <object-name>b2065-flat</object-name>
-  <object-name>b2070-flat</object-name>
-  <object-name>b2071-flat</object-name>
-  <object-name>b2073-flat</object-name>
+  <object-name>b2077-flat</object-name>
+  <object-name>b2078-flat</object-name>
+  <object-name>b2080-flat</object-name>
+  <object-name>b2081-flat</object-name>
+  <object-name>b2082-flat</object-name>
   <object-name>b2083-flat</object-name>
   <object-name>b2084-flat</object-name>
+  <object-name>b2085-flat</object-name>
   <object-name>b2086-flat</object-name>
+  <object-name>b2087-flat</object-name>
   <object-name>b2088-flat</object-name>
-  <object-name>b2089-flat</object-name>
   <object-name>b2090-flat</object-name>
   <object-name>b2091-flat</object-name>
-  <object-name>b2092-flat</object-name>
   <object-name>b2093-flat</object-name>
   <object-name>b2094-flat</object-name>
   <object-name>b2095-flat</object-name>
   <object-name>b2096-flat</object-name>
-  <object-name>b2097-flat</object-name>
   <object-name>b2098-flat</object-name>
-  <object-name>b2099-flat</object-name>
-  <object-name>b2100-flat</object-name>
-  <object-name>b2101-flat</object-name>
-  <object-name>b2102-flat</object-name>
-  <object-name>b2103-flat</object-name>
   <object-name>b2104-flat</object-name>
-  <object-name>b2105-flat</object-name>
+  <object-name>b2108-flat</object-name>
   <object-name>b2110-flat</object-name>
+  <object-name>b2114-flat</object-name>
+  <object-name>b2115-flat</object-name>
+  <object-name>b2116-flat</object-name>
+  <object-name>b2117-flat</object-name>
   <object-name>b2119-flat</object-name>
   <object-name>b2120-flat</object-name>
-  <object-name>b2136-flat</object-name>
-  <object-name>b2137-flat</object-name>
-  <object-name>b2150-flat</object-name>
+  <object-name>b2121-flat</object-name>
+  <object-name>b2122-flat</object-name>
+  <object-name>b2123-flat</object-name>
+  <object-name>b2125-flat</object-name>
+  <object-name>b2126-flat</object-name>
+  <object-name>b2127-flat</object-name>
+  <object-name>b2148-flat</object-name>
+  <object-name>b2149-flat</object-name>
   <object-name>b2151-flat</object-name>
-  <object-name>b2152-flat</object-name>
+  <object-name>b2153-flat</object-name>
+  <object-name>b2156-flat</object-name>
+  <object-name>b2157-flat</object-name>
+  <object-name>b2158-flat</object-name>
+  <object-name>b2170-flat</object-name>
+  <object-name>b2171-flat</object-name>
+  <object-name>b2173-flat</object-name>
+  <object-name>b2175-flat</object-name>
+  <object-name>b2176-flat</object-name>
+  <object-name>b2177-flat</object-name>
+  <object-name>b2178-flat</object-name>
 </animation>
 
 </PropertyList>

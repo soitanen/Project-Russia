@@ -11,8 +11,11 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b32759</object-name>
-  <object-name>b32782</object-name>
+  <object-name>b32697</object-name>
+  <object-name>b32709</object-name>
+  <object-name>b32713</object-name>
+  <object-name>b32717</object-name>
+  <object-name>b32722</object-name>
 </effect>
 
 <effect>
@@ -25,16 +28,13 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b32758</object-name>
-  <object-name>b32762</object-name>
-  <object-name>b32763</object-name>
-  <object-name>b32765</object-name>
-  <object-name>b32766</object-name>
-  <object-name>b32768</object-name>
-  <object-name>b32771</object-name>
-  <object-name>b32783</object-name>
-  <object-name>b32788</object-name>
-  <object-name>b32791</object-name>
+  <object-name>b32694</object-name>
+  <object-name>b32696</object-name>
+  <object-name>b32698</object-name>
+  <object-name>b32699</object-name>
+  <object-name>b32705</object-name>
+  <object-name>b32718</object-name>
+  <object-name>b32720</object-name>
 </effect>
 
 <effect>
@@ -47,12 +47,12 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b32760</object-name>
-  <object-name>b32761</object-name>
-  <object-name>b32785</object-name>
-  <object-name>b32786</object-name>
-  <object-name>b32787</object-name>
-  <object-name>b32790</object-name>
+  <object-name>b32706</object-name>
+  <object-name>b32707</object-name>
+  <object-name>b32710</object-name>
+  <object-name>b32711</object-name>
+  <object-name>b32724</object-name>
+  <object-name>b32728</object-name>
 </effect>
 
 <effect>
@@ -65,20 +65,9 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b32756</object-name>
-</effect>
-
-<effect>
-  <inherits-from>cityLM</inherits-from>
-  <parameters>
-    <lightmap-enabled type="int">1</lightmap-enabled>
-    <texture n="3">
-      <image>tex/wohnheime_petersburger_LM.png</image>
-      <wrap-s>repeat</wrap-s>
-      <wrap-t>repeat</wrap-t>
-    </texture>
-  </parameters>
-  <object-name>b32781</object-name>
+  <object-name>b32702</object-name>
+  <object-name>b32703</object-name>
+  <object-name>b32704</object-name>
 </effect>
 
 <effect>
@@ -91,13 +80,14 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b32773</object-name>
-  <object-name>b32774</object-name>
-  <object-name>b32775</object-name>
-  <object-name>b32776</object-name>
-  <object-name>b32777</object-name>
-  <object-name>b32779</object-name>
-  <object-name>b32784</object-name>
+  <object-name>b32695</object-name>
+  <object-name>b32700</object-name>
+  <object-name>b32708</object-name>
+  <object-name>b32714</object-name>
+  <object-name>b32715</object-name>
+  <object-name>b32719</object-name>
+  <object-name>b32723</object-name>
+  <object-name>b32729</object-name>
 </effect>
 
 <effect>
@@ -110,108 +100,106 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b32764</object-name>
-  <object-name>b32767</object-name>
-  <object-name>b32770</object-name>
-  <object-name>b32772</object-name>
-  <object-name>b32780</object-name>
-  <object-name>b32789</object-name>
+  <object-name>b32712</object-name>
+  <object-name>b32716</object-name>
+  <object-name>b32721</object-name>
+  <object-name>b32725</object-name>
+  <object-name>b32726</object-name>
+  <object-name>b32727</object-name>
 </effect>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b32756</object-name>
-  <object-name>b32757</object-name>
-  <object-name>b32758</object-name>
-  <object-name>b32761</object-name>
-  <object-name>b32762</object-name>
-  <object-name>b32763</object-name>
-  <object-name>b32764</object-name>
-  <object-name>b32766</object-name>
-  <object-name>b32767</object-name>
-  <object-name>b32769</object-name>
-  <object-name>b32771</object-name>
-  <object-name>b32776</object-name>
-  <object-name>b32777</object-name>
-  <object-name>b32781</object-name>
-  <object-name>b32782</object-name>
-  <object-name>b32783</object-name>
-  <object-name>b32784</object-name>
-  <object-name>b32785</object-name>
-  <object-name>b32786</object-name>
-  <object-name>b32787</object-name>
-  <object-name>b32788</object-name>
-  <object-name>b32791</object-name>
+  <object-name>b32694</object-name>
+  <object-name>b32695</object-name>
+  <object-name>b32696</object-name>
+  <object-name>b32697</object-name>
+  <object-name>b32698</object-name>
+  <object-name>b32699</object-name>
+  <object-name>b32700</object-name>
+  <object-name>b32701</object-name>
+  <object-name>b32702</object-name>
+  <object-name>b32703</object-name>
+  <object-name>b32704</object-name>
+  <object-name>b32705</object-name>
+  <object-name>b32709</object-name>
+  <object-name>b32710</object-name>
+  <object-name>b32711</object-name>
+  <object-name>b32713</object-name>
+  <object-name>b32721</object-name>
+  <object-name>b32723</object-name>
+  <object-name>b32724</object-name>
+  <object-name>b32725</object-name>
+  <object-name>b32726</object-name>
+  <object-name>b32727</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/detailed</max-property>
-  <object-name>b32759</object-name>
-  <object-name>b32760</object-name>
-  <object-name>b32765</object-name>
-  <object-name>b32768</object-name>
-  <object-name>b32770</object-name>
-  <object-name>b32772</object-name>
-  <object-name>b32773</object-name>
-  <object-name>b32774</object-name>
-  <object-name>b32775</object-name>
-  <object-name>b32778</object-name>
-  <object-name>b32779</object-name>
-  <object-name>b32780</object-name>
-  <object-name>b32789</object-name>
-  <object-name>b32790</object-name>
+  <object-name>b32706</object-name>
+  <object-name>b32707</object-name>
+  <object-name>b32708</object-name>
+  <object-name>b32712</object-name>
+  <object-name>b32714</object-name>
+  <object-name>b32715</object-name>
+  <object-name>b32716</object-name>
+  <object-name>b32717</object-name>
+  <object-name>b32718</object-name>
+  <object-name>b32719</object-name>
+  <object-name>b32720</object-name>
+  <object-name>b32722</object-name>
+  <object-name>b32728</object-name>
+  <object-name>b32729</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/roof</max-property>
-  <object-name>b32758-roof</object-name>
-  <object-name>b32759-roof</object-name>
-  <object-name>b32761-roof</object-name>
-  <object-name>b32763-roof</object-name>
-  <object-name>b32765-roof</object-name>
-  <object-name>b32768-roof</object-name>
-  <object-name>b32770-roof</object-name>
-  <object-name>b32772-roof</object-name>
-  <object-name>b32773-roof</object-name>
-  <object-name>b32774-roof</object-name>
-  <object-name>b32775-roof</object-name>
-  <object-name>b32776-roof</object-name>
-  <object-name>b32777-roof</object-name>
-  <object-name>b32779-roof</object-name>
-  <object-name>b32783-roof</object-name>
-  <object-name>b32786-roof</object-name>
-  <object-name>b32789-roof</object-name>
-  <object-name>b32791-roof</object-name>
+  <object-name>b32695-roof</object-name>
+  <object-name>b32696-roof</object-name>
+  <object-name>b32706-roof</object-name>
+  <object-name>b32707-roof</object-name>
+  <object-name>b32708-roof</object-name>
+  <object-name>b32710-roof</object-name>
+  <object-name>b32714-roof</object-name>
+  <object-name>b32715-roof</object-name>
+  <object-name>b32716-roof</object-name>
+  <object-name>b32717-roof</object-name>
+  <object-name>b32719-roof</object-name>
+  <object-name>b32720-roof</object-name>
+  <object-name>b32722-roof</object-name>
+  <object-name>b32723-roof</object-name>
+  <object-name>b32727-roof</object-name>
+  <object-name>b32728-roof</object-name>
+  <object-name>b32729-roof</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-property>/sim/rendering/static-lod/roof</min-property>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b32758-flat</object-name>
-  <object-name>b32759-flat</object-name>
-  <object-name>b32761-flat</object-name>
-  <object-name>b32763-flat</object-name>
-  <object-name>b32765-flat</object-name>
-  <object-name>b32768-flat</object-name>
-  <object-name>b32770-flat</object-name>
-  <object-name>b32772-flat</object-name>
-  <object-name>b32773-flat</object-name>
-  <object-name>b32774-flat</object-name>
-  <object-name>b32775-flat</object-name>
-  <object-name>b32776-flat</object-name>
-  <object-name>b32777-flat</object-name>
-  <object-name>b32779-flat</object-name>
-  <object-name>b32783-flat</object-name>
-  <object-name>b32786-flat</object-name>
-  <object-name>b32789-flat</object-name>
-  <object-name>b32791-flat</object-name>
+  <object-name>b32695-flat</object-name>
+  <object-name>b32696-flat</object-name>
+  <object-name>b32706-flat</object-name>
+  <object-name>b32707-flat</object-name>
+  <object-name>b32708-flat</object-name>
+  <object-name>b32710-flat</object-name>
+  <object-name>b32714-flat</object-name>
+  <object-name>b32715-flat</object-name>
+  <object-name>b32716-flat</object-name>
+  <object-name>b32717-flat</object-name>
+  <object-name>b32719-flat</object-name>
+  <object-name>b32720-flat</object-name>
+  <object-name>b32722-flat</object-name>
+  <object-name>b32723-flat</object-name>
+  <object-name>b32727-flat</object-name>
+  <object-name>b32728-flat</object-name>
+  <object-name>b32729-flat</object-name>
 </animation>
 
 </PropertyList>

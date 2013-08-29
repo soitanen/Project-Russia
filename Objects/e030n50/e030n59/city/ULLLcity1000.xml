@@ -11,10 +11,7 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b27136</object-name>
-  <object-name>b27141</object-name>
-  <object-name>b27144</object-name>
-  <object-name>b27148</object-name>
+  <object-name>b27201</object-name>
 </effect>
 
 <effect>
@@ -22,27 +19,17 @@
   <parameters>
     <lightmap-enabled type="int">1</lightmap-enabled>
     <texture n="3">
-      <image>tex/LZ_old_bright_bc2_LM.png</image>
+      <image>tex/DSCF9495_pow2_LM.png</image>
       <wrap-s>repeat</wrap-s>
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b27139</object-name>
-</effect>
-
-<effect>
-  <inherits-from>cityLM</inherits-from>
-  <parameters>
-    <lightmap-enabled type="int">1</lightmap-enabled>
-    <texture n="3">
-      <image>tex/DSCF9710_LM.png</image>
-      <wrap-s>repeat</wrap-s>
-      <wrap-t>repeat</wrap-t>
-    </texture>
-  </parameters>
-  <object-name>b27142</object-name>
-  <object-name>b27145</object-name>
-  <object-name>b27147</object-name>
+  <object-name>b27188</object-name>
+  <object-name>b27194</object-name>
+  <object-name>b27195</object-name>
+  <object-name>b27196</object-name>
+  <object-name>b27198</object-name>
+  <object-name>b27200</object-name>
 </effect>
 
 <effect>
@@ -55,7 +42,22 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b27143</object-name>
+  <object-name>b27190</object-name>
+  <object-name>b27191</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9710_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b27187</object-name>
+  <object-name>b27189</object-name>
 </effect>
 
 <effect>
@@ -68,54 +70,61 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b27135</object-name>
-  <object-name>b27138</object-name>
-  <object-name>b27140</object-name>
-  <object-name>b27146</object-name>
+  <object-name>b27192</object-name>
+  <object-name>b27205</object-name>
 </effect>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b27136</object-name>
-  <object-name>b27137</object-name>
-  <object-name>b27138</object-name>
-  <object-name>b27139</object-name>
-  <object-name>b27140</object-name>
-  <object-name>b27141</object-name>
-  <object-name>b27142</object-name>
-  <object-name>b27143</object-name>
-  <object-name>b27146</object-name>
-  <object-name>b27147</object-name>
-  <object-name>b27148</object-name>
+  <object-name>b27188</object-name>
+  <object-name>b27190</object-name>
+  <object-name>b27191</object-name>
+  <object-name>b27192</object-name>
+  <object-name>b27193</object-name>
+  <object-name>b27194</object-name>
+  <object-name>b27195</object-name>
+  <object-name>b27196</object-name>
+  <object-name>b27197</object-name>
+  <object-name>b27198</object-name>
+  <object-name>b27199</object-name>
+  <object-name>b27200</object-name>
+  <object-name>b27202</object-name>
+  <object-name>b27203</object-name>
+  <object-name>b27204</object-name>
+  <object-name>b27205</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/detailed</max-property>
-  <object-name>b27135</object-name>
-  <object-name>b27144</object-name>
-  <object-name>b27145</object-name>
+  <object-name>b27187</object-name>
+  <object-name>b27189</object-name>
+  <object-name>b27201</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/roof</max-property>
-  <object-name>b27135-roof</object-name>
-  <object-name>b27144-roof</object-name>
-  <object-name>b27145-roof</object-name>
+  <object-name>b27187-roof</object-name>
+  <object-name>b27189-roof</object-name>
+  <object-name>b27198-roof</object-name>
+  <object-name>b27200-roof</object-name>
+  <object-name>b27201-roof</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-property>/sim/rendering/static-lod/roof</min-property>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b27135-flat</object-name>
-  <object-name>b27144-flat</object-name>
-  <object-name>b27145-flat</object-name>
+  <object-name>b27187-flat</object-name>
+  <object-name>b27189-flat</object-name>
+  <object-name>b27198-flat</object-name>
+  <object-name>b27200-flat</object-name>
+  <object-name>b27201-flat</object-name>
 </animation>
 
 </PropertyList>

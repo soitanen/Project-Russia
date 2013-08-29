@@ -11,15 +11,12 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b1227</object-name>
-  <object-name>b1228</object-name>
-  <object-name>b1235</object-name>
-  <object-name>b1240</object-name>
-  <object-name>b1245</object-name>
-  <object-name>b1247</object-name>
-  <object-name>b1256</object-name>
-  <object-name>b1257</object-name>
-  <object-name>b1261</object-name>
+  <object-name>b1259</object-name>
+  <object-name>b1268</object-name>
+  <object-name>b1271</object-name>
+  <object-name>b1272</object-name>
+  <object-name>b1295</object-name>
+  <object-name>b1297</object-name>
 </effect>
 
 <effect>
@@ -32,18 +29,14 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b1229</object-name>
-  <object-name>b1230</object-name>
-  <object-name>b1231</object-name>
-  <object-name>b1236</object-name>
-  <object-name>b1239</object-name>
-  <object-name>b1241</object-name>
-  <object-name>b1244</object-name>
-  <object-name>b1248</object-name>
-  <object-name>b1252</object-name>
-  <object-name>b1253</object-name>
-  <object-name>b1258</object-name>
-  <object-name>b1259</object-name>
+  <object-name>b1263</object-name>
+  <object-name>b1265</object-name>
+  <object-name>b1267</object-name>
+  <object-name>b1274</object-name>
+  <object-name>b1280</object-name>
+  <object-name>b1281</object-name>
+  <object-name>b1288</object-name>
+  <object-name>b1296</object-name>
 </effect>
 
 <effect>
@@ -56,17 +49,9 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b1224</object-name>
-  <object-name>b1237</object-name>
-  <object-name>b1238</object-name>
-  <object-name>b1242</object-name>
-  <object-name>b1246</object-name>
-  <object-name>b1249</object-name>
-  <object-name>b1250</object-name>
-  <object-name>b1251</object-name>
   <object-name>b1260</object-name>
-  <object-name>b1263</object-name>
-  <object-name>b1264</object-name>
+  <object-name>b1275</object-name>
+  <object-name>b1277</object-name>
 </effect>
 
 <effect>
@@ -79,7 +64,9 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b1254</object-name>
+  <object-name>b1264</object-name>
+  <object-name>b1286</object-name>
+  <object-name>b1291</object-name>
 </effect>
 
 <effect>
@@ -92,7 +79,18 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b1255</object-name>
+  <object-name>b1256</object-name>
+  <object-name>b1262</object-name>
+  <object-name>b1266</object-name>
+  <object-name>b1269</object-name>
+  <object-name>b1273</object-name>
+  <object-name>b1282</object-name>
+  <object-name>b1283</object-name>
+  <object-name>b1287</object-name>
+  <object-name>b1289</object-name>
+  <object-name>b1290</object-name>
+  <object-name>b1292</object-name>
+  <object-name>b1293</object-name>
 </effect>
 
 <effect>
@@ -105,134 +103,139 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b1225</object-name>
-  <object-name>b1232</object-name>
-  <object-name>b1233</object-name>
-  <object-name>b1234</object-name>
-  <object-name>b1243</object-name>
+  <object-name>b1261</object-name>
+  <object-name>b1276</object-name>
+  <object-name>b1278</object-name>
+  <object-name>b1279</object-name>
+  <object-name>b1284</object-name>
+  <object-name>b1285</object-name>
+  <object-name>b1294</object-name>
 </effect>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b1224</object-name>
-  <object-name>b1225</object-name>
-  <object-name>b1226</object-name>
-  <object-name>b1227</object-name>
-  <object-name>b1228</object-name>
-  <object-name>b1229</object-name>
-  <object-name>b1230</object-name>
-  <object-name>b1231</object-name>
-  <object-name>b1232</object-name>
-  <object-name>b1233</object-name>
-  <object-name>b1234</object-name>
-  <object-name>b1235</object-name>
-  <object-name>b1236</object-name>
-  <object-name>b1238</object-name>
-  <object-name>b1242</object-name>
-  <object-name>b1243</object-name>
-  <object-name>b1252</object-name>
-  <object-name>b1253</object-name>
-</animation>
-
-<animation>
-  <type>range</type>
-  <min-m>0</min-m>
-  <max-property>/sim/rendering/static-lod/detailed</max-property>
-  <object-name>b1237</object-name>
-  <object-name>b1239</object-name>
-  <object-name>b1240</object-name>
-  <object-name>b1241</object-name>
-  <object-name>b1244</object-name>
-  <object-name>b1245</object-name>
-  <object-name>b1246</object-name>
-  <object-name>b1247</object-name>
-  <object-name>b1248</object-name>
-  <object-name>b1249</object-name>
-  <object-name>b1250</object-name>
-  <object-name>b1251</object-name>
-  <object-name>b1254</object-name>
-  <object-name>b1255</object-name>
   <object-name>b1256</object-name>
   <object-name>b1257</object-name>
   <object-name>b1258</object-name>
   <object-name>b1259</object-name>
   <object-name>b1260</object-name>
   <object-name>b1261</object-name>
-  <object-name>b1262</object-name>
   <object-name>b1263</object-name>
   <object-name>b1264</object-name>
+  <object-name>b1265</object-name>
+  <object-name>b1266</object-name>
+  <object-name>b1267</object-name>
+  <object-name>b1269</object-name>
+  <object-name>b1270</object-name>
+  <object-name>b1276</object-name>
+  <object-name>b1278</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/detailed</max-property>
+  <object-name>b1262</object-name>
+  <object-name>b1268</object-name>
+  <object-name>b1271</object-name>
+  <object-name>b1272</object-name>
+  <object-name>b1273</object-name>
+  <object-name>b1274</object-name>
+  <object-name>b1275</object-name>
+  <object-name>b1277</object-name>
+  <object-name>b1279</object-name>
+  <object-name>b1280</object-name>
+  <object-name>b1281</object-name>
+  <object-name>b1282</object-name>
+  <object-name>b1283</object-name>
+  <object-name>b1284</object-name>
+  <object-name>b1285</object-name>
+  <object-name>b1286</object-name>
+  <object-name>b1287</object-name>
+  <object-name>b1288</object-name>
+  <object-name>b1289</object-name>
+  <object-name>b1290</object-name>
+  <object-name>b1291</object-name>
+  <object-name>b1292</object-name>
+  <object-name>b1293</object-name>
+  <object-name>b1294</object-name>
+  <object-name>b1295</object-name>
+  <object-name>b1296</object-name>
+  <object-name>b1297</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/roof</max-property>
-  <object-name>b1224-roof</object-name>
-  <object-name>b1225-roof</object-name>
-  <object-name>b1230-roof</object-name>
-  <object-name>b1231-roof</object-name>
-  <object-name>b1232-roof</object-name>
-  <object-name>b1235-roof</object-name>
-  <object-name>b1236-roof</object-name>
-  <object-name>b1237-roof</object-name>
-  <object-name>b1239-roof</object-name>
-  <object-name>b1240-roof</object-name>
-  <object-name>b1241-roof</object-name>
-  <object-name>b1242-roof</object-name>
-  <object-name>b1243-roof</object-name>
-  <object-name>b1244-roof</object-name>
-  <object-name>b1245-roof</object-name>
-  <object-name>b1246-roof</object-name>
-  <object-name>b1247-roof</object-name>
-  <object-name>b1248-roof</object-name>
-  <object-name>b1249-roof</object-name>
-  <object-name>b1250-roof</object-name>
-  <object-name>b1251-roof</object-name>
-  <object-name>b1252-roof</object-name>
   <object-name>b1256-roof</object-name>
   <object-name>b1257-roof</object-name>
-  <object-name>b1258-roof</object-name>
-  <object-name>b1261-roof</object-name>
+  <object-name>b1260-roof</object-name>
   <object-name>b1262-roof</object-name>
   <object-name>b1263-roof</object-name>
-  <object-name>b1264-roof</object-name>
+  <object-name>b1265-roof</object-name>
+  <object-name>b1266-roof</object-name>
+  <object-name>b1267-roof</object-name>
+  <object-name>b1268-roof</object-name>
+  <object-name>b1271-roof</object-name>
+  <object-name>b1272-roof</object-name>
+  <object-name>b1273-roof</object-name>
+  <object-name>b1274-roof</object-name>
+  <object-name>b1275-roof</object-name>
+  <object-name>b1276-roof</object-name>
+  <object-name>b1277-roof</object-name>
+  <object-name>b1278-roof</object-name>
+  <object-name>b1279-roof</object-name>
+  <object-name>b1280-roof</object-name>
+  <object-name>b1281-roof</object-name>
+  <object-name>b1282-roof</object-name>
+  <object-name>b1283-roof</object-name>
+  <object-name>b1285-roof</object-name>
+  <object-name>b1288-roof</object-name>
+  <object-name>b1292-roof</object-name>
+  <object-name>b1293-roof</object-name>
+  <object-name>b1294-roof</object-name>
+  <object-name>b1295-roof</object-name>
+  <object-name>b1296-roof</object-name>
+  <object-name>b1297-roof</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-property>/sim/rendering/static-lod/roof</min-property>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b1224-flat</object-name>
-  <object-name>b1225-flat</object-name>
-  <object-name>b1230-flat</object-name>
-  <object-name>b1231-flat</object-name>
-  <object-name>b1232-flat</object-name>
-  <object-name>b1235-flat</object-name>
-  <object-name>b1236-flat</object-name>
-  <object-name>b1237-flat</object-name>
-  <object-name>b1239-flat</object-name>
-  <object-name>b1240-flat</object-name>
-  <object-name>b1241-flat</object-name>
-  <object-name>b1242-flat</object-name>
-  <object-name>b1243-flat</object-name>
-  <object-name>b1244-flat</object-name>
-  <object-name>b1245-flat</object-name>
-  <object-name>b1246-flat</object-name>
-  <object-name>b1247-flat</object-name>
-  <object-name>b1248-flat</object-name>
-  <object-name>b1249-flat</object-name>
-  <object-name>b1250-flat</object-name>
-  <object-name>b1251-flat</object-name>
-  <object-name>b1252-flat</object-name>
   <object-name>b1256-flat</object-name>
   <object-name>b1257-flat</object-name>
-  <object-name>b1258-flat</object-name>
-  <object-name>b1261-flat</object-name>
+  <object-name>b1260-flat</object-name>
   <object-name>b1262-flat</object-name>
   <object-name>b1263-flat</object-name>
-  <object-name>b1264-flat</object-name>
+  <object-name>b1265-flat</object-name>
+  <object-name>b1266-flat</object-name>
+  <object-name>b1267-flat</object-name>
+  <object-name>b1268-flat</object-name>
+  <object-name>b1271-flat</object-name>
+  <object-name>b1272-flat</object-name>
+  <object-name>b1273-flat</object-name>
+  <object-name>b1274-flat</object-name>
+  <object-name>b1275-flat</object-name>
+  <object-name>b1276-flat</object-name>
+  <object-name>b1277-flat</object-name>
+  <object-name>b1278-flat</object-name>
+  <object-name>b1279-flat</object-name>
+  <object-name>b1280-flat</object-name>
+  <object-name>b1281-flat</object-name>
+  <object-name>b1282-flat</object-name>
+  <object-name>b1283-flat</object-name>
+  <object-name>b1285-flat</object-name>
+  <object-name>b1288-flat</object-name>
+  <object-name>b1292-flat</object-name>
+  <object-name>b1293-flat</object-name>
+  <object-name>b1294-flat</object-name>
+  <object-name>b1295-flat</object-name>
+  <object-name>b1296-flat</object-name>
+  <object-name>b1297-flat</object-name>
 </animation>
 
 </PropertyList>

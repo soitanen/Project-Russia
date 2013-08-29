@@ -6,45 +6,13 @@
   <parameters>
     <lightmap-enabled type="int">1</lightmap-enabled>
     <texture n="3">
-      <image>tex/DSCF9495_pow2_LM.png</image>
-      <wrap-s>repeat</wrap-s>
-      <wrap-t>repeat</wrap-t>
-    </texture>
-  </parameters>
-  <object-name>b3719</object-name>
-  <object-name>b3723</object-name>
-  <object-name>b3730</object-name>
-</effect>
-
-<effect>
-  <inherits-from>cityLM</inherits-from>
-  <parameters>
-    <lightmap-enabled type="int">1</lightmap-enabled>
-    <texture n="3">
-      <image>tex/DSCF9495_pow2_LM.png</image>
-      <wrap-s>repeat</wrap-s>
-      <wrap-t>repeat</wrap-t>
-    </texture>
-  </parameters>
-  <object-name>b3726</object-name>
-  <object-name>b3727</object-name>
-  <object-name>b3731</object-name>
-  <object-name>b3735</object-name>
-</effect>
-
-<effect>
-  <inherits-from>cityLM</inherits-from>
-  <parameters>
-    <lightmap-enabled type="int">1</lightmap-enabled>
-    <texture n="3">
       <image>tex/LZ_old_bright_bc2_LM.png</image>
       <wrap-s>repeat</wrap-s>
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b3722</object-name>
-  <object-name>b3724</object-name>
-  <object-name>b3733</object-name>
+  <object-name>b3758</object-name>
+  <object-name>b3766</object-name>
 </effect>
 
 <effect>
@@ -52,14 +20,30 @@
   <parameters>
     <lightmap-enabled type="int">1</lightmap-enabled>
     <texture n="3">
-      <image>tex/DSCF9710_LM.png</image>
+      <image>tex/DSCF9495_pow2_LM.png</image>
       <wrap-s>repeat</wrap-s>
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b3721</object-name>
-  <object-name>b3728</object-name>
-  <object-name>b3734</object-name>
+  <object-name>b3760</object-name>
+  <object-name>b3763</object-name>
+  <object-name>b3764</object-name>
+  <object-name>b3768</object-name>
+  <object-name>b3769</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b3767</object-name>
+  <object-name>b3771</object-name>
 </effect>
 
 <effect>
@@ -72,84 +56,101 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b3718</object-name>
-  <object-name>b3725</object-name>
-  <object-name>b3729</object-name>
-  <object-name>b3732</object-name>
+  <object-name>b3757</object-name>
+  <object-name>b3761</object-name>
+  <object-name>b3762</object-name>
+  <object-name>b3772</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9710_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b3759</object-name>
+  <object-name>b3765</object-name>
+  <object-name>b3770</object-name>
+  <object-name>b3773</object-name>
 </effect>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b3718</object-name>
-  <object-name>b3719</object-name>
-  <object-name>b3720</object-name>
+  <object-name>b3759</object-name>
+  <object-name>b3763</object-name>
+  <object-name>b3773</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/detailed</max-property>
-  <object-name>b3721</object-name>
-  <object-name>b3722</object-name>
-  <object-name>b3723</object-name>
-  <object-name>b3724</object-name>
-  <object-name>b3725</object-name>
-  <object-name>b3726</object-name>
-  <object-name>b3727</object-name>
-  <object-name>b3728</object-name>
-  <object-name>b3729</object-name>
-  <object-name>b3730</object-name>
-  <object-name>b3731</object-name>
-  <object-name>b3732</object-name>
-  <object-name>b3733</object-name>
-  <object-name>b3734</object-name>
-  <object-name>b3735</object-name>
+  <object-name>b3757</object-name>
+  <object-name>b3758</object-name>
+  <object-name>b3760</object-name>
+  <object-name>b3761</object-name>
+  <object-name>b3762</object-name>
+  <object-name>b3764</object-name>
+  <object-name>b3765</object-name>
+  <object-name>b3766</object-name>
+  <object-name>b3767</object-name>
+  <object-name>b3768</object-name>
+  <object-name>b3769</object-name>
+  <object-name>b3770</object-name>
+  <object-name>b3771</object-name>
+  <object-name>b3772</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/roof</max-property>
-  <object-name>b3718-roof</object-name>
-  <object-name>b3721-roof</object-name>
-  <object-name>b3722-roof</object-name>
-  <object-name>b3723-roof</object-name>
-  <object-name>b3724-roof</object-name>
-  <object-name>b3725-roof</object-name>
-  <object-name>b3726-roof</object-name>
-  <object-name>b3727-roof</object-name>
-  <object-name>b3728-roof</object-name>
-  <object-name>b3729-roof</object-name>
-  <object-name>b3730-roof</object-name>
-  <object-name>b3731-roof</object-name>
-  <object-name>b3732-roof</object-name>
-  <object-name>b3733-roof</object-name>
-  <object-name>b3734-roof</object-name>
-  <object-name>b3735-roof</object-name>
+  <object-name>b3757-roof</object-name>
+  <object-name>b3758-roof</object-name>
+  <object-name>b3759-roof</object-name>
+  <object-name>b3760-roof</object-name>
+  <object-name>b3761-roof</object-name>
+  <object-name>b3762-roof</object-name>
+  <object-name>b3763-roof</object-name>
+  <object-name>b3764-roof</object-name>
+  <object-name>b3765-roof</object-name>
+  <object-name>b3766-roof</object-name>
+  <object-name>b3767-roof</object-name>
+  <object-name>b3768-roof</object-name>
+  <object-name>b3769-roof</object-name>
+  <object-name>b3770-roof</object-name>
+  <object-name>b3771-roof</object-name>
+  <object-name>b3772-roof</object-name>
+  <object-name>b3773-roof</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-property>/sim/rendering/static-lod/roof</min-property>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b3718-flat</object-name>
-  <object-name>b3721-flat</object-name>
-  <object-name>b3722-flat</object-name>
-  <object-name>b3723-flat</object-name>
-  <object-name>b3724-flat</object-name>
-  <object-name>b3725-flat</object-name>
-  <object-name>b3726-flat</object-name>
-  <object-name>b3727-flat</object-name>
-  <object-name>b3728-flat</object-name>
-  <object-name>b3729-flat</object-name>
-  <object-name>b3730-flat</object-name>
-  <object-name>b3731-flat</object-name>
-  <object-name>b3732-flat</object-name>
-  <object-name>b3733-flat</object-name>
-  <object-name>b3734-flat</object-name>
-  <object-name>b3735-flat</object-name>
+  <object-name>b3757-flat</object-name>
+  <object-name>b3758-flat</object-name>
+  <object-name>b3759-flat</object-name>
+  <object-name>b3760-flat</object-name>
+  <object-name>b3761-flat</object-name>
+  <object-name>b3762-flat</object-name>
+  <object-name>b3763-flat</object-name>
+  <object-name>b3764-flat</object-name>
+  <object-name>b3765-flat</object-name>
+  <object-name>b3766-flat</object-name>
+  <object-name>b3767-flat</object-name>
+  <object-name>b3768-flat</object-name>
+  <object-name>b3769-flat</object-name>
+  <object-name>b3770-flat</object-name>
+  <object-name>b3771-flat</object-name>
+  <object-name>b3772-flat</object-name>
+  <object-name>b3773-flat</object-name>
 </animation>
 
 </PropertyList>

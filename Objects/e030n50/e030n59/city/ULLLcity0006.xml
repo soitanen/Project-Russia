@@ -11,21 +11,17 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b718</object-name>
-  <object-name>b721</object-name>
-  <object-name>b733</object-name>
-  <object-name>b735</object-name>
-  <object-name>b743</object-name>
-  <object-name>b748</object-name>
-  <object-name>b751</object-name>
+  <object-name>b690</object-name>
+  <object-name>b693</object-name>
+  <object-name>b724</object-name>
+  <object-name>b732</object-name>
+  <object-name>b740</object-name>
+  <object-name>b745</object-name>
+  <object-name>b747</object-name>
+  <object-name>b753</object-name>
   <object-name>b756</object-name>
-  <object-name>b763</object-name>
-  <object-name>b765</object-name>
-  <object-name>b771</object-name>
-  <object-name>b779</object-name>
-  <object-name>b782</object-name>
-  <object-name>b787</object-name>
-  <object-name>b789</object-name>
+  <object-name>b757</object-name>
+  <object-name>b762</object-name>
 </effect>
 
 <effect>
@@ -38,25 +34,18 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b713</object-name>
-  <object-name>b726</object-name>
+  <object-name>b694</object-name>
+  <object-name>b697</object-name>
+  <object-name>b706</object-name>
+  <object-name>b708</object-name>
+  <object-name>b715</object-name>
+  <object-name>b722</object-name>
   <object-name>b727</object-name>
-  <object-name>b728</object-name>
-  <object-name>b732</object-name>
+  <object-name>b729</object-name>
+  <object-name>b730</object-name>
   <object-name>b734</object-name>
-  <object-name>b740</object-name>
   <object-name>b744</object-name>
-  <object-name>b745</object-name>
-  <object-name>b755</object-name>
-  <object-name>b762</object-name>
-  <object-name>b766</object-name>
-  <object-name>b772</object-name>
-  <object-name>b774</object-name>
-  <object-name>b775</object-name>
-  <object-name>b777</object-name>
-  <object-name>b778</object-name>
-  <object-name>b780</object-name>
-  <object-name>b785</object-name>
+  <object-name>b746</object-name>
 </effect>
 
 <effect>
@@ -69,23 +58,22 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
+  <object-name>b692</object-name>
+  <object-name>b698</object-name>
+  <object-name>b700</object-name>
+  <object-name>b701</object-name>
+  <object-name>b702</object-name>
+  <object-name>b705</object-name>
+  <object-name>b709</object-name>
+  <object-name>b712</object-name>
   <object-name>b714</object-name>
-  <object-name>b717</object-name>
-  <object-name>b719</object-name>
+  <object-name>b716</object-name>
   <object-name>b720</object-name>
   <object-name>b723</object-name>
-  <object-name>b736</object-name>
-  <object-name>b738</object-name>
-  <object-name>b739</object-name>
-  <object-name>b741</object-name>
-  <object-name>b746</object-name>
-  <object-name>b747</object-name>
-  <object-name>b757</object-name>
-  <object-name>b760</object-name>
-  <object-name>b767</object-name>
-  <object-name>b769</object-name>
-  <object-name>b784</object-name>
-  <object-name>b790</object-name>
+  <object-name>b735</object-name>
+  <object-name>b749</object-name>
+  <object-name>b751</object-name>
+  <object-name>b754</object-name>
 </effect>
 
 <effect>
@@ -98,24 +86,7 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b752</object-name>
-  <object-name>b753</object-name>
-  <object-name>b754</object-name>
-  <object-name>b773</object-name>
-  <object-name>b776</object-name>
-</effect>
-
-<effect>
-  <inherits-from>cityLM</inherits-from>
-  <parameters>
-    <lightmap-enabled type="int">1</lightmap-enabled>
-    <texture n="3">
-      <image>tex/wohnheime_petersburger_LM.png</image>
-      <wrap-s>repeat</wrap-s>
-      <wrap-t>repeat</wrap-t>
-    </texture>
-  </parameters>
-  <object-name>b758</object-name>
+  <object-name>b760</object-name>
 </effect>
 
 <effect>
@@ -128,16 +99,34 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b724</object-name>
+  <object-name>b691</object-name>
+  <object-name>b699</object-name>
+  <object-name>b704</object-name>
+  <object-name>b707</object-name>
+  <object-name>b719</object-name>
+  <object-name>b728</object-name>
   <object-name>b731</object-name>
-  <object-name>b737</object-name>
+  <object-name>b741</object-name>
+  <object-name>b742</object-name>
+  <object-name>b743</object-name>
+  <object-name>b748</object-name>
   <object-name>b750</object-name>
-  <object-name>b759</object-name>
+  <object-name>b755</object-name>
   <object-name>b761</object-name>
-  <object-name>b764</object-name>
-  <object-name>b768</object-name>
-  <object-name>b770</object-name>
-  <object-name>b781</object-name>
+  <object-name>b763</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/wohnheime_petersburger_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b695</object-name>
 </effect>
 
 <effect>
@@ -150,131 +139,143 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b715</object-name>
-  <object-name>b716</object-name>
-  <object-name>b722</object-name>
-  <object-name>b725</object-name>
-  <object-name>b729</object-name>
-  <object-name>b730</object-name>
-  <object-name>b742</object-name>
-  <object-name>b749</object-name>
-  <object-name>b783</object-name>
-  <object-name>b786</object-name>
-  <object-name>b788</object-name>
+  <object-name>b696</object-name>
+  <object-name>b711</object-name>
+  <object-name>b713</object-name>
+  <object-name>b718</object-name>
+  <object-name>b721</object-name>
+  <object-name>b726</object-name>
+  <object-name>b733</object-name>
+  <object-name>b736</object-name>
+  <object-name>b737</object-name>
+  <object-name>b738</object-name>
+  <object-name>b739</object-name>
+  <object-name>b759</object-name>
 </effect>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b689</object-name>
+  <object-name>b690</object-name>
+  <object-name>b691</object-name>
+  <object-name>b692</object-name>
+  <object-name>b693</object-name>
+  <object-name>b694</object-name>
+  <object-name>b695</object-name>
+  <object-name>b696</object-name>
+  <object-name>b697</object-name>
+  <object-name>b703</object-name>
   <object-name>b713</object-name>
-  <object-name>b715</object-name>
+  <object-name>b714</object-name>
   <object-name>b716</object-name>
   <object-name>b717</object-name>
-  <object-name>b718</object-name>
   <object-name>b719</object-name>
-  <object-name>b720</object-name>
-  <object-name>b721</object-name>
-  <object-name>b722</object-name>
-  <object-name>b723</object-name>
-  <object-name>b724</object-name>
   <object-name>b725</object-name>
   <object-name>b726</object-name>
   <object-name>b727</object-name>
+  <object-name>b728</object-name>
+  <object-name>b729</object-name>
   <object-name>b730</object-name>
+  <object-name>b731</object-name>
   <object-name>b733</object-name>
+  <object-name>b734</object-name>
+  <object-name>b735</object-name>
+  <object-name>b736</object-name>
+  <object-name>b737</object-name>
+  <object-name>b741</object-name>
+  <object-name>b744</object-name>
   <object-name>b746</object-name>
-  <object-name>b747</object-name>
   <object-name>b748</object-name>
-  <object-name>b749</object-name>
-  <object-name>b750</object-name>
   <object-name>b751</object-name>
   <object-name>b752</object-name>
-  <object-name>b753</object-name>
   <object-name>b754</object-name>
   <object-name>b757</object-name>
-  <object-name>b758</object-name>
-  <object-name>b759</object-name>
   <object-name>b760</object-name>
-  <object-name>b761</object-name>
-  <object-name>b767</object-name>
-  <object-name>b768</object-name>
-  <object-name>b771</object-name>
-  <object-name>b773</object-name>
-  <object-name>b774</object-name>
-  <object-name>b776</object-name>
-  <object-name>b780</object-name>
-  <object-name>b781</object-name>
-  <object-name>b782</object-name>
-  <object-name>b784</object-name>
-  <object-name>b785</object-name>
-  <object-name>b789</object-name>
+  <object-name>b762</object-name>
+  <object-name>b763</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/detailed</max-property>
-  <object-name>b714</object-name>
-  <object-name>b728</object-name>
-  <object-name>b729</object-name>
-  <object-name>b731</object-name>
+  <object-name>b698</object-name>
+  <object-name>b699</object-name>
+  <object-name>b700</object-name>
+  <object-name>b701</object-name>
+  <object-name>b702</object-name>
+  <object-name>b704</object-name>
+  <object-name>b705</object-name>
+  <object-name>b706</object-name>
+  <object-name>b707</object-name>
+  <object-name>b708</object-name>
+  <object-name>b709</object-name>
+  <object-name>b710</object-name>
+  <object-name>b711</object-name>
+  <object-name>b712</object-name>
+  <object-name>b715</object-name>
+  <object-name>b718</object-name>
+  <object-name>b720</object-name>
+  <object-name>b721</object-name>
+  <object-name>b722</object-name>
+  <object-name>b723</object-name>
+  <object-name>b724</object-name>
   <object-name>b732</object-name>
-  <object-name>b734</object-name>
-  <object-name>b735</object-name>
-  <object-name>b736</object-name>
-  <object-name>b737</object-name>
   <object-name>b738</object-name>
   <object-name>b739</object-name>
   <object-name>b740</object-name>
-  <object-name>b741</object-name>
   <object-name>b742</object-name>
   <object-name>b743</object-name>
-  <object-name>b744</object-name>
   <object-name>b745</object-name>
+  <object-name>b747</object-name>
+  <object-name>b749</object-name>
+  <object-name>b750</object-name>
+  <object-name>b753</object-name>
   <object-name>b755</object-name>
   <object-name>b756</object-name>
-  <object-name>b762</object-name>
-  <object-name>b763</object-name>
-  <object-name>b764</object-name>
-  <object-name>b765</object-name>
-  <object-name>b766</object-name>
-  <object-name>b769</object-name>
-  <object-name>b770</object-name>
-  <object-name>b772</object-name>
-  <object-name>b775</object-name>
-  <object-name>b777</object-name>
-  <object-name>b778</object-name>
-  <object-name>b779</object-name>
-  <object-name>b783</object-name>
-  <object-name>b786</object-name>
-  <object-name>b787</object-name>
-  <object-name>b788</object-name>
-  <object-name>b790</object-name>
+  <object-name>b758</object-name>
+  <object-name>b759</object-name>
+  <object-name>b761</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/roof</max-property>
+  <object-name>b692-roof</object-name>
+  <object-name>b693-roof</object-name>
+  <object-name>b697-roof</object-name>
+  <object-name>b698-roof</object-name>
+  <object-name>b700-roof</object-name>
+  <object-name>b701-roof</object-name>
+  <object-name>b702-roof</object-name>
+  <object-name>b704-roof</object-name>
+  <object-name>b705-roof</object-name>
+  <object-name>b706-roof</object-name>
+  <object-name>b707-roof</object-name>
+  <object-name>b708-roof</object-name>
+  <object-name>b709-roof</object-name>
+  <object-name>b710-roof</object-name>
+  <object-name>b711-roof</object-name>
+  <object-name>b712-roof</object-name>
   <object-name>b713-roof</object-name>
   <object-name>b714-roof</object-name>
+  <object-name>b715-roof</object-name>
   <object-name>b716-roof</object-name>
-  <object-name>b717-roof</object-name>
   <object-name>b718-roof</object-name>
+  <object-name>b719-roof</object-name>
   <object-name>b720-roof</object-name>
+  <object-name>b721-roof</object-name>
+  <object-name>b722-roof</object-name>
   <object-name>b723-roof</object-name>
-  <object-name>b725-roof</object-name>
+  <object-name>b724-roof</object-name>
+  <object-name>b726-roof</object-name>
   <object-name>b727-roof</object-name>
-  <object-name>b728-roof</object-name>
-  <object-name>b729-roof</object-name>
-  <object-name>b730-roof</object-name>
   <object-name>b731-roof</object-name>
   <object-name>b732-roof</object-name>
   <object-name>b733-roof</object-name>
-  <object-name>b734-roof</object-name>
-  <object-name>b735-roof</object-name>
-  <object-name>b736-roof</object-name>
   <object-name>b737-roof</object-name>
   <object-name>b738-roof</object-name>
   <object-name>b739-roof</object-name>
@@ -289,58 +290,52 @@
   <object-name>b748-roof</object-name>
   <object-name>b749-roof</object-name>
   <object-name>b750-roof</object-name>
+  <object-name>b753-roof</object-name>
+  <object-name>b754-roof</object-name>
   <object-name>b755-roof</object-name>
   <object-name>b756-roof</object-name>
   <object-name>b757-roof</object-name>
-  <object-name>b760-roof</object-name>
+  <object-name>b759-roof</object-name>
   <object-name>b761-roof</object-name>
   <object-name>b762-roof</object-name>
-  <object-name>b763-roof</object-name>
-  <object-name>b764-roof</object-name>
-  <object-name>b765-roof</object-name>
-  <object-name>b766-roof</object-name>
-  <object-name>b767-roof</object-name>
-  <object-name>b768-roof</object-name>
-  <object-name>b769-roof</object-name>
-  <object-name>b770-roof</object-name>
-  <object-name>b771-roof</object-name>
-  <object-name>b772-roof</object-name>
-  <object-name>b775-roof</object-name>
-  <object-name>b777-roof</object-name>
-  <object-name>b778-roof</object-name>
-  <object-name>b779-roof</object-name>
-  <object-name>b781-roof</object-name>
-  <object-name>b782-roof</object-name>
-  <object-name>b783-roof</object-name>
-  <object-name>b784-roof</object-name>
-  <object-name>b786-roof</object-name>
-  <object-name>b788-roof</object-name>
-  <object-name>b789-roof</object-name>
-  <object-name>b790-roof</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-property>/sim/rendering/static-lod/roof</min-property>
   <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b692-flat</object-name>
+  <object-name>b693-flat</object-name>
+  <object-name>b697-flat</object-name>
+  <object-name>b698-flat</object-name>
+  <object-name>b700-flat</object-name>
+  <object-name>b701-flat</object-name>
+  <object-name>b702-flat</object-name>
+  <object-name>b704-flat</object-name>
+  <object-name>b705-flat</object-name>
+  <object-name>b706-flat</object-name>
+  <object-name>b707-flat</object-name>
+  <object-name>b708-flat</object-name>
+  <object-name>b709-flat</object-name>
+  <object-name>b710-flat</object-name>
+  <object-name>b711-flat</object-name>
+  <object-name>b712-flat</object-name>
   <object-name>b713-flat</object-name>
   <object-name>b714-flat</object-name>
+  <object-name>b715-flat</object-name>
   <object-name>b716-flat</object-name>
-  <object-name>b717-flat</object-name>
   <object-name>b718-flat</object-name>
+  <object-name>b719-flat</object-name>
   <object-name>b720-flat</object-name>
+  <object-name>b721-flat</object-name>
+  <object-name>b722-flat</object-name>
   <object-name>b723-flat</object-name>
-  <object-name>b725-flat</object-name>
+  <object-name>b724-flat</object-name>
+  <object-name>b726-flat</object-name>
   <object-name>b727-flat</object-name>
-  <object-name>b728-flat</object-name>
-  <object-name>b729-flat</object-name>
-  <object-name>b730-flat</object-name>
   <object-name>b731-flat</object-name>
   <object-name>b732-flat</object-name>
   <object-name>b733-flat</object-name>
-  <object-name>b734-flat</object-name>
-  <object-name>b735-flat</object-name>
-  <object-name>b736-flat</object-name>
   <object-name>b737-flat</object-name>
   <object-name>b738-flat</object-name>
   <object-name>b739-flat</object-name>
@@ -355,34 +350,14 @@
   <object-name>b748-flat</object-name>
   <object-name>b749-flat</object-name>
   <object-name>b750-flat</object-name>
+  <object-name>b753-flat</object-name>
+  <object-name>b754-flat</object-name>
   <object-name>b755-flat</object-name>
   <object-name>b756-flat</object-name>
   <object-name>b757-flat</object-name>
-  <object-name>b760-flat</object-name>
+  <object-name>b759-flat</object-name>
   <object-name>b761-flat</object-name>
   <object-name>b762-flat</object-name>
-  <object-name>b763-flat</object-name>
-  <object-name>b764-flat</object-name>
-  <object-name>b765-flat</object-name>
-  <object-name>b766-flat</object-name>
-  <object-name>b767-flat</object-name>
-  <object-name>b768-flat</object-name>
-  <object-name>b769-flat</object-name>
-  <object-name>b770-flat</object-name>
-  <object-name>b771-flat</object-name>
-  <object-name>b772-flat</object-name>
-  <object-name>b775-flat</object-name>
-  <object-name>b777-flat</object-name>
-  <object-name>b778-flat</object-name>
-  <object-name>b779-flat</object-name>
-  <object-name>b781-flat</object-name>
-  <object-name>b782-flat</object-name>
-  <object-name>b783-flat</object-name>
-  <object-name>b784-flat</object-name>
-  <object-name>b786-flat</object-name>
-  <object-name>b788-flat</object-name>
-  <object-name>b789-flat</object-name>
-  <object-name>b790-flat</object-name>
 </animation>
 
 </PropertyList>

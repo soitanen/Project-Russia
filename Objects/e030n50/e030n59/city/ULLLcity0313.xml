@@ -11,43 +11,39 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b2575</object-name>
-  <object-name>b2580</object-name>
+  <object-name>b2566</object-name>
+  <object-name>b2569</object-name>
+  <object-name>b2570</object-name>
+  <object-name>b2578</object-name>
+  <object-name>b2581</object-name>
   <object-name>b2586</object-name>
-  <object-name>b2591</object-name>
-  <object-name>b2593</object-name>
-  <object-name>b2594</object-name>
-  <object-name>b2596</object-name>
-  <object-name>b2597</object-name>
-  <object-name>b2600</object-name>
-  <object-name>b2602</object-name>
-  <object-name>b2607</object-name>
-  <object-name>b2610</object-name>
-  <object-name>b2612</object-name>
+  <object-name>b2603</object-name>
+  <object-name>b2615</object-name>
   <object-name>b2619</object-name>
-  <object-name>b2625</object-name>
-  <object-name>b2630</object-name>
-  <object-name>b2641</object-name>
-  <object-name>b2643</object-name>
-  <object-name>b2645</object-name>
-  <object-name>b2648</object-name>
+  <object-name>b2627</object-name>
+  <object-name>b2634</object-name>
+  <object-name>b2638</object-name>
   <object-name>b2651</object-name>
-  <object-name>b2657</object-name>
-  <object-name>b2669</object-name>
+  <object-name>b2654</object-name>
+  <object-name>b2675</object-name>
+  <object-name>b2676</object-name>
+  <object-name>b2677</object-name>
   <object-name>b2679</object-name>
-  <object-name>b2682</object-name>
-  <object-name>b2683</object-name>
-  <object-name>b2685</object-name>
-  <object-name>b2687</object-name>
-  <object-name>b2693</object-name>
+  <object-name>b2690</object-name>
   <object-name>b2694</object-name>
-  <object-name>b2695</object-name>
-  <object-name>b2699</object-name>
-  <object-name>b2710</object-name>
-  <object-name>b2718</object-name>
-  <object-name>b2725</object-name>
-  <object-name>b2728</object-name>
-  <object-name>b2729</object-name>
+  <object-name>b2701</object-name>
+  <object-name>b2704</object-name>
+  <object-name>b2706</object-name>
+  <object-name>b2712</object-name>
+  <object-name>b2715</object-name>
+  <object-name>b2727</object-name>
+  <object-name>b2732</object-name>
+  <object-name>b2734</object-name>
+  <object-name>b2735</object-name>
+  <object-name>b2738</object-name>
+  <object-name>b2741</object-name>
+  <object-name>b2742</object-name>
+  <object-name>b2743</object-name>
 </effect>
 
 <effect>
@@ -60,37 +56,45 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b2563</object-name>
-  <object-name>b2564</object-name>
-  <object-name>b2566</object-name>
-  <object-name>b2569</object-name>
-  <object-name>b2570</object-name>
-  <object-name>b2571</object-name>
-  <object-name>b2579</object-name>
-  <object-name>b2581</object-name>
+  <object-name>b2568</object-name>
+  <object-name>b2580</object-name>
+  <object-name>b2582</object-name>
+  <object-name>b2584</object-name>
+  <object-name>b2590</object-name>
+  <object-name>b2591</object-name>
   <object-name>b2595</object-name>
-  <object-name>b2603</object-name>
-  <object-name>b2604</object-name>
-  <object-name>b2614</object-name>
-  <object-name>b2616</object-name>
-  <object-name>b2629</object-name>
-  <object-name>b2631</object-name>
+  <object-name>b2600</object-name>
+  <object-name>b2606</object-name>
+  <object-name>b2608</object-name>
+  <object-name>b2610</object-name>
+  <object-name>b2617</object-name>
+  <object-name>b2618</object-name>
+  <object-name>b2620</object-name>
+  <object-name>b2621</object-name>
+  <object-name>b2623</object-name>
+  <object-name>b2625</object-name>
+  <object-name>b2636</object-name>
   <object-name>b2637</object-name>
-  <object-name>b2644</object-name>
-  <object-name>b2647</object-name>
-  <object-name>b2653</object-name>
+  <object-name>b2639</object-name>
+  <object-name>b2642</object-name>
+  <object-name>b2643</object-name>
+  <object-name>b2646</object-name>
+  <object-name>b2652</object-name>
+  <object-name>b2657</object-name>
+  <object-name>b2658</object-name>
+  <object-name>b2659</object-name>
+  <object-name>b2660</object-name>
   <object-name>b2667</object-name>
-  <object-name>b2686</object-name>
-  <object-name>b2702</object-name>
+  <object-name>b2678</object-name>
+  <object-name>b2680</object-name>
+  <object-name>b2683</object-name>
   <object-name>b2703</object-name>
-  <object-name>b2713</object-name>
-  <object-name>b2714</object-name>
-  <object-name>b2724</object-name>
+  <object-name>b2717</object-name>
   <object-name>b2726</object-name>
-  <object-name>b2727</object-name>
-  <object-name>b2730</object-name>
-  <object-name>b2737</object-name>
-  <object-name>b2739</object-name>
+  <object-name>b2728</object-name>
+  <object-name>b2731</object-name>
+  <object-name>b2745</object-name>
+  <object-name>b2748</object-name>
 </effect>
 
 <effect>
@@ -103,43 +107,51 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b2572</object-name>
-  <object-name>b2573</object-name>
-  <object-name>b2578</object-name>
-  <object-name>b2584</object-name>
-  <object-name>b2585</object-name>
-  <object-name>b2592</object-name>
-  <object-name>b2598</object-name>
-  <object-name>b2599</object-name>
+  <object-name>b2583</object-name>
+  <object-name>b2593</object-name>
+  <object-name>b2594</object-name>
+  <object-name>b2601</object-name>
+  <object-name>b2602</object-name>
   <object-name>b2609</object-name>
-  <object-name>b2615</object-name>
-  <object-name>b2618</object-name>
+  <object-name>b2611</object-name>
+  <object-name>b2612</object-name>
   <object-name>b2622</object-name>
   <object-name>b2626</object-name>
-  <object-name>b2649</object-name>
-  <object-name>b2654</object-name>
-  <object-name>b2658</object-name>
+  <object-name>b2628</object-name>
+  <object-name>b2647</object-name>
+  <object-name>b2656</object-name>
   <object-name>b2661</object-name>
-  <object-name>b2663</object-name>
-  <object-name>b2664</object-name>
-  <object-name>b2665</object-name>
+  <object-name>b2666</object-name>
   <object-name>b2668</object-name>
-  <object-name>b2674</object-name>
-  <object-name>b2675</object-name>
-  <object-name>b2681</object-name>
-  <object-name>b2688</object-name>
-  <object-name>b2697</object-name>
-  <object-name>b2701</object-name>
-  <object-name>b2704</object-name>
+  <object-name>b2686</object-name>
+  <object-name>b2691</object-name>
+  <object-name>b2696</object-name>
+  <object-name>b2699</object-name>
   <object-name>b2708</object-name>
-  <object-name>b2709</object-name>
-  <object-name>b2715</object-name>
-  <object-name>b2716</object-name>
-  <object-name>b2717</object-name>
-  <object-name>b2719</object-name>
-  <object-name>b2722</object-name>
-  <object-name>b2732</object-name>
+  <object-name>b2710</object-name>
+  <object-name>b2711</object-name>
+  <object-name>b2720</object-name>
+  <object-name>b2721</object-name>
+  <object-name>b2723</object-name>
+  <object-name>b2730</object-name>
   <object-name>b2736</object-name>
+  <object-name>b2737</object-name>
+  <object-name>b2739</object-name>
+  <object-name>b2740</object-name>
+  <object-name>b2752</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9678_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b2673</object-name>
 </effect>
 
 <effect>
@@ -152,44 +164,46 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b2561</object-name>
-  <object-name>b2562</object-name>
+  <object-name>b2564</object-name>
   <object-name>b2565</object-name>
-  <object-name>b2606</object-name>
-  <object-name>b2617</object-name>
-  <object-name>b2620</object-name>
-  <object-name>b2623</object-name>
+  <object-name>b2571</object-name>
+  <object-name>b2572</object-name>
+  <object-name>b2573</object-name>
+  <object-name>b2575</object-name>
+  <object-name>b2577</object-name>
+  <object-name>b2585</object-name>
+  <object-name>b2587</object-name>
+  <object-name>b2588</object-name>
+  <object-name>b2589</object-name>
+  <object-name>b2604</object-name>
+  <object-name>b2613</object-name>
+  <object-name>b2614</object-name>
   <object-name>b2624</object-name>
-  <object-name>b2627</object-name>
-  <object-name>b2628</object-name>
-  <object-name>b2632</object-name>
-  <object-name>b2633</object-name>
+  <object-name>b2630</object-name>
+  <object-name>b2631</object-name>
   <object-name>b2635</object-name>
   <object-name>b2640</object-name>
-  <object-name>b2652</object-name>
+  <object-name>b2648</object-name>
+  <object-name>b2649</object-name>
+  <object-name>b2650</object-name>
+  <object-name>b2653</object-name>
   <object-name>b2655</object-name>
-  <object-name>b2656</object-name>
-  <object-name>b2659</object-name>
-  <object-name>b2660</object-name>
   <object-name>b2662</object-name>
-  <object-name>b2666</object-name>
-  <object-name>b2672</object-name>
-  <object-name>b2673</object-name>
-  <object-name>b2677</object-name>
-  <object-name>b2680</object-name>
-  <object-name>b2684</object-name>
+  <object-name>b2663</object-name>
+  <object-name>b2664</object-name>
+  <object-name>b2669</object-name>
+  <object-name>b2670</object-name>
+  <object-name>b2681</object-name>
+  <object-name>b2685</object-name>
   <object-name>b2689</object-name>
-  <object-name>b2691</object-name>
-  <object-name>b2705</object-name>
-  <object-name>b2706</object-name>
-  <object-name>b2711</object-name>
-  <object-name>b2712</object-name>
-  <object-name>b2720</object-name>
-  <object-name>b2731</object-name>
-  <object-name>b2733</object-name>
-  <object-name>b2738</object-name>
-  <object-name>b2740</object-name>
-  <object-name>b2741</object-name>
+  <object-name>b2693</object-name>
+  <object-name>b2698</object-name>
+  <object-name>b2700</object-name>
+  <object-name>b2707</object-name>
+  <object-name>b2724</object-name>
+  <object-name>b2729</object-name>
+  <object-name>b2744</object-name>
+  <object-name>b2747</object-name>
 </effect>
 
 <effect>
@@ -202,120 +216,132 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b2568</object-name>
+  <object-name>b2567</object-name>
   <object-name>b2574</object-name>
   <object-name>b2576</object-name>
-  <object-name>b2577</object-name>
-  <object-name>b2583</object-name>
-  <object-name>b2587</object-name>
-  <object-name>b2588</object-name>
-  <object-name>b2589</object-name>
+  <object-name>b2579</object-name>
+  <object-name>b2592</object-name>
+  <object-name>b2597</object-name>
+  <object-name>b2598</object-name>
+  <object-name>b2599</object-name>
   <object-name>b2605</object-name>
-  <object-name>b2611</object-name>
-  <object-name>b2621</object-name>
-  <object-name>b2634</object-name>
-  <object-name>b2636</object-name>
-  <object-name>b2639</object-name>
-  <object-name>b2642</object-name>
-  <object-name>b2646</object-name>
-  <object-name>b2650</object-name>
-  <object-name>b2670</object-name>
+  <object-name>b2607</object-name>
+  <object-name>b2616</object-name>
+  <object-name>b2629</object-name>
+  <object-name>b2632</object-name>
+  <object-name>b2633</object-name>
+  <object-name>b2641</object-name>
+  <object-name>b2644</object-name>
+  <object-name>b2665</object-name>
   <object-name>b2671</object-name>
-  <object-name>b2676</object-name>
-  <object-name>b2678</object-name>
-  <object-name>b2690</object-name>
+  <object-name>b2672</object-name>
+  <object-name>b2674</object-name>
+  <object-name>b2684</object-name>
+  <object-name>b2687</object-name>
+  <object-name>b2688</object-name>
   <object-name>b2692</object-name>
-  <object-name>b2696</object-name>
-  <object-name>b2698</object-name>
-  <object-name>b2700</object-name>
-  <object-name>b2707</object-name>
-  <object-name>b2721</object-name>
-  <object-name>b2723</object-name>
-  <object-name>b2735</object-name>
+  <object-name>b2695</object-name>
+  <object-name>b2697</object-name>
+  <object-name>b2702</object-name>
+  <object-name>b2705</object-name>
+  <object-name>b2709</object-name>
+  <object-name>b2713</object-name>
+  <object-name>b2714</object-name>
+  <object-name>b2716</object-name>
+  <object-name>b2718</object-name>
+  <object-name>b2719</object-name>
+  <object-name>b2722</object-name>
+  <object-name>b2725</object-name>
+  <object-name>b2733</object-name>
+  <object-name>b2746</object-name>
+  <object-name>b2750</object-name>
+  <object-name>b2751</object-name>
 </effect>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b2561</object-name>
+  <object-name>b2563</object-name>
   <object-name>b2566</object-name>
-  <object-name>b2569</object-name>
-  <object-name>b2570</object-name>
-  <object-name>b2579</object-name>
-  <object-name>b2582</object-name>
-  <object-name>b2584</object-name>
-  <object-name>b2591</object-name>
-  <object-name>b2597</object-name>
-  <object-name>b2601</object-name>
-  <object-name>b2605</object-name>
-  <object-name>b2613</object-name>
-  <object-name>b2617</object-name>
-  <object-name>b2625</object-name>
-  <object-name>b2627</object-name>
+  <object-name>b2567</object-name>
+  <object-name>b2574</object-name>
+  <object-name>b2575</object-name>
+  <object-name>b2587</object-name>
+  <object-name>b2592</object-name>
+  <object-name>b2595</object-name>
+  <object-name>b2596</object-name>
+  <object-name>b2614</object-name>
+  <object-name>b2616</object-name>
+  <object-name>b2619</object-name>
+  <object-name>b2637</object-name>
+  <object-name>b2638</object-name>
   <object-name>b2644</object-name>
-  <object-name>b2645</object-name>
-  <object-name>b2657</object-name>
-  <object-name>b2663</object-name>
   <object-name>b2668</object-name>
   <object-name>b2670</object-name>
-  <object-name>b2674</object-name>
-  <object-name>b2692</object-name>
+  <object-name>b2673</object-name>
+  <object-name>b2676</object-name>
+  <object-name>b2678</object-name>
+  <object-name>b2682</object-name>
+  <object-name>b2684</object-name>
+  <object-name>b2688</object-name>
   <object-name>b2694</object-name>
   <object-name>b2695</object-name>
-  <object-name>b2698</object-name>
   <object-name>b2699</object-name>
-  <object-name>b2704</object-name>
-  <object-name>b2705</object-name>
-  <object-name>b2706</object-name>
+  <object-name>b2702</object-name>
   <object-name>b2707</object-name>
-  <object-name>b2717</object-name>
-  <object-name>b2721</object-name>
+  <object-name>b2708</object-name>
+  <object-name>b2709</object-name>
+  <object-name>b2710</object-name>
+  <object-name>b2712</object-name>
+  <object-name>b2713</object-name>
+  <object-name>b2718</object-name>
+  <object-name>b2722</object-name>
+  <object-name>b2723</object-name>
   <object-name>b2724</object-name>
-  <object-name>b2730</object-name>
-  <object-name>b2732</object-name>
-  <object-name>b2733</object-name>
-  <object-name>b2739</object-name>
+  <object-name>b2741</object-name>
+  <object-name>b2748</object-name>
+  <object-name>b2750</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/detailed</max-property>
-  <object-name>b2562</object-name>
-  <object-name>b2563</object-name>
   <object-name>b2564</object-name>
   <object-name>b2565</object-name>
-  <object-name>b2567</object-name>
   <object-name>b2568</object-name>
+  <object-name>b2569</object-name>
+  <object-name>b2570</object-name>
   <object-name>b2571</object-name>
   <object-name>b2572</object-name>
   <object-name>b2573</object-name>
-  <object-name>b2574</object-name>
-  <object-name>b2575</object-name>
   <object-name>b2576</object-name>
   <object-name>b2577</object-name>
   <object-name>b2578</object-name>
+  <object-name>b2579</object-name>
   <object-name>b2580</object-name>
   <object-name>b2581</object-name>
+  <object-name>b2582</object-name>
   <object-name>b2583</object-name>
+  <object-name>b2584</object-name>
   <object-name>b2585</object-name>
   <object-name>b2586</object-name>
-  <object-name>b2587</object-name>
   <object-name>b2588</object-name>
   <object-name>b2589</object-name>
   <object-name>b2590</object-name>
-  <object-name>b2592</object-name>
+  <object-name>b2591</object-name>
   <object-name>b2593</object-name>
   <object-name>b2594</object-name>
-  <object-name>b2595</object-name>
-  <object-name>b2596</object-name>
+  <object-name>b2597</object-name>
   <object-name>b2598</object-name>
   <object-name>b2599</object-name>
   <object-name>b2600</object-name>
+  <object-name>b2601</object-name>
   <object-name>b2602</object-name>
   <object-name>b2603</object-name>
   <object-name>b2604</object-name>
+  <object-name>b2605</object-name>
   <object-name>b2606</object-name>
   <object-name>b2607</object-name>
   <object-name>b2608</object-name>
@@ -323,17 +349,18 @@
   <object-name>b2610</object-name>
   <object-name>b2611</object-name>
   <object-name>b2612</object-name>
-  <object-name>b2614</object-name>
+  <object-name>b2613</object-name>
   <object-name>b2615</object-name>
-  <object-name>b2616</object-name>
+  <object-name>b2617</object-name>
   <object-name>b2618</object-name>
-  <object-name>b2619</object-name>
   <object-name>b2620</object-name>
   <object-name>b2621</object-name>
   <object-name>b2622</object-name>
   <object-name>b2623</object-name>
   <object-name>b2624</object-name>
+  <object-name>b2625</object-name>
   <object-name>b2626</object-name>
+  <object-name>b2627</object-name>
   <object-name>b2628</object-name>
   <object-name>b2629</object-name>
   <object-name>b2630</object-name>
@@ -343,13 +370,12 @@
   <object-name>b2634</object-name>
   <object-name>b2635</object-name>
   <object-name>b2636</object-name>
-  <object-name>b2637</object-name>
-  <object-name>b2638</object-name>
   <object-name>b2639</object-name>
   <object-name>b2640</object-name>
   <object-name>b2641</object-name>
   <object-name>b2642</object-name>
   <object-name>b2643</object-name>
+  <object-name>b2645</object-name>
   <object-name>b2646</object-name>
   <object-name>b2647</object-name>
   <object-name>b2648</object-name>
@@ -361,11 +387,13 @@
   <object-name>b2654</object-name>
   <object-name>b2655</object-name>
   <object-name>b2656</object-name>
+  <object-name>b2657</object-name>
   <object-name>b2658</object-name>
   <object-name>b2659</object-name>
   <object-name>b2660</object-name>
   <object-name>b2661</object-name>
   <object-name>b2662</object-name>
+  <object-name>b2663</object-name>
   <object-name>b2664</object-name>
   <object-name>b2665</object-name>
   <object-name>b2666</object-name>
@@ -373,104 +401,107 @@
   <object-name>b2669</object-name>
   <object-name>b2671</object-name>
   <object-name>b2672</object-name>
-  <object-name>b2673</object-name>
+  <object-name>b2674</object-name>
   <object-name>b2675</object-name>
-  <object-name>b2676</object-name>
   <object-name>b2677</object-name>
-  <object-name>b2678</object-name>
   <object-name>b2679</object-name>
   <object-name>b2680</object-name>
   <object-name>b2681</object-name>
-  <object-name>b2682</object-name>
   <object-name>b2683</object-name>
-  <object-name>b2684</object-name>
   <object-name>b2685</object-name>
   <object-name>b2686</object-name>
   <object-name>b2687</object-name>
-  <object-name>b2688</object-name>
   <object-name>b2689</object-name>
   <object-name>b2690</object-name>
   <object-name>b2691</object-name>
+  <object-name>b2692</object-name>
   <object-name>b2693</object-name>
   <object-name>b2696</object-name>
   <object-name>b2697</object-name>
+  <object-name>b2698</object-name>
   <object-name>b2700</object-name>
   <object-name>b2701</object-name>
-  <object-name>b2702</object-name>
   <object-name>b2703</object-name>
-  <object-name>b2708</object-name>
-  <object-name>b2709</object-name>
-  <object-name>b2710</object-name>
+  <object-name>b2704</object-name>
+  <object-name>b2705</object-name>
+  <object-name>b2706</object-name>
   <object-name>b2711</object-name>
-  <object-name>b2712</object-name>
-  <object-name>b2713</object-name>
   <object-name>b2714</object-name>
   <object-name>b2715</object-name>
   <object-name>b2716</object-name>
-  <object-name>b2718</object-name>
+  <object-name>b2717</object-name>
   <object-name>b2719</object-name>
   <object-name>b2720</object-name>
-  <object-name>b2722</object-name>
-  <object-name>b2723</object-name>
+  <object-name>b2721</object-name>
   <object-name>b2725</object-name>
   <object-name>b2726</object-name>
   <object-name>b2727</object-name>
   <object-name>b2728</object-name>
   <object-name>b2729</object-name>
+  <object-name>b2730</object-name>
   <object-name>b2731</object-name>
+  <object-name>b2732</object-name>
+  <object-name>b2733</object-name>
   <object-name>b2734</object-name>
   <object-name>b2735</object-name>
   <object-name>b2736</object-name>
   <object-name>b2737</object-name>
   <object-name>b2738</object-name>
+  <object-name>b2739</object-name>
   <object-name>b2740</object-name>
-  <object-name>b2741</object-name>
+  <object-name>b2742</object-name>
+  <object-name>b2743</object-name>
+  <object-name>b2744</object-name>
+  <object-name>b2745</object-name>
+  <object-name>b2746</object-name>
+  <object-name>b2747</object-name>
+  <object-name>b2749</object-name>
+  <object-name>b2751</object-name>
+  <object-name>b2752</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/roof</max-property>
-  <object-name>b2562-roof</object-name>
-  <object-name>b2563-roof</object-name>
   <object-name>b2564-roof</object-name>
   <object-name>b2565-roof</object-name>
-  <object-name>b2566-roof</object-name>
-  <object-name>b2568-roof</object-name>
+  <object-name>b2567-roof</object-name>
   <object-name>b2569-roof</object-name>
   <object-name>b2570-roof</object-name>
   <object-name>b2571-roof</object-name>
   <object-name>b2572-roof</object-name>
   <object-name>b2573-roof</object-name>
+  <object-name>b2574-roof</object-name>
   <object-name>b2575-roof</object-name>
   <object-name>b2576-roof</object-name>
-  <object-name>b2577-roof</object-name>
   <object-name>b2578-roof</object-name>
   <object-name>b2579-roof</object-name>
   <object-name>b2580-roof</object-name>
   <object-name>b2581-roof</object-name>
+  <object-name>b2582-roof</object-name>
   <object-name>b2583-roof</object-name>
   <object-name>b2584-roof</object-name>
   <object-name>b2585-roof</object-name>
   <object-name>b2586-roof</object-name>
   <object-name>b2587-roof</object-name>
-  <object-name>b2588-roof</object-name>
   <object-name>b2589-roof</object-name>
+  <object-name>b2590-roof</object-name>
+  <object-name>b2591-roof</object-name>
   <object-name>b2592-roof</object-name>
   <object-name>b2593-roof</object-name>
   <object-name>b2594-roof</object-name>
-  <object-name>b2595-roof</object-name>
-  <object-name>b2596-roof</object-name>
   <object-name>b2597-roof</object-name>
   <object-name>b2598-roof</object-name>
   <object-name>b2599-roof</object-name>
   <object-name>b2600-roof</object-name>
+  <object-name>b2601-roof</object-name>
   <object-name>b2602-roof</object-name>
   <object-name>b2603-roof</object-name>
   <object-name>b2604-roof</object-name>
   <object-name>b2605-roof</object-name>
   <object-name>b2606-roof</object-name>
-  <object-name>b2607-roof</object-name>
+  <object-name>b2608-roof</object-name>
   <object-name>b2609-roof</object-name>
   <object-name>b2610-roof</object-name>
   <object-name>b2611-roof</object-name>
@@ -507,7 +538,6 @@
   <object-name>b2642-roof</object-name>
   <object-name>b2643-roof</object-name>
   <object-name>b2644-roof</object-name>
-  <object-name>b2645-roof</object-name>
   <object-name>b2646-roof</object-name>
   <object-name>b2647-roof</object-name>
   <object-name>b2648-roof</object-name>
@@ -532,9 +562,9 @@
   <object-name>b2667-roof</object-name>
   <object-name>b2668-roof</object-name>
   <object-name>b2669-roof</object-name>
+  <object-name>b2670-roof</object-name>
   <object-name>b2671-roof</object-name>
   <object-name>b2672-roof</object-name>
-  <object-name>b2673-roof</object-name>
   <object-name>b2674-roof</object-name>
   <object-name>b2675-roof</object-name>
   <object-name>b2676-roof</object-name>
@@ -555,23 +585,24 @@
   <object-name>b2691-roof</object-name>
   <object-name>b2692-roof</object-name>
   <object-name>b2693-roof</object-name>
+  <object-name>b2694-roof</object-name>
   <object-name>b2695-roof</object-name>
   <object-name>b2696-roof</object-name>
   <object-name>b2697-roof</object-name>
   <object-name>b2698-roof</object-name>
-  <object-name>b2699-roof</object-name>
   <object-name>b2700-roof</object-name>
   <object-name>b2701-roof</object-name>
   <object-name>b2702-roof</object-name>
   <object-name>b2703-roof</object-name>
+  <object-name>b2704-roof</object-name>
   <object-name>b2705-roof</object-name>
   <object-name>b2706-roof</object-name>
+  <object-name>b2707-roof</object-name>
   <object-name>b2708-roof</object-name>
   <object-name>b2709-roof</object-name>
   <object-name>b2710-roof</object-name>
   <object-name>b2711-roof</object-name>
   <object-name>b2712-roof</object-name>
-  <object-name>b2713-roof</object-name>
   <object-name>b2714-roof</object-name>
   <object-name>b2715-roof</object-name>
   <object-name>b2716-roof</object-name>
@@ -589,61 +620,70 @@
   <object-name>b2728-roof</object-name>
   <object-name>b2729-roof</object-name>
   <object-name>b2730-roof</object-name>
+  <object-name>b2731-roof</object-name>
   <object-name>b2732-roof</object-name>
   <object-name>b2733-roof</object-name>
   <object-name>b2734-roof</object-name>
   <object-name>b2735-roof</object-name>
+  <object-name>b2736-roof</object-name>
   <object-name>b2737-roof</object-name>
   <object-name>b2738-roof</object-name>
   <object-name>b2739-roof</object-name>
-  <object-name>b2740-roof</object-name>
   <object-name>b2741-roof</object-name>
+  <object-name>b2742-roof</object-name>
+  <object-name>b2743-roof</object-name>
+  <object-name>b2744-roof</object-name>
+  <object-name>b2745-roof</object-name>
+  <object-name>b2746-roof</object-name>
+  <object-name>b2747-roof</object-name>
+  <object-name>b2748-roof</object-name>
+  <object-name>b2750-roof</object-name>
+  <object-name>b2751-roof</object-name>
+  <object-name>b2752-roof</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-property>/sim/rendering/static-lod/roof</min-property>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b2562-flat</object-name>
-  <object-name>b2563-flat</object-name>
   <object-name>b2564-flat</object-name>
   <object-name>b2565-flat</object-name>
-  <object-name>b2566-flat</object-name>
-  <object-name>b2568-flat</object-name>
+  <object-name>b2567-flat</object-name>
   <object-name>b2569-flat</object-name>
   <object-name>b2570-flat</object-name>
   <object-name>b2571-flat</object-name>
   <object-name>b2572-flat</object-name>
   <object-name>b2573-flat</object-name>
+  <object-name>b2574-flat</object-name>
   <object-name>b2575-flat</object-name>
   <object-name>b2576-flat</object-name>
-  <object-name>b2577-flat</object-name>
   <object-name>b2578-flat</object-name>
   <object-name>b2579-flat</object-name>
   <object-name>b2580-flat</object-name>
   <object-name>b2581-flat</object-name>
+  <object-name>b2582-flat</object-name>
   <object-name>b2583-flat</object-name>
   <object-name>b2584-flat</object-name>
   <object-name>b2585-flat</object-name>
   <object-name>b2586-flat</object-name>
   <object-name>b2587-flat</object-name>
-  <object-name>b2588-flat</object-name>
   <object-name>b2589-flat</object-name>
+  <object-name>b2590-flat</object-name>
+  <object-name>b2591-flat</object-name>
   <object-name>b2592-flat</object-name>
   <object-name>b2593-flat</object-name>
   <object-name>b2594-flat</object-name>
-  <object-name>b2595-flat</object-name>
-  <object-name>b2596-flat</object-name>
   <object-name>b2597-flat</object-name>
   <object-name>b2598-flat</object-name>
   <object-name>b2599-flat</object-name>
   <object-name>b2600-flat</object-name>
+  <object-name>b2601-flat</object-name>
   <object-name>b2602-flat</object-name>
   <object-name>b2603-flat</object-name>
   <object-name>b2604-flat</object-name>
   <object-name>b2605-flat</object-name>
   <object-name>b2606-flat</object-name>
-  <object-name>b2607-flat</object-name>
+  <object-name>b2608-flat</object-name>
   <object-name>b2609-flat</object-name>
   <object-name>b2610-flat</object-name>
   <object-name>b2611-flat</object-name>
@@ -680,7 +720,6 @@
   <object-name>b2642-flat</object-name>
   <object-name>b2643-flat</object-name>
   <object-name>b2644-flat</object-name>
-  <object-name>b2645-flat</object-name>
   <object-name>b2646-flat</object-name>
   <object-name>b2647-flat</object-name>
   <object-name>b2648-flat</object-name>
@@ -705,9 +744,9 @@
   <object-name>b2667-flat</object-name>
   <object-name>b2668-flat</object-name>
   <object-name>b2669-flat</object-name>
+  <object-name>b2670-flat</object-name>
   <object-name>b2671-flat</object-name>
   <object-name>b2672-flat</object-name>
-  <object-name>b2673-flat</object-name>
   <object-name>b2674-flat</object-name>
   <object-name>b2675-flat</object-name>
   <object-name>b2676-flat</object-name>
@@ -728,23 +767,24 @@
   <object-name>b2691-flat</object-name>
   <object-name>b2692-flat</object-name>
   <object-name>b2693-flat</object-name>
+  <object-name>b2694-flat</object-name>
   <object-name>b2695-flat</object-name>
   <object-name>b2696-flat</object-name>
   <object-name>b2697-flat</object-name>
   <object-name>b2698-flat</object-name>
-  <object-name>b2699-flat</object-name>
   <object-name>b2700-flat</object-name>
   <object-name>b2701-flat</object-name>
   <object-name>b2702-flat</object-name>
   <object-name>b2703-flat</object-name>
+  <object-name>b2704-flat</object-name>
   <object-name>b2705-flat</object-name>
   <object-name>b2706-flat</object-name>
+  <object-name>b2707-flat</object-name>
   <object-name>b2708-flat</object-name>
   <object-name>b2709-flat</object-name>
   <object-name>b2710-flat</object-name>
   <object-name>b2711-flat</object-name>
   <object-name>b2712-flat</object-name>
-  <object-name>b2713-flat</object-name>
   <object-name>b2714-flat</object-name>
   <object-name>b2715-flat</object-name>
   <object-name>b2716-flat</object-name>
@@ -762,15 +802,26 @@
   <object-name>b2728-flat</object-name>
   <object-name>b2729-flat</object-name>
   <object-name>b2730-flat</object-name>
+  <object-name>b2731-flat</object-name>
   <object-name>b2732-flat</object-name>
   <object-name>b2733-flat</object-name>
   <object-name>b2734-flat</object-name>
   <object-name>b2735-flat</object-name>
+  <object-name>b2736-flat</object-name>
   <object-name>b2737-flat</object-name>
   <object-name>b2738-flat</object-name>
   <object-name>b2739-flat</object-name>
-  <object-name>b2740-flat</object-name>
   <object-name>b2741-flat</object-name>
+  <object-name>b2742-flat</object-name>
+  <object-name>b2743-flat</object-name>
+  <object-name>b2744-flat</object-name>
+  <object-name>b2745-flat</object-name>
+  <object-name>b2746-flat</object-name>
+  <object-name>b2747-flat</object-name>
+  <object-name>b2748-flat</object-name>
+  <object-name>b2750-flat</object-name>
+  <object-name>b2751-flat</object-name>
+  <object-name>b2752-flat</object-name>
 </animation>
 
 </PropertyList>

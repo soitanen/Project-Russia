@@ -11,17 +11,12 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b4110</object-name>
-  <object-name>b4114</object-name>
-  <object-name>b4128</object-name>
-  <object-name>b4131</object-name>
-  <object-name>b4140</object-name>
-  <object-name>b4142</object-name>
-  <object-name>b4144</object-name>
+  <object-name>b4145</object-name>
   <object-name>b4146</object-name>
-  <object-name>b4155</object-name>
-  <object-name>b4157</object-name>
-  <object-name>b4159</object-name>
+  <object-name>b4150</object-name>
+  <object-name>b4151</object-name>
+  <object-name>b4153</object-name>
+  <object-name>b4188</object-name>
 </effect>
 
 <effect>
@@ -34,12 +29,14 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b4121</object-name>
+  <object-name>b4135</object-name>
+  <object-name>b4140</object-name>
+  <object-name>b4142</object-name>
   <object-name>b4143</object-name>
-  <object-name>b4145</object-name>
-  <object-name>b4150</object-name>
-  <object-name>b4152</object-name>
-  <object-name>b4161</object-name>
+  <object-name>b4154</object-name>
+  <object-name>b4165</object-name>
+  <object-name>b4181</object-name>
+  <object-name>b4186</object-name>
 </effect>
 
 <effect>
@@ -52,7 +49,10 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b4156</object-name>
+  <object-name>b4160</object-name>
+  <object-name>b4168</object-name>
+  <object-name>b4180</object-name>
+  <object-name>b4187</object-name>
 </effect>
 
 <effect>
@@ -65,8 +65,9 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b4106</object-name>
-  <object-name>b4149</object-name>
+  <object-name>b4137</object-name>
+  <object-name>b4172</object-name>
+  <object-name>b4179</object-name>
 </effect>
 
 <effect>
@@ -79,16 +80,12 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b4123</object-name>
-  <object-name>b4124</object-name>
-  <object-name>b4125</object-name>
-  <object-name>b4126</object-name>
-  <object-name>b4129</object-name>
-  <object-name>b4133</object-name>
-  <object-name>b4134</object-name>
-  <object-name>b4135</object-name>
-  <object-name>b4153</object-name>
-  <object-name>b4154</object-name>
+  <object-name>b4155</object-name>
+  <object-name>b4158</object-name>
+  <object-name>b4162</object-name>
+  <object-name>b4166</object-name>
+  <object-name>b4170</object-name>
+  <object-name>b4182</object-name>
 </effect>
 
 <effect>
@@ -101,19 +98,13 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b4105</object-name>
-  <object-name>b4107</object-name>
-  <object-name>b4109</object-name>
-  <object-name>b4111</object-name>
-  <object-name>b4115</object-name>
-  <object-name>b4116</object-name>
-  <object-name>b4118</object-name>
-  <object-name>b4122</object-name>
+  <object-name>b4136</object-name>
   <object-name>b4138</object-name>
   <object-name>b4139</object-name>
-  <object-name>b4147</object-name>
-  <object-name>b4151</object-name>
-  <object-name>b4163</object-name>
+  <object-name>b4144</object-name>
+  <object-name>b4156</object-name>
+  <object-name>b4171</object-name>
+  <object-name>b4183</object-name>
 </effect>
 
 <effect>
@@ -126,136 +117,119 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b4113</object-name>
-  <object-name>b4120</object-name>
-  <object-name>b4137</object-name>
-  <object-name>b4141</object-name>
-  <object-name>b4158</object-name>
-  <object-name>b4160</object-name>
-  <object-name>b4162</object-name>
+  <object-name>b4174</object-name>
+  <object-name>b4175</object-name>
+  <object-name>b4176</object-name>
+  <object-name>b4184</object-name>
 </effect>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b4105</object-name>
-  <object-name>b4106</object-name>
-  <object-name>b4107</object-name>
-  <object-name>b4108</object-name>
-  <object-name>b4111</object-name>
-  <object-name>b4112</object-name>
-  <object-name>b4113</object-name>
-  <object-name>b4114</object-name>
-  <object-name>b4115</object-name>
-  <object-name>b4116</object-name>
-  <object-name>b4117</object-name>
-  <object-name>b4118</object-name>
-  <object-name>b4119</object-name>
-  <object-name>b4123</object-name>
-  <object-name>b4124</object-name>
-  <object-name>b4125</object-name>
-  <object-name>b4126</object-name>
-  <object-name>b4127</object-name>
-  <object-name>b4128</object-name>
-  <object-name>b4129</object-name>
-  <object-name>b4130</object-name>
-  <object-name>b4131</object-name>
-  <object-name>b4132</object-name>
-  <object-name>b4133</object-name>
-  <object-name>b4134</object-name>
   <object-name>b4135</object-name>
-  <object-name>b4136</object-name>
   <object-name>b4137</object-name>
-  <object-name>b4139</object-name>
+  <object-name>b4138</object-name>
   <object-name>b4140</object-name>
   <object-name>b4141</object-name>
-  <object-name>b4142</object-name>
   <object-name>b4143</object-name>
   <object-name>b4144</object-name>
-  <object-name>b4145</object-name>
   <object-name>b4146</object-name>
+  <object-name>b4147</object-name>
   <object-name>b4148</object-name>
-  <object-name>b4149</object-name>
   <object-name>b4150</object-name>
+  <object-name>b4151</object-name>
   <object-name>b4152</object-name>
   <object-name>b4153</object-name>
   <object-name>b4154</object-name>
   <object-name>b4155</object-name>
+  <object-name>b4156</object-name>
   <object-name>b4157</object-name>
+  <object-name>b4158</object-name>
   <object-name>b4159</object-name>
   <object-name>b4160</object-name>
   <object-name>b4161</object-name>
   <object-name>b4162</object-name>
   <object-name>b4163</object-name>
+  <object-name>b4164</object-name>
+  <object-name>b4166</object-name>
+  <object-name>b4167</object-name>
+  <object-name>b4168</object-name>
+  <object-name>b4169</object-name>
+  <object-name>b4170</object-name>
+  <object-name>b4171</object-name>
+  <object-name>b4172</object-name>
+  <object-name>b4173</object-name>
+  <object-name>b4175</object-name>
+  <object-name>b4177</object-name>
+  <object-name>b4178</object-name>
+  <object-name>b4179</object-name>
+  <object-name>b4180</object-name>
+  <object-name>b4184</object-name>
+  <object-name>b4185</object-name>
+  <object-name>b4186</object-name>
+  <object-name>b4188</object-name>
+  <object-name>b4189</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/detailed</max-property>
-  <object-name>b4109</object-name>
-  <object-name>b4110</object-name>
-  <object-name>b4120</object-name>
-  <object-name>b4121</object-name>
-  <object-name>b4122</object-name>
-  <object-name>b4138</object-name>
-  <object-name>b4147</object-name>
-  <object-name>b4151</object-name>
-  <object-name>b4156</object-name>
-  <object-name>b4158</object-name>
+  <object-name>b4136</object-name>
+  <object-name>b4139</object-name>
+  <object-name>b4142</object-name>
+  <object-name>b4145</object-name>
+  <object-name>b4149</object-name>
+  <object-name>b4165</object-name>
+  <object-name>b4174</object-name>
+  <object-name>b4176</object-name>
+  <object-name>b4181</object-name>
+  <object-name>b4182</object-name>
+  <object-name>b4183</object-name>
+  <object-name>b4187</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/roof</max-property>
-  <object-name>b4105-roof</object-name>
-  <object-name>b4109-roof</object-name>
-  <object-name>b4110-roof</object-name>
-  <object-name>b4112-roof</object-name>
-  <object-name>b4113-roof</object-name>
-  <object-name>b4114-roof</object-name>
-  <object-name>b4115-roof</object-name>
-  <object-name>b4121-roof</object-name>
-  <object-name>b4122-roof</object-name>
-  <object-name>b4128-roof</object-name>
-  <object-name>b4140-roof</object-name>
+  <object-name>b4136-roof</object-name>
+  <object-name>b4139-roof</object-name>
   <object-name>b4141-roof</object-name>
+  <object-name>b4142-roof</object-name>
+  <object-name>b4143-roof</object-name>
+  <object-name>b4149-roof</object-name>
   <object-name>b4151-roof</object-name>
-  <object-name>b4155-roof</object-name>
-  <object-name>b4156-roof</object-name>
-  <object-name>b4158-roof</object-name>
-  <object-name>b4159-roof</object-name>
-  <object-name>b4160-roof</object-name>
-  <object-name>b4161-roof</object-name>
-  <object-name>b4163-roof</object-name>
+  <object-name>b4153-roof</object-name>
+  <object-name>b4171-roof</object-name>
+  <object-name>b4174-roof</object-name>
+  <object-name>b4176-roof</object-name>
+  <object-name>b4181-roof</object-name>
+  <object-name>b4183-roof</object-name>
+  <object-name>b4187-roof</object-name>
+  <object-name>b4188-roof</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-property>/sim/rendering/static-lod/roof</min-property>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b4105-flat</object-name>
-  <object-name>b4109-flat</object-name>
-  <object-name>b4110-flat</object-name>
-  <object-name>b4112-flat</object-name>
-  <object-name>b4113-flat</object-name>
-  <object-name>b4114-flat</object-name>
-  <object-name>b4115-flat</object-name>
-  <object-name>b4121-flat</object-name>
-  <object-name>b4122-flat</object-name>
-  <object-name>b4128-flat</object-name>
-  <object-name>b4140-flat</object-name>
+  <object-name>b4136-flat</object-name>
+  <object-name>b4139-flat</object-name>
   <object-name>b4141-flat</object-name>
+  <object-name>b4142-flat</object-name>
+  <object-name>b4143-flat</object-name>
+  <object-name>b4149-flat</object-name>
   <object-name>b4151-flat</object-name>
-  <object-name>b4155-flat</object-name>
-  <object-name>b4156-flat</object-name>
-  <object-name>b4158-flat</object-name>
-  <object-name>b4159-flat</object-name>
-  <object-name>b4160-flat</object-name>
-  <object-name>b4161-flat</object-name>
-  <object-name>b4163-flat</object-name>
+  <object-name>b4153-flat</object-name>
+  <object-name>b4171-flat</object-name>
+  <object-name>b4174-flat</object-name>
+  <object-name>b4176-flat</object-name>
+  <object-name>b4181-flat</object-name>
+  <object-name>b4183-flat</object-name>
+  <object-name>b4187-flat</object-name>
+  <object-name>b4188-flat</object-name>
 </animation>
 
 </PropertyList>

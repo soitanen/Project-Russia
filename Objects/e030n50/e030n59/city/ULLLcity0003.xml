@@ -11,9 +11,10 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b61</object-name>
-  <object-name>b63</object-name>
-  <object-name>b66</object-name>
+  <object-name>b57</object-name>
+  <object-name>b71</object-name>
+  <object-name>b76</object-name>
+  <object-name>b80</object-name>
 </effect>
 
 <effect>
@@ -26,11 +27,11 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b55</object-name>
-  <object-name>b56</object-name>
+  <object-name>b62</object-name>
+  <object-name>b64</object-name>
+  <object-name>b68</object-name>
   <object-name>b69</object-name>
-  <object-name>b70</object-name>
-  <object-name>b75</object-name>
+  <object-name>b83</object-name>
 </effect>
 
 <effect>
@@ -43,10 +44,37 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b60</object-name>
-  <object-name>b68</object-name>
+  <object-name>b67</object-name>
   <object-name>b73</object-name>
-  <object-name>b77</object-name>
+  <object-name>b82</object-name>
+  <object-name>b85</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9678_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b60</object-name>
+  <object-name>b65</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/wohnheime_petersburger_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b75</object-name>
 </effect>
 
 <effect>
@@ -59,11 +87,13 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b59</object-name>
-  <object-name>b64</object-name>
-  <object-name>b71</object-name>
-  <object-name>b72</object-name>
-  <object-name>b78</object-name>
+  <object-name>b58</object-name>
+  <object-name>b61</object-name>
+  <object-name>b70</object-name>
+  <object-name>b74</object-name>
+  <object-name>b79</object-name>
+  <object-name>b81</object-name>
+  <object-name>b86</object-name>
 </effect>
 
 <effect>
@@ -76,74 +106,86 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b57</object-name>
-  <object-name>b58</object-name>
-  <object-name>b62</object-name>
-  <object-name>b67</object-name>
-  <object-name>b74</object-name>
-  <object-name>b76</object-name>
+  <object-name>b66</object-name>
+  <object-name>b72</object-name>
+  <object-name>b78</object-name>
+  <object-name>b84</object-name>
 </effect>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b55</object-name>
-  <object-name>b56</object-name>
   <object-name>b57</object-name>
   <object-name>b58</object-name>
   <object-name>b59</object-name>
   <object-name>b60</object-name>
   <object-name>b61</object-name>
   <object-name>b62</object-name>
+  <object-name>b63</object-name>
   <object-name>b64</object-name>
   <object-name>b65</object-name>
-  <object-name>b66</object-name>
   <object-name>b67</object-name>
-  <object-name>b68</object-name>
   <object-name>b69</object-name>
   <object-name>b70</object-name>
   <object-name>b71</object-name>
   <object-name>b72</object-name>
   <object-name>b73</object-name>
+  <object-name>b74</object-name>
+  <object-name>b75</object-name>
+  <object-name>b77</object-name>
+  <object-name>b78</object-name>
+  <object-name>b79</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/detailed</max-property>
-  <object-name>b63</object-name>
-  <object-name>b74</object-name>
-  <object-name>b75</object-name>
+  <object-name>b66</object-name>
+  <object-name>b68</object-name>
   <object-name>b76</object-name>
-  <object-name>b77</object-name>
-  <object-name>b78</object-name>
+  <object-name>b80</object-name>
+  <object-name>b81</object-name>
+  <object-name>b82</object-name>
+  <object-name>b83</object-name>
+  <object-name>b84</object-name>
+  <object-name>b85</object-name>
+  <object-name>b86</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/roof</max-property>
-  <object-name>b63-roof</object-name>
-  <object-name>b71-roof</object-name>
-  <object-name>b74-roof</object-name>
-  <object-name>b75-roof</object-name>
+  <object-name>b66-roof</object-name>
+  <object-name>b68-roof</object-name>
   <object-name>b76-roof</object-name>
-  <object-name>b77-roof</object-name>
-  <object-name>b78-roof</object-name>
+  <object-name>b79-roof</object-name>
+  <object-name>b80-roof</object-name>
+  <object-name>b81-roof</object-name>
+  <object-name>b82-roof</object-name>
+  <object-name>b83-roof</object-name>
+  <object-name>b84-roof</object-name>
+  <object-name>b85-roof</object-name>
+  <object-name>b86-roof</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-property>/sim/rendering/static-lod/roof</min-property>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b63-flat</object-name>
-  <object-name>b71-flat</object-name>
-  <object-name>b74-flat</object-name>
-  <object-name>b75-flat</object-name>
+  <object-name>b66-flat</object-name>
+  <object-name>b68-flat</object-name>
   <object-name>b76-flat</object-name>
-  <object-name>b77-flat</object-name>
-  <object-name>b78-flat</object-name>
+  <object-name>b79-flat</object-name>
+  <object-name>b80-flat</object-name>
+  <object-name>b81-flat</object-name>
+  <object-name>b82-flat</object-name>
+  <object-name>b83-flat</object-name>
+  <object-name>b84-flat</object-name>
+  <object-name>b85-flat</object-name>
+  <object-name>b86-flat</object-name>
 </animation>
 
 </PropertyList>

@@ -11,13 +11,12 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b4999</object-name>
-  <object-name>b5000</object-name>
-  <object-name>b5005</object-name>
-  <object-name>b5009</object-name>
-  <object-name>b5016</object-name>
-  <object-name>b5026</object-name>
-  <object-name>b5037</object-name>
+  <object-name>b5017</object-name>
+  <object-name>b5019</object-name>
+  <object-name>b5034</object-name>
+  <object-name>b5039</object-name>
+  <object-name>b5048</object-name>
+  <object-name>b5065</object-name>
 </effect>
 
 <effect>
@@ -30,13 +29,11 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b4988</object-name>
-  <object-name>b5006</object-name>
-  <object-name>b5012</object-name>
-  <object-name>b5021</object-name>
-  <object-name>b5031</object-name>
-  <object-name>b5035</object-name>
-  <object-name>b5044</object-name>
+  <object-name>b5050</object-name>
+  <object-name>b5058</object-name>
+  <object-name>b5060</object-name>
+  <object-name>b5062</object-name>
+  <object-name>b5067</object-name>
 </effect>
 
 <effect>
@@ -49,14 +46,13 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b5007</object-name>
-  <object-name>b5008</object-name>
-  <object-name>b5023</object-name>
-  <object-name>b5032</object-name>
-  <object-name>b5033</object-name>
-  <object-name>b5034</object-name>
-  <object-name>b5036</object-name>
+  <object-name>b5029</object-name>
   <object-name>b5040</object-name>
+  <object-name>b5043</object-name>
+  <object-name>b5047</object-name>
+  <object-name>b5057</object-name>
+  <object-name>b5059</object-name>
+  <object-name>b5061</object-name>
 </effect>
 
 <effect>
@@ -69,9 +65,11 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b4989</object-name>
-  <object-name>b5010</object-name>
-  <object-name>b5011</object-name>
+  <object-name>b5021</object-name>
+  <object-name>b5038</object-name>
+  <object-name>b5044</object-name>
+  <object-name>b5046</object-name>
+  <object-name>b5055</object-name>
 </effect>
 
 <effect>
@@ -84,11 +82,13 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b5001</object-name>
-  <object-name>b5003</object-name>
-  <object-name>b5039</object-name>
-  <object-name>b5042</object-name>
-  <object-name>b5043</object-name>
+  <object-name>b5020</object-name>
+  <object-name>b5028</object-name>
+  <object-name>b5032</object-name>
+  <object-name>b5036</object-name>
+  <object-name>b5052</object-name>
+  <object-name>b5056</object-name>
+  <object-name>b5064</object-name>
 </effect>
 
 <effect>
@@ -101,15 +101,11 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b4990</object-name>
-  <object-name>b4991</object-name>
-  <object-name>b4995</object-name>
-  <object-name>b4997</object-name>
-  <object-name>b4998</object-name>
-  <object-name>b5018</object-name>
-  <object-name>b5022</object-name>
-  <object-name>b5024</object-name>
+  <object-name>b5023</object-name>
+  <object-name>b5025</object-name>
   <object-name>b5041</object-name>
+  <object-name>b5042</object-name>
+  <object-name>b5069</object-name>
 </effect>
 
 <effect>
@@ -122,124 +118,17 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b5004</object-name>
-  <object-name>b5020</object-name>
-  <object-name>b5025</object-name>
-  <object-name>b5030</object-name>
-  <object-name>b5038</object-name>
+  <object-name>b5031</object-name>
+  <object-name>b5033</object-name>
+  <object-name>b5035</object-name>
+  <object-name>b5063</object-name>
+  <object-name>b5068</object-name>
 </effect>
 
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>1033.65</x-m>
-    <y-m>1424.68</y-m>
-    <z-m>77.3934</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>991.756</x-m>
-    <y-m>1426.79</y-m>
-    <z-m>77.3934</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>987.159</x-m>
-    <y-m>1412.05</y-m>
-    <z-m>77.3934</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>1029.05</x-m>
-    <y-m>1409.94</y-m>
-    <z-m>77.3934</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>1085.25</x-m>
-    <y-m>1603.18</y-m>
-    <z-m>76.7324</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>1043.37</x-m>
-    <y-m>1605.29</y-m>
-    <z-m>76.7324</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>1038.76</x-m>
-    <y-m>1590.55</y-m>
-    <z-m>76.7324</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>1080.66</x-m>
-    <y-m>1588.44</y-m>
-    <z-m>76.7324</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b4988</object-name>
-  <object-name>b4989</object-name>
-  <object-name>b4990</object-name>
-  <object-name>b4991</object-name>
-  <object-name>b4992</object-name>
-  <object-name>b4993</object-name>
-  <object-name>b4994</object-name>
-  <object-name>b4995</object-name>
-  <object-name>b4996</object-name>
-  <object-name>b4997</object-name>
-  <object-name>b4998</object-name>
-  <object-name>b4999</object-name>
-  <object-name>b5000</object-name>
-  <object-name>b5001</object-name>
-  <object-name>b5002</object-name>
-  <object-name>b5003</object-name>
-  <object-name>b5004</object-name>
-  <object-name>b5005</object-name>
-  <object-name>b5006</object-name>
-  <object-name>b5008</object-name>
-  <object-name>b5009</object-name>
-  <object-name>b5010</object-name>
-  <object-name>b5011</object-name>
-  <object-name>b5013</object-name>
-  <object-name>b5014</object-name>
-  <object-name>b5015</object-name>
-  <object-name>b5016</object-name>
   <object-name>b5017</object-name>
   <object-name>b5018</object-name>
   <object-name>b5019</object-name>
@@ -256,70 +145,89 @@
   <object-name>b5030</object-name>
   <object-name>b5032</object-name>
   <object-name>b5033</object-name>
+  <object-name>b5034</object-name>
   <object-name>b5035</object-name>
   <object-name>b5036</object-name>
   <object-name>b5037</object-name>
   <object-name>b5038</object-name>
   <object-name>b5039</object-name>
-  <object-name>b5040</object-name>
   <object-name>b5041</object-name>
+  <object-name>b5042</object-name>
+  <object-name>b5043</object-name>
+  <object-name>b5044</object-name>
+  <object-name>b5045</object-name>
+  <object-name>b5046</object-name>
+  <object-name>b5047</object-name>
+  <object-name>b5048</object-name>
+  <object-name>b5049</object-name>
+  <object-name>b5050</object-name>
+  <object-name>b5051</object-name>
+  <object-name>b5052</object-name>
+  <object-name>b5053</object-name>
+  <object-name>b5054</object-name>
+  <object-name>b5055</object-name>
+  <object-name>b5056</object-name>
+  <object-name>b5057</object-name>
+  <object-name>b5059</object-name>
+  <object-name>b5060</object-name>
+  <object-name>b5061</object-name>
+  <object-name>b5062</object-name>
+  <object-name>b5063</object-name>
+  <object-name>b5065</object-name>
+  <object-name>b5068</object-name>
+  <object-name>b5069</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/detailed</max-property>
-  <object-name>b5007</object-name>
-  <object-name>b5012</object-name>
   <object-name>b5031</object-name>
-  <object-name>b5034</object-name>
-  <object-name>b5042</object-name>
-  <object-name>b5043</object-name>
-  <object-name>b5044</object-name>
+  <object-name>b5040</object-name>
+  <object-name>b5058</object-name>
+  <object-name>b5064</object-name>
+  <object-name>b5066</object-name>
+  <object-name>b5067</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/roof</max-property>
-  <object-name>b5005-roof</object-name>
-  <object-name>b5006-roof</object-name>
-  <object-name>b5007-roof</object-name>
-  <object-name>b5008-roof</object-name>
-  <object-name>b5012-roof</object-name>
-  <object-name>b5023-roof</object-name>
-  <object-name>b5026-roof</object-name>
-  <object-name>b5030-roof</object-name>
   <object-name>b5031-roof</object-name>
-  <object-name>b5032-roof</object-name>
   <object-name>b5034-roof</object-name>
   <object-name>b5035-roof</object-name>
-  <object-name>b5037-roof</object-name>
+  <object-name>b5036-roof</object-name>
   <object-name>b5040-roof</object-name>
-  <object-name>b5043-roof</object-name>
-  <object-name>b5044-roof</object-name>
+  <object-name>b5048-roof</object-name>
+  <object-name>b5056-roof</object-name>
+  <object-name>b5058-roof</object-name>
+  <object-name>b5060-roof</object-name>
+  <object-name>b5061-roof</object-name>
+  <object-name>b5062-roof</object-name>
+  <object-name>b5066-roof</object-name>
+  <object-name>b5067-roof</object-name>
+  <object-name>b5068-roof</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-property>/sim/rendering/static-lod/roof</min-property>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b5005-flat</object-name>
-  <object-name>b5006-flat</object-name>
-  <object-name>b5007-flat</object-name>
-  <object-name>b5008-flat</object-name>
-  <object-name>b5012-flat</object-name>
-  <object-name>b5023-flat</object-name>
-  <object-name>b5026-flat</object-name>
-  <object-name>b5030-flat</object-name>
   <object-name>b5031-flat</object-name>
-  <object-name>b5032-flat</object-name>
   <object-name>b5034-flat</object-name>
   <object-name>b5035-flat</object-name>
-  <object-name>b5037-flat</object-name>
+  <object-name>b5036-flat</object-name>
   <object-name>b5040-flat</object-name>
-  <object-name>b5043-flat</object-name>
-  <object-name>b5044-flat</object-name>
+  <object-name>b5048-flat</object-name>
+  <object-name>b5056-flat</object-name>
+  <object-name>b5058-flat</object-name>
+  <object-name>b5060-flat</object-name>
+  <object-name>b5061-flat</object-name>
+  <object-name>b5062-flat</object-name>
+  <object-name>b5066-flat</object-name>
+  <object-name>b5067-flat</object-name>
+  <object-name>b5068-flat</object-name>
 </animation>
 
 </PropertyList>

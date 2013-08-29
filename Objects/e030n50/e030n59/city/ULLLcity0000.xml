@@ -6,14 +6,13 @@
   <parameters>
     <lightmap-enabled type="int">1</lightmap-enabled>
     <texture n="3">
-      <image>tex/DSCF9710_LM.png</image>
+      <image>tex/LZ_old_bright_bc2_LM.png</image>
       <wrap-s>repeat</wrap-s>
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
   <object-name>b3</object-name>
   <object-name>b5</object-name>
-  <object-name>b6</object-name>
 </effect>
 
 <effect>
@@ -35,7 +34,7 @@
   <parameters>
     <lightmap-enabled type="int">1</lightmap-enabled>
     <texture n="3">
-      <image>tex/LZ_old_bright_bc2_LM.png</image>
+      <image>tex/DSCF9710_LM.png</image>
       <wrap-s>repeat</wrap-s>
       <wrap-t>repeat</wrap-t>
     </texture>
@@ -47,18 +46,17 @@
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b1</object-name>
-  <object-name>b4</object-name>
+  <object-name>b3</object-name>
   <object-name>b5</object-name>
-  <object-name>b6</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/detailed</max-property>
+  <object-name>b1</object-name>
   <object-name>b2</object-name>
-  <object-name>b3</object-name>
+  <object-name>b4</object-name>
 </animation>
 
 <animation>
@@ -68,7 +66,8 @@
   <object-name>b1-roof</object-name>
   <object-name>b2-roof</object-name>
   <object-name>b3-roof</object-name>
-  <object-name>b6-roof</object-name>
+  <object-name>b4-roof</object-name>
+  <object-name>b5-roof</object-name>
 </animation>
 
 <animation>
@@ -78,7 +77,8 @@
   <object-name>b1-flat</object-name>
   <object-name>b2-flat</object-name>
   <object-name>b3-flat</object-name>
-  <object-name>b6-flat</object-name>
+  <object-name>b4-flat</object-name>
+  <object-name>b5-flat</object-name>
 </animation>
 
 </PropertyList>

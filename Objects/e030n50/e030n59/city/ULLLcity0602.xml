@@ -6,14 +6,14 @@
   <parameters>
     <lightmap-enabled type="int">1</lightmap-enabled>
     <texture n="3">
-      <image>tex/DSCF9495_pow2_LM.png</image>
+      <image>tex/DSCF9503_noroofsec_pow2_LM.png</image>
       <wrap-s>repeat</wrap-s>
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b5227</object-name>
-  <object-name>b5229</object-name>
-  <object-name>b5232</object-name>
+  <object-name>b5251</object-name>
+  <object-name>b5252</object-name>
+  <object-name>b5254</object-name>
 </effect>
 
 <effect>
@@ -26,7 +26,8 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b5233</object-name>
+  <object-name>b5246</object-name>
+  <object-name>b5247</object-name>
 </effect>
 
 <effect>
@@ -34,26 +35,12 @@
   <parameters>
     <lightmap-enabled type="int">1</lightmap-enabled>
     <texture n="3">
-      <image>tex/LZ_old_bright_bc2_LM.png</image>
+      <image>tex/DSCF9495_pow2_LM.png</image>
       <wrap-s>repeat</wrap-s>
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b5220</object-name>
-  <object-name>b5224</object-name>
-</effect>
-
-<effect>
-  <inherits-from>cityLM</inherits-from>
-  <parameters>
-    <lightmap-enabled type="int">1</lightmap-enabled>
-    <texture n="3">
-      <image>tex/DSCF9678_pow2_LM.png</image>
-      <wrap-s>repeat</wrap-s>
-      <wrap-t>repeat</wrap-t>
-    </texture>
-  </parameters>
-  <object-name>b5226</object-name>
+  <object-name>b5250</object-name>
 </effect>
 
 <effect>
@@ -66,8 +53,8 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b5225</object-name>
-  <object-name>b5231</object-name>
+  <object-name>b5249</object-name>
+  <object-name>b5253</object-name>
 </effect>
 
 <effect>
@@ -75,61 +62,49 @@
   <parameters>
     <lightmap-enabled type="int">1</lightmap-enabled>
     <texture n="3">
-      <image>tex/DSCF9503_noroofsec_pow2_LM.png</image>
+      <image>tex/LZ_old_bright_bc2_LM.png</image>
       <wrap-s>repeat</wrap-s>
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b5223</object-name>
-  <object-name>b5230</object-name>
+  <object-name>b5248</object-name>
 </effect>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b5220</object-name>
-  <object-name>b5221</object-name>
-  <object-name>b5222</object-name>
-  <object-name>b5223</object-name>
-  <object-name>b5225</object-name>
-  <object-name>b5226</object-name>
-  <object-name>b5227</object-name>
-  <object-name>b5228</object-name>
-  <object-name>b5229</object-name>
-  <object-name>b5230</object-name>
+  <object-name>b5246</object-name>
+  <object-name>b5247</object-name>
+  <object-name>b5248</object-name>
+  <object-name>b5250</object-name>
+  <object-name>b5252</object-name>
+  <object-name>b5253</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/detailed</max-property>
-  <object-name>b5224</object-name>
-  <object-name>b5231</object-name>
-  <object-name>b5232</object-name>
-  <object-name>b5233</object-name>
+  <object-name>b5249</object-name>
+  <object-name>b5251</object-name>
+  <object-name>b5254</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/roof</max-property>
-  <object-name>b5224-roof</object-name>
-  <object-name>b5225-roof</object-name>
-  <object-name>b5229-roof</object-name>
-  <object-name>b5230-roof</object-name>
-  <object-name>b5231-roof</object-name>
+  <object-name>b5249-roof</object-name>
+  <object-name>b5252-roof</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-property>/sim/rendering/static-lod/roof</min-property>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b5224-flat</object-name>
-  <object-name>b5225-flat</object-name>
-  <object-name>b5229-flat</object-name>
-  <object-name>b5230-flat</object-name>
-  <object-name>b5231-flat</object-name>
+  <object-name>b5249-flat</object-name>
+  <object-name>b5252-flat</object-name>
 </animation>
 
 </PropertyList>

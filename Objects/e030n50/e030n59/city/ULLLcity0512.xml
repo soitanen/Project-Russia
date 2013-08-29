@@ -11,8 +11,9 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b5056</object-name>
-  <object-name>b5065</object-name>
+  <object-name>b5070</object-name>
+  <object-name>b5086</object-name>
+  <object-name>b5090</object-name>
 </effect>
 
 <effect>
@@ -25,15 +26,8 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b5049</object-name>
-  <object-name>b5052</object-name>
-  <object-name>b5054</object-name>
-  <object-name>b5057</object-name>
-  <object-name>b5061</object-name>
-  <object-name>b5069</object-name>
-  <object-name>b5073</object-name>
-  <object-name>b5074</object-name>
-  <object-name>b5076</object-name>
+  <object-name>b5088</object-name>
+  <object-name>b5089</object-name>
 </effect>
 
 <effect>
@@ -46,8 +40,7 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b5053</object-name>
-  <object-name>b5058</object-name>
+  <object-name>b5075</object-name>
 </effect>
 
 <effect>
@@ -60,9 +53,9 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b5045</object-name>
-  <object-name>b5051</object-name>
+  <object-name>b5071</object-name>
   <object-name>b5072</object-name>
+  <object-name>b5076</object-name>
 </effect>
 
 <effect>
@@ -75,9 +68,9 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b5055</object-name>
-  <object-name>b5064</object-name>
-  <object-name>b5068</object-name>
+  <object-name>b5073</object-name>
+  <object-name>b5083</object-name>
+  <object-name>b5084</object-name>
 </effect>
 
 <effect>
@@ -90,10 +83,12 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b5047</object-name>
-  <object-name>b5060</object-name>
-  <object-name>b5063</object-name>
-  <object-name>b5071</object-name>
+  <object-name>b5077</object-name>
+  <object-name>b5078</object-name>
+  <object-name>b5079</object-name>
+  <object-name>b5080</object-name>
+  <object-name>b5085</object-name>
+  <object-name>b5087</object-name>
 </effect>
 
 <effect>
@@ -106,81 +101,109 @@
       <wrap-t>repeat</wrap-t>
     </texture>
   </parameters>
-  <object-name>b5046</object-name>
+  <object-name>b5074</object-name>
+  <object-name>b5082</object-name>
 </effect>
 
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>-1173.94</x-m>
+    <y-m>290.84</y-m>
+    <z-m>97.4747</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>-1183.08</x-m>
+    <y-m>314.28</y-m>
+    <z-m>97.4747</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>-1210.26</x-m>
+    <y-m>304.042</y-m>
+    <z-m>97.4747</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>-1194.4</x-m>
+    <y-m>277.944</y-m>
+    <z-m>97.4747</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b5045</object-name>
-  <object-name>b5046</object-name>
-  <object-name>b5047</object-name>
-  <object-name>b5048</object-name>
-  <object-name>b5050</object-name>
-  <object-name>b5051</object-name>
-  <object-name>b5052</object-name>
-  <object-name>b5054</object-name>
-  <object-name>b5055</object-name>
-  <object-name>b5057</object-name>
-  <object-name>b5058</object-name>
-  <object-name>b5060</object-name>
-  <object-name>b5061</object-name>
-  <object-name>b5062</object-name>
-  <object-name>b5063</object-name>
-  <object-name>b5064</object-name>
-  <object-name>b5066</object-name>
-  <object-name>b5067</object-name>
-  <object-name>b5068</object-name>
-  <object-name>b5069</object-name>
   <object-name>b5070</object-name>
   <object-name>b5071</object-name>
   <object-name>b5072</object-name>
-  <object-name>b5073</object-name>
   <object-name>b5074</object-name>
-  <object-name>b5075</object-name>
+  <object-name>b5076</object-name>
+  <object-name>b5077</object-name>
+  <object-name>b5078</object-name>
+  <object-name>b5079</object-name>
+  <object-name>b5080</object-name>
+  <object-name>b5081</object-name>
+  <object-name>b5083</object-name>
+  <object-name>b5084</object-name>
+  <object-name>b5085</object-name>
+  <object-name>b5087</object-name>
+  <object-name>b5089</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/detailed</max-property>
-  <object-name>b5049</object-name>
-  <object-name>b5053</object-name>
-  <object-name>b5056</object-name>
-  <object-name>b5059</object-name>
-  <object-name>b5065</object-name>
-  <object-name>b5076</object-name>
+  <object-name>b5073</object-name>
+  <object-name>b5075</object-name>
+  <object-name>b5082</object-name>
+  <object-name>b5086</object-name>
+  <object-name>b5088</object-name>
+  <object-name>b5090</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-m>0</min-m>
   <max-property>/sim/rendering/static-lod/roof</max-property>
-  <object-name>b5049-roof</object-name>
-  <object-name>b5052-roof</object-name>
-  <object-name>b5053-roof</object-name>
-  <object-name>b5056-roof</object-name>
-  <object-name>b5057-roof</object-name>
-  <object-name>b5059-roof</object-name>
-  <object-name>b5065-roof</object-name>
+  <object-name>b5070-roof</object-name>
   <object-name>b5073-roof</object-name>
   <object-name>b5075-roof</object-name>
+  <object-name>b5082-roof</object-name>
+  <object-name>b5084-roof</object-name>
+  <object-name>b5086-roof</object-name>
+  <object-name>b5088-roof</object-name>
+  <object-name>b5090-roof</object-name>
 </animation>
 
 <animation>
   <type>range</type>
   <min-property>/sim/rendering/static-lod/roof</min-property>
   <max-property>/sim/rendering/static-lod/rough</max-property>
-  <object-name>b5049-flat</object-name>
-  <object-name>b5052-flat</object-name>
-  <object-name>b5053-flat</object-name>
-  <object-name>b5056-flat</object-name>
-  <object-name>b5057-flat</object-name>
-  <object-name>b5059-flat</object-name>
-  <object-name>b5065-flat</object-name>
+  <object-name>b5070-flat</object-name>
   <object-name>b5073-flat</object-name>
   <object-name>b5075-flat</object-name>
+  <object-name>b5082-flat</object-name>
+  <object-name>b5084-flat</object-name>
+  <object-name>b5086-flat</object-name>
+  <object-name>b5088-flat</object-name>
+  <object-name>b5090-flat</object-name>
 </animation>
 
 </PropertyList>

@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<PropertyList>
+<path>ULLLcity0106.ac</path>
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1210</object-name>
+  <object-name>b1211</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1205</object-name>
+  <object-name>b1207</object-name>
+  <object-name>b1212</object-name>
+  <object-name>b1218</object-name>
+  <object-name>b1221</object-name>
+  <object-name>b1222</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/LZ_old_bright_bc2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1201</object-name>
+  <object-name>b1204</object-name>
+  <object-name>b1206</object-name>
+  <object-name>b1217</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9678_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1214</object-name>
+  <object-name>b1223</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9710_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1202</object-name>
+  <object-name>b1209</object-name>
+  <object-name>b1213</object-name>
+  <object-name>b1216</object-name>
+  <object-name>b1220</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/wohnheime_petersburger_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1203</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9503_noroofsec_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b1208</object-name>
+</effect>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b1201</object-name>
+  <object-name>b1202</object-name>
+  <object-name>b1203</object-name>
+  <object-name>b1205</object-name>
+  <object-name>b1206</object-name>
+  <object-name>b1210</object-name>
+  <object-name>b1213</object-name>
+  <object-name>b1214</object-name>
+  <object-name>b1215</object-name>
+  <object-name>b1216</object-name>
+  <object-name>b1217</object-name>
+  <object-name>b1219</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/detailed</max-property>
+  <object-name>b1204</object-name>
+  <object-name>b1207</object-name>
+  <object-name>b1208</object-name>
+  <object-name>b1209</object-name>
+  <object-name>b1211</object-name>
+  <object-name>b1212</object-name>
+  <object-name>b1218</object-name>
+  <object-name>b1220</object-name>
+  <object-name>b1221</object-name>
+  <object-name>b1222</object-name>
+  <object-name>b1223</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/roof</max-property>
+  <object-name>b1201-roof</object-name>
+  <object-name>b1204-roof</object-name>
+  <object-name>b1206-roof</object-name>
+  <object-name>b1207-roof</object-name>
+  <object-name>b1208-roof</object-name>
+  <object-name>b1209-roof</object-name>
+  <object-name>b1210-roof</object-name>
+  <object-name>b1212-roof</object-name>
+  <object-name>b1213-roof</object-name>
+  <object-name>b1220-roof</object-name>
+  <object-name>b1221-roof</object-name>
+  <object-name>b1222-roof</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-property>/sim/rendering/static-lod/roof</min-property>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b1201-flat</object-name>
+  <object-name>b1204-flat</object-name>
+  <object-name>b1206-flat</object-name>
+  <object-name>b1207-flat</object-name>
+  <object-name>b1208-flat</object-name>
+  <object-name>b1209-flat</object-name>
+  <object-name>b1210-flat</object-name>
+  <object-name>b1212-flat</object-name>
+  <object-name>b1213-flat</object-name>
+  <object-name>b1220-flat</object-name>
+  <object-name>b1221-flat</object-name>
+  <object-name>b1222-flat</object-name>
+</animation>
+
+</PropertyList>

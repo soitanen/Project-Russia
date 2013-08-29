@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<PropertyList>
+<path>ULLLcity0902.ac</path>
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b20571</object-name>
+  <object-name>b20578</object-name>
+  <object-name>b20583</object-name>
+  <object-name>b20584</object-name>
+  <object-name>b20587</object-name>
+  <object-name>b20590</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b20569</object-name>
+  <object-name>b20570</object-name>
+  <object-name>b20573</object-name>
+  <object-name>b20576</object-name>
+  <object-name>b20586</object-name>
+  <object-name>b20591</object-name>
+  <object-name>b20592</object-name>
+  <object-name>b20594</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/LZ_old_bright_bc2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b20585</object-name>
+  <object-name>b20589</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9678_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b20568</object-name>
+  <object-name>b20581</object-name>
+  <object-name>b20588</object-name>
+  <object-name>b20595</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9710_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b20574</object-name>
+  <object-name>b20582</object-name>
+  <object-name>b20593</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9503_noroofsec_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b20577</object-name>
+  <object-name>b20579</object-name>
+  <object-name>b20596</object-name>
+</effect>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b20568</object-name>
+  <object-name>b20572</object-name>
+  <object-name>b20573</object-name>
+  <object-name>b20575</object-name>
+  <object-name>b20576</object-name>
+  <object-name>b20578</object-name>
+  <object-name>b20579</object-name>
+  <object-name>b20580</object-name>
+  <object-name>b20581</object-name>
+  <object-name>b20582</object-name>
+  <object-name>b20584</object-name>
+  <object-name>b20585</object-name>
+  <object-name>b20586</object-name>
+  <object-name>b20587</object-name>
+  <object-name>b20588</object-name>
+  <object-name>b20589</object-name>
+  <object-name>b20591</object-name>
+  <object-name>b20594</object-name>
+  <object-name>b20596</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/detailed</max-property>
+  <object-name>b20569</object-name>
+  <object-name>b20570</object-name>
+  <object-name>b20571</object-name>
+  <object-name>b20574</object-name>
+  <object-name>b20577</object-name>
+  <object-name>b20583</object-name>
+  <object-name>b20590</object-name>
+  <object-name>b20592</object-name>
+  <object-name>b20593</object-name>
+  <object-name>b20595</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/roof</max-property>
+  <object-name>b20569-roof</object-name>
+  <object-name>b20570-roof</object-name>
+  <object-name>b20571-roof</object-name>
+  <object-name>b20574-roof</object-name>
+  <object-name>b20576-roof</object-name>
+  <object-name>b20577-roof</object-name>
+  <object-name>b20583-roof</object-name>
+  <object-name>b20585-roof</object-name>
+  <object-name>b20586-roof</object-name>
+  <object-name>b20587-roof</object-name>
+  <object-name>b20590-roof</object-name>
+  <object-name>b20591-roof</object-name>
+  <object-name>b20592-roof</object-name>
+  <object-name>b20593-roof</object-name>
+  <object-name>b20594-roof</object-name>
+  <object-name>b20596-roof</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-property>/sim/rendering/static-lod/roof</min-property>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b20569-flat</object-name>
+  <object-name>b20570-flat</object-name>
+  <object-name>b20571-flat</object-name>
+  <object-name>b20574-flat</object-name>
+  <object-name>b20576-flat</object-name>
+  <object-name>b20577-flat</object-name>
+  <object-name>b20583-flat</object-name>
+  <object-name>b20585-flat</object-name>
+  <object-name>b20586-flat</object-name>
+  <object-name>b20587-flat</object-name>
+  <object-name>b20590-flat</object-name>
+  <object-name>b20591-flat</object-name>
+  <object-name>b20592-flat</object-name>
+  <object-name>b20593-flat</object-name>
+  <object-name>b20594-flat</object-name>
+  <object-name>b20596-flat</object-name>
+</animation>
+
+</PropertyList>

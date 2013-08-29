@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<PropertyList>
+<path>ULLLcity1101.ac</path>
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b32739</object-name>
+  <object-name>b32742</object-name>
+  <object-name>b32744</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9495_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b32750</object-name>
+  <object-name>b32754</object-name>
+  <object-name>b32755</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/LZ_old_bright_bc2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b32738</object-name>
+  <object-name>b32745</object-name>
+  <object-name>b32752</object-name>
+  <object-name>b32753</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9710_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b32740</object-name>
+  <object-name>b32749</object-name>
+  <object-name>b32751</object-name>
+</effect>
+
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <parameters>
+    <lightmap-enabled type="int">1</lightmap-enabled>
+    <texture n="3">
+      <image>tex/DSCF9503_noroofsec_pow2_LM.png</image>
+      <wrap-s>repeat</wrap-s>
+      <wrap-t>repeat</wrap-t>
+    </texture>
+  </parameters>
+  <object-name>b32736</object-name>
+  <object-name>b32743</object-name>
+  <object-name>b32746</object-name>
+  <object-name>b32747</object-name>
+</effect>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b32734</object-name>
+  <object-name>b32735</object-name>
+  <object-name>b32736</object-name>
+  <object-name>b32737</object-name>
+  <object-name>b32738</object-name>
+  <object-name>b32739</object-name>
+  <object-name>b32740</object-name>
+  <object-name>b32743</object-name>
+  <object-name>b32745</object-name>
+  <object-name>b32746</object-name>
+  <object-name>b32747</object-name>
+  <object-name>b32748</object-name>
+  <object-name>b32749</object-name>
+  <object-name>b32751</object-name>
+  <object-name>b32752</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/detailed</max-property>
+  <object-name>b32741</object-name>
+  <object-name>b32742</object-name>
+  <object-name>b32744</object-name>
+  <object-name>b32750</object-name>
+  <object-name>b32753</object-name>
+  <object-name>b32754</object-name>
+  <object-name>b32755</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/roof</max-property>
+  <object-name>b32738-roof</object-name>
+  <object-name>b32739-roof</object-name>
+  <object-name>b32740-roof</object-name>
+  <object-name>b32741-roof</object-name>
+  <object-name>b32742-roof</object-name>
+  <object-name>b32743-roof</object-name>
+  <object-name>b32745-roof</object-name>
+  <object-name>b32747-roof</object-name>
+  <object-name>b32750-roof</object-name>
+  <object-name>b32751-roof</object-name>
+  <object-name>b32753-roof</object-name>
+  <object-name>b32754-roof</object-name>
+  <object-name>b32755-roof</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-property>/sim/rendering/static-lod/roof</min-property>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>b32738-flat</object-name>
+  <object-name>b32739-flat</object-name>
+  <object-name>b32740-flat</object-name>
+  <object-name>b32741-flat</object-name>
+  <object-name>b32742-flat</object-name>
+  <object-name>b32743-flat</object-name>
+  <object-name>b32745-flat</object-name>
+  <object-name>b32747-flat</object-name>
+  <object-name>b32750-flat</object-name>
+  <object-name>b32751-flat</object-name>
+  <object-name>b32753-flat</object-name>
+  <object-name>b32754-flat</object-name>
+  <object-name>b32755-flat</object-name>
+</animation>
+
+</PropertyList>

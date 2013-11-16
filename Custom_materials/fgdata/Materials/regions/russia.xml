@@ -42,7 +42,7 @@
     <texture>Custom/1x1_road.png</texture>
   </material>
 
-  <material n="8005">
+  <material n="8006">
     <name>dirt_road</name>
     <texture>Custom/dirt_road.png</texture>
   </material>

@@ -19,36 +19,61 @@
 
   <material n="8001">
     <name>1x4_road</name>
+    <effect>Effects/runway</effect>
     <texture>Custom/1x4_road.png</texture>
   </material>
 
   <material n="8002">
     <name>1x3_road</name>
+    <effect>Effects/runway</effect>
     <texture>Custom/1x3_road.png</texture>
   </material>
 
   <material n="8003">
     <name>2x2_road</name>
+    <effect>Effects/runway</effect>
     <texture>Custom/2x2_road.png</texture>
   </material>
 
   <material n="8004">
     <name>2x4_road</name>
+    <effect>Effects/runway</effect>
     <texture>Custom/2x4_road.png</texture>
   </material>
 
   <material n="8005">
     <name>1x1_road</name>
+    <effect>Effects/runway</effect>
     <texture>Custom/1x1_road.png</texture>
   </material>
 
   <material n="8006">
+    <condition>
+      <equals>
+        <property>sim/startup/season</property>
+        <value>summer</value>
+      </equals>
+    </condition>
     <name>dirt_road</name>
+    <effect>Effects/runway</effect>
     <texture>Custom/dirt_road.png</texture>
+  </material>
+
+  <material n="8007">
+    <condition>
+      <equals>
+        <property>sim/startup/season</property>
+        <value>winter</value>
+      </equals>
+    </condition>
+    <name>dirt_road</name>
+    <effect>Effects/runway</effect>
+    <texture>Custom/dirt_road_snow.png</texture>
   </material>
 
 <material n="9001">
   <name>Railroad_tex_1</name>
+    <effect>Effects/runway</effect>
   <texture>Custom/rail_1.png</texture>
   <ysize>200</ysize>
 </material>
@@ -98,6 +123,44 @@
     <load-resistance>1e30</load-resistance>
   </material>
 
+  <material n="7002">
+    <condition>
+      <equals>
+        <property>sim/startup/season</property>
+        <value>winter</value>
+      </equals>
+    </condition>
+    <name>Meadow</name>
+    <texture>Terrain.winter/airport.png</texture>
+    <xsize>125</xsize>
+    <ysize>125</ysize>
+    <light-coverage>4000000.0</light-coverage>
+    <diffuse>
+      <r>0.93</r>
+      <g>0.95</g>
+      <b>0.93</b>
+      <a>1.0</a>
+    </diffuse>
+    <specular>
+      <r>0.1</r>
+      <g>0.12</g>
+      <b>0.1</b>
+      <a>1.0</a>
+    </specular>
+    <shininess>1.2</shininess>
+    <wood-coverage>10000.0</wood-coverage>
+    <tree-texture>Trees/deciduous.png</tree-texture>
+    <tree-varieties>8</tree-varieties>
+    <tree-range-m>1500.0</tree-range-m>
+    <tree-height-m>2.0</tree-height-m>
+    <tree-width-m>2.0</tree-width-m>
+    <solid>1</solid>
+    <friction-factor>0.4</friction-factor>
+    <rolling-friction>0.5</rolling-friction>
+    <bumpiness>0.1</bumpiness>
+    <load-resistance>1e30</load-resistance>
+  </material>
+
   <material n="7003">
     <condition>
       <equals>
@@ -126,6 +189,38 @@
     <solid>1</solid>
     <friction-factor>0.7</friction-factor>
     <rolling-friction>0.1</rolling-friction>
+    <bumpiness>0.1</bumpiness>
+    <load-resistance>1e30</load-resistance>
+  </material>
+
+  <material n="7004">
+    <condition>
+      <equals>
+        <property>sim/startup/season</property>
+        <value>winter</value>
+      </equals>
+    </condition>
+    <name>GreenField</name>
+    <texture>Terrain.winter/airport.png</texture>
+    <xsize>125</xsize>
+    <ysize>125</ysize>
+    <light-coverage>4000000.0</light-coverage>
+    <diffuse>
+      <r>0.93</r>
+      <g>0.95</g>
+      <b>0.93</b>
+      <a>1.0</a>
+    </diffuse>
+    <specular>
+      <r>0.1</r>
+      <g>0.12</g>
+      <b>0.1</b>
+      <a>1.0</a>
+    </specular>
+    <shininess>1.2</shininess>
+    <solid>1</solid>
+    <friction-factor>0.4</friction-factor>
+    <rolling-friction>0.5</rolling-friction>
     <bumpiness>0.1</bumpiness>
     <load-resistance>1e30</load-resistance>
   </material>
@@ -159,6 +254,38 @@
     <solid>1</solid>
     <friction-factor>0.7</friction-factor>
     <rolling-friction>0.1</rolling-friction>
+    <bumpiness>0.1</bumpiness>
+    <load-resistance>1e30</load-resistance>
+  </material>
+
+  <material n="7006">
+    <condition>
+      <equals>
+        <property>sim/startup/season</property>
+        <value>winter</value>
+      </equals>
+    </condition>
+    <name>BrownField</name>
+    <texture>Terrain.winter/airport.png</texture>
+    <xsize>125</xsize>
+    <ysize>125</ysize>
+    <light-coverage>4000000.0</light-coverage>
+    <diffuse>
+      <r>0.93</r>
+      <g>0.95</g>
+      <b>0.93</b>
+      <a>1.0</a>
+    </diffuse>
+    <specular>
+      <r>0.1</r>
+      <g>0.12</g>
+      <b>0.1</b>
+      <a>1.0</a>
+    </specular>
+    <shininess>1.2</shininess>
+    <solid>1</solid>
+    <friction-factor>0.4</friction-factor>
+    <rolling-friction>0.5</rolling-friction>
     <bumpiness>0.1</bumpiness>
     <load-resistance>1e30</load-resistance>
   </material>

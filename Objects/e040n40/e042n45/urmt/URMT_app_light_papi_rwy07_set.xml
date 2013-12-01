@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+<!-- PAPI Approach Light - LOWI R08 -->
+
+<!-- nasal control script located at LOWI R26 -->
+
+<!-- PAPI - Left Side -->
+<!-- Set of 4 Lights Housings -->
+
+<!-- Left No 01 -->
+<model>
+	<path>../../../../Models/Airport/AP_Lights/papi.ac</path>
+    <offsets>
+      <x-m> 0.000 </x-m>
+      <y-m>13.500 </y-m>
+      <z-m> 0.000 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<model>
+	<path>../../../../Models/Airport/AP_Lights/Light_effects/papi_light_n01.ac</path>
+    <offsets>
+      <x-m> 0.450 </x-m>
+      <y-m>13.500 </y-m>
+      <z-m> 0.508 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- Left No 02 -->
+<model>
+	<path>../../../../Models/Airport/AP_Lights/papi.ac</path>
+    <offsets>
+      <x-m> 0.000 </x-m>
+      <y-m> 4.500 </y-m>
+      <z-m> 0.000 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<model>
+	<path>../../../../Models/Airport/AP_Lights/Light_effects/papi_light_n02.ac</path>
+    <offsets>
+      <x-m> 0.450 </x-m>
+      <y-m> 4.500 </y-m>
+      <z-m> 0.508 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- Left No 03 -->
+<model>
+	<path>../../../../Models/Airport/AP_Lights/papi.ac</path>
+    <offsets>
+      <x-m> 0.000 </x-m>
+      <y-m>-4.500 </y-m>
+      <z-m> 0.000 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<model>
+	<path>../../../../Models/Airport/AP_Lights/Light_effects/papi_light_n03.ac</path>
+    <offsets>
+      <x-m> 0.450 </x-m>
+      <y-m>-4.500 </y-m>
+      <z-m> 0.508 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- Left No 04 -->
+<model>
+	<path>../../../../Models/Airport/AP_Lights/papi.ac</path>
+    <offsets>
+      <x-m> 0.000 </x-m>
+      <y-m>-13.500 </y-m>
+      <z-m> 0.000 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<model>
+	<path>../../../../Models/Airport/AP_Lights/Light_effects/papi_light_n04.ac</path>
+    <offsets>
+      <x-m> 0.450 </x-m>
+      <y-m>-13.500 </y-m>
+      <z-m> 0.508 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+	<!-- Light Animations for White + Red PAPI lights 4.0 3.7 3.5 3.1 2.9 -->	
+	<!-- PAPI light n01 -->
+	<animation>
+		<type>select</type>
+		<object-name>papi_n01_white</object-name>
+			<condition>
+				<greater-than-equals>
+				<property>/scenery/URMT/URMT_r07_app_papi/app-deg</property>
+				<value>3.66666666666</value>
+				</greater-than-equals>
+			</condition>
+    </animation>
+	
+		<animation>
+			<type>select</type>
+			<object-name>papi_n01_red</object-name>
+				<condition>
+					<less-than>
+					<property>/scenery/URMT/URMT_r07_app_papi/app-deg</property>
+					<value>3.66666666666</value>
+					</less-than>
+				</condition>
+		</animation>
+	
+	<!-- PAPI light n02 -->
+	<animation>
+		<type>select</type>
+		<object-name>papi_n02_white</object-name>
+			<condition>
+				<greater-than-equals>
+				<property>/scenery/URMT/URMT_r07_app_papi/app-deg</property>
+				<value>3.3333333333</value>
+				</greater-than-equals>
+			</condition>
+    </animation>
+	
+		<animation>
+			<type>select</type>
+			<object-name>papi_n02_red</object-name>
+				<condition>
+					<less-than>
+					<property>/scenery/URMT/URMT_r07_app_papi/app-deg</property>
+					<value>3.333333333</value>
+					</less-than>
+				</condition>
+		</animation>
+	
+	<!-- PAPI light n03 -->
+	<animation>
+		<type>select</type>
+		<object-name>papi_n03_white</object-name>
+			<condition>
+				<greater-than-equals>
+				<property>/scenery/URMT/URMT_r07_app_papi/app-deg</property>
+				<value>3.0</value>
+				</greater-than-equals>
+			</condition>
+    </animation>
+	
+		<animation>
+			<type>select</type>
+			<object-name>papi_n03_red</object-name>
+				<condition>
+					<less-than>
+					<property>/scenery/URMT/URMT_r07_app_papi/app-deg</property>
+					<value>3.0</value>
+					</less-than>
+				</condition>
+		</animation>
+	
+	<!-- PAPI light n04 -->
+	<animation>
+		<type>select</type>
+		<object-name>papi_n04_white</object-name>
+			<condition>
+				<greater-than-equals>
+				<property>/scenery/URMT/URMT_r07_app_papi/app-deg</property>
+				<value>2.6666666666</value>
+				</greater-than-equals>
+			</condition>
+    </animation>
+	
+		<animation>
+			<type>select</type>
+			<object-name>papi_n04_red</object-name>
+				<condition>
+					<less-than>
+					<property>/scenery/URMT/URMT_r07_app_papi/app-deg</property>
+					<value>2.66666666666</value>
+					</less-than>
+				</condition>
+		</animation>
+	
+	<animation>
+		<name>papi_lights_all</name>
+		<object-name>papi_n01_white</object-name>
+		<object-name>papi_n02_white</object-name>
+		<object-name>papi_n03_white</object-name>
+		<object-name>papi_n04_white</object-name>
+		<object-name>papi_n01_red</object-name>
+		<object-name>papi_n02_red</object-name>
+		<object-name>papi_n03_red</object-name>
+		<object-name>papi_n04_red</object-name>
+	</animation>
+	
+	<animation>
+        <type>noshadow</type>
+        <object-name>papi_lights_all</object-name>
+    </animation>
+	
+	<animation>
+		<object-name>papi_lights_all</object-name>
+		<enable-hot type="bool">false</enable-hot>
+	</animation>
+
+    <animation>
+        <type>alpha-test</type>
+		<object-name>papi_lights_all</object-name>
+        <alpha-factor>0.01</alpha-factor>
+    </animation>
+	
+	<!-- LOD -->
+	<animation>
+		<type>range</type>
+		<object-name>papi_lights_all</object-name>
+			<min-m>0</min-m>
+			<max-m>15000</max-m>
+    </animation>
+	
+	<animation>
+		<type>dist-scale</type>
+		<object-name>papi_lights_all</object-name>
+		<interpolation>
+			<entry>
+				<ind>0</ind>
+				<dep>0.025</dep>
+			</entry>
+			<entry>
+				<ind>300</ind>
+				<dep>0.1</dep>
+			</entry>
+			<entry>
+				<ind>1500</ind>
+				<dep>0.5</dep>
+			</entry>
+			<entry>
+				<ind>6000</ind>
+				<dep>1.2</dep>
+			</entry>
+			<entry>
+				<ind>20000</ind>
+				<dep>2.1</dep>
+			</entry>
+		</interpolation>
+	</animation>
+  
+</PropertyList>
+

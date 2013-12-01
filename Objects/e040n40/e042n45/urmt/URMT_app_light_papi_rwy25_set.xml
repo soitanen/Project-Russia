@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+<!-- PAPI Approach Light - URMT r25 -->
+
+	<nasal>
+		<load>
+			print("loading URMT PAPI RWY 07-25");
+			
+			#setting PAPI RWY 25 position
+			var r25_PAPI_LAT = 45.11090959;
+			var r25_PAPI_LON = 42.12450469;
+			var r25_PAPI_ALT_M = 436.0;
+			
+			#setting PAPI RWY 07 position
+			var r07_PAPI_LAT = 45.10764708;
+			var r07_PAPI_LON = 42.10111019;
+			var r07_PAPI_ALT_M = 448.0;
+			
+			#setting PAPI glideslope mybe needed later for generic version
+			var r25_papi_urmt = 2.66666;
+			var r07_papi_urmt = 3.16666;
+			
+			var loop_id = 0;
+
+			var loop = func(id) {
+				id == loop_id or return;
+				
+				#code for getting Approch angle deg by Tuxklok
+				var ac_pos = geo.aircraft_position();
+				
+				#rwy26
+				var r25_papi_pos = geo.Coord.new();
+					r25_papi_pos.set_latlon( r25_PAPI_LAT, r25_PAPI_LON, r25_PAPI_ALT_M);
+					var r25_distance = r25_papi_pos.direct_distance_to(ac_pos);
+					var r25_altitude = ac_pos.alt() - r25_papi_pos.alt();
+					var r25_angle_deg = R2D * math.atan2(r25_altitude, r25_distance);
+				setprop("/scenery/URMT/URMT_r25_app_papi/app-deg", r25_angle_deg);
+				
+				#rwy08
+				var r07_papi_pos = geo.Coord.new();
+					r07_papi_pos.set_latlon( r07_PAPI_LAT, r07_PAPI_LON, r07_PAPI_ALT_M);
+					var r07_distance = r07_papi_pos.direct_distance_to(ac_pos);
+					var r07_altitude = ac_pos.alt() - r07_papi_pos.alt();
+					var r07_angle_deg = R2D * math.atan2(r07_altitude, r07_distance);
+				setprop("/scenery/URMT/URMT_r07_app_papi/app-deg", r07_angle_deg);
+				
+				#print ("r25-angle deg: ", r25_angle_deg," - r07-angle deg: ", r07_angle_deg);
+				#settimer(func { loop(id) }, 0.2);
+				settimer(func { loop(id) }, 0.3);
+			}
+			loop(loop_id += 1);
+		</load>
+		<unload>loop_id += 1</unload>
+	</nasal>
+
+
+<!-- PAPI - Left Side -->
+<!-- Set of 4 Lights Housings -->
+
+<!-- Left No 01 -->
+<model>
+	<path>../../../../Models/Airport/AP_Lights/papi.ac</path>
+    <offsets>
+      <x-m> 0.000 </x-m>
+      <y-m>13.500 </y-m>
+      <z-m> 0.000 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<model>
+	<path>../../../../Models/Airport/AP_Lights/Light_effects/papi_light_n01.ac</path>
+    <offsets>
+      <x-m> 0.450 </x-m>
+      <y-m>13.500 </y-m>
+      <z-m> 0.508 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- Left No 02 -->
+<model>
+	<path>../../../../Models/Airport/AP_Lights/papi.ac</path>
+    <offsets>
+      <x-m> 0.000 </x-m>
+      <y-m> 4.500 </y-m>
+      <z-m> 0.000 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<model>
+	<path>../../../../Models/Airport/AP_Lights/Light_effects/papi_light_n02.ac</path>
+    <offsets>
+      <x-m> 0.450 </x-m>
+      <y-m> 4.500 </y-m>
+      <z-m> 0.508 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- Left No 03 -->
+<model>
+	<path>../../../../Models/Airport/AP_Lights/papi.ac</path>
+    <offsets>
+      <x-m> 0.000 </x-m>
+      <y-m>-4.500 </y-m>
+      <z-m> 0.000 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<model>
+	<path>../../../../Models/Airport/AP_Lights/Light_effects/papi_light_n03.ac</path>
+    <offsets>
+      <x-m> 0.450 </x-m>
+      <y-m>-4.500 </y-m>
+      <z-m> 0.508 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<!-- Left No 04 -->
+<model>
+	<path>../../../../Models/Airport/AP_Lights/papi.ac</path>
+    <offsets>
+      <x-m> 0.000 </x-m>
+      <y-m>-13.500 </y-m>
+      <z-m> 0.000 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+<model>
+	<path>../../../../Models/Airport/AP_Lights/Light_effects/papi_light_n04.ac</path>
+    <offsets>
+      <x-m> 0.450 </x-m>
+      <y-m>-13.500 </y-m>
+      <z-m> 0.508 </z-m>
+      <pitch-deg> 0.00</pitch-deg>
+	  <heading-deg>0.0 </heading-deg>
+    </offsets>
+</model>
+
+	<!-- Light Animations for White + Red PAPI lights 4.0 3.7 3.5 3.1 2.9 -->	
+	<!-- PAPI light n01 -->
+	<animation>
+		<type>select</type>
+		<object-name>papi_n01_white</object-name>
+			<condition>
+				<greater-than-equals>
+				<property>/scenery/URMT/URMT_r25_app_papi/app-deg</property>
+				<value>3.166666666</value>
+				</greater-than-equals>
+			</condition>
+    </animation>
+	
+		<animation>
+			<type>select</type>
+			<object-name>papi_n01_red</object-name>
+				<condition>
+					<less-than>
+					<property>/scenery/URMT/URMT_r25_app_papi/app-deg</property>
+					<value>3.166666666</value>
+					</less-than>
+				</condition>
+		</animation>
+	
+	<!-- PAPI light n02 -->
+	<animation>
+		<type>select</type>
+		<object-name>papi_n02_white</object-name>
+			<condition>
+				<greater-than-equals>
+				<property>/scenery/URMT/URMT_r25_app_papi/app-deg</property>
+				<value>2.833333</value>
+				</greater-than-equals>
+			</condition>
+    </animation>
+	
+		<animation>
+			<type>select</type>
+			<object-name>papi_n02_red</object-name>
+				<condition>
+					<less-than>
+					<property>/scenery/URMT/URMT_r25_app_papi/app-deg</property>
+					<value>2.833333333</value>
+					</less-than>
+				</condition>
+		</animation>
+	
+	<!-- PAPI light n03 -->
+	<animation>
+		<type>select</type>
+		<object-name>papi_n03_white</object-name>
+			<condition>
+				<greater-than-equals>
+				<property>/scenery/URMT/URMT_r25_app_papi/app-deg</property>
+				<value>2.5</value>
+				</greater-than-equals>
+			</condition>
+    </animation>
+	
+		<animation>
+			<type>select</type>
+			<object-name>papi_n03_red</object-name>
+				<condition>
+					<less-than>
+					<property>/scenery/URMT/URMT_r25_app_papi/app-deg</property>
+					<value>2.5</value>
+					</less-than>
+				</condition>
+		</animation>
+	
+	<!-- PAPI light n04 -->
+	<animation>
+		<type>select</type>
+		<object-name>papi_n04_white</object-name>
+			<condition>
+				<greater-than-equals>
+				<property>/scenery/URMT/URMT_r25_app_papi/app-deg</property>
+				<value>2.1666666666</value>
+				</greater-than-equals>
+			</condition>
+    </animation>
+	
+		<animation>
+			<type>select</type>
+			<object-name>papi_n04_red</object-name>
+				<condition>
+					<less-than>
+					<property>/scenery/URMT/URMT_r25_app_papi/app-deg</property>
+					<value>2.1666666666</value>
+					</less-than>
+				</condition>
+		</animation>
+	
+	<animation>
+		<name>papi_lights_all</name>
+		<object-name>papi_n01_white</object-name>
+		<object-name>papi_n02_white</object-name>
+		<object-name>papi_n03_white</object-name>
+		<object-name>papi_n04_white</object-name>
+		<object-name>papi_n01_red</object-name>
+		<object-name>papi_n02_red</object-name>
+		<object-name>papi_n03_red</object-name>
+		<object-name>papi_n04_red</object-name>
+	</animation>
+	
+	<animation>
+        <type>noshadow</type>
+        <object-name>papi_lights_all</object-name>
+    </animation>
+	
+	<animation>
+		<object-name>papi_lights_all</object-name>
+		<enable-hot type="bool">false</enable-hot>
+	</animation>
+
+    <animation>
+        <type>alpha-test</type>
+		<object-name>papi_lights_all</object-name>
+        <alpha-factor>0.01</alpha-factor>
+    </animation>
+	
+	<!-- LOD -->
+	<animation>
+		<type>range</type>
+		<object-name>papi_lights_all</object-name>
+			<min-m>0</min-m>
+			<max-m>15000</max-m>
+    </animation>
+	
+	<animation>
+		<type>dist-scale</type>
+		<object-name>papi_lights_all</object-name>
+		<interpolation>
+			<entry>
+				<ind>0</ind>
+				<dep>0.025</dep>
+			</entry>
+			<entry>
+				<ind>300</ind>
+				<dep>0.1</dep>
+			</entry>
+			<entry>
+				<ind>1500</ind>
+				<dep>0.5</dep>
+			</entry>
+			<entry>
+				<ind>6000</ind>
+				<dep>1.2</dep>
+			</entry>
+			<entry>
+				<ind>20000</ind>
+				<dep>2.1</dep>
+			</entry>
+		</interpolation>
+	</animation>
+  
+</PropertyList>
+

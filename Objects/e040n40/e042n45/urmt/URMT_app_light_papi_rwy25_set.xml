@@ -11,12 +11,14 @@
 			#setting PAPI RWY 25 position
 			var r25_PAPI_LAT = 45.11090959;
 			var r25_PAPI_LON = 42.12450469;
-			var r25_PAPI_ALT_M = 436.0;
+			var r25_PAPI_ALT_M = 438.53;
+			var r25_PAPI_HDG = 75.6;
 			
 			#setting PAPI RWY 07 position
 			var r07_PAPI_LAT = 45.10764708;
 			var r07_PAPI_LON = 42.10111019;
-			var r07_PAPI_ALT_M = 448.0;
+			var r07_PAPI_ALT_M = 449.67;
+			var r07_PAPI_HDG = 255.6;
 			
 			#setting PAPI glideslope mybe needed later for generic version
 			var r25_papi_urmt = 2.66666;
@@ -28,22 +30,45 @@
 				id == loop_id or return;
 				
 				#code for getting Approch angle deg by Tuxklok
-				var ac_pos = geo.aircraft_position();
+				var ac_pos = geo.viewer_position();
 				
 				#rwy26
 				var r25_papi_pos = geo.Coord.new();
 					r25_papi_pos.set_latlon( r25_PAPI_LAT, r25_PAPI_LON, r25_PAPI_ALT_M);
-					var r25_distance = r25_papi_pos.direct_distance_to(ac_pos);
+					var r25_distance = r25_papi_pos.distance_to(ac_pos);
+					var r25_heading = r25_papi_pos.course_to(ac_pos);
+					var r25_hdg_diff = math.abs(r25_heading - r25_PAPI_HDG);
+					var r25_corr_dist = r25_distance * math.cos(D2R * r25_hdg_diff);
 					var r25_altitude = ac_pos.alt() - r25_papi_pos.alt();
-					var r25_angle_deg = R2D * math.atan2(r25_altitude, r25_distance);
+					var r25_angle_deg = R2D * math.atan2(r25_altitude, r25_corr_dist);
+				        var r25_scale_factor = -0.06666666 * r25_hdg_diff + 1.66666666; #make lights vsible fully in 10 degrees horiz and saturated to 25 deg
+
+					if (r25_scale_factor > 1) {
+						setprop("/scenery/URMT/URMT_r25_app_papi/app-scale-factor", 1);
+					} else {
+						setprop("/scenery/URMT/URMT_r25_app_papi/app-scale-factor", r25_scale_factor);
+					}
+
 				setprop("/scenery/URMT/URMT_r25_app_papi/app-deg", r25_angle_deg);
 				
 				#rwy08
 				var r07_papi_pos = geo.Coord.new();
 					r07_papi_pos.set_latlon( r07_PAPI_LAT, r07_PAPI_LON, r07_PAPI_ALT_M);
-					var r07_distance = r07_papi_pos.direct_distance_to(ac_pos);
+					var r07_distance = r07_papi_pos.distance_to(ac_pos);
+					var r07_heading = r07_papi_pos.course_to(ac_pos);
+					var r07_hdg_diff = math.abs(r07_heading - r07_PAPI_HDG);
+					var r07_corr_dist = r07_distance * math.cos(D2R * r07_hdg_diff);
 					var r07_altitude = ac_pos.alt() - r07_papi_pos.alt();
-					var r07_angle_deg = R2D * math.atan2(r07_altitude, r07_distance);
+					var r07_angle_deg = R2D * math.atan2(r07_altitude, r07_corr_dist);
+
+				        var r07_scale_factor = -0.06666666 * r07_hdg_diff + 1.66666666;
+
+					if (r07_scale_factor > 1) {
+						setprop("/scenery/URMT/URMT_r07_app_papi/app-scale-factor", 1);
+					} else {
+						setprop("/scenery/URMT/URMT_r07_app_papi/app-scale-factor", r07_scale_factor);
+					}
+
 				setprop("/scenery/URMT/URMT_r07_app_papi/app-deg", r07_angle_deg);
 				
 				#print ("r25-angle deg: ", r25_angle_deg," - r07-angle deg: ", r07_angle_deg);
@@ -305,6 +330,18 @@
 				<dep>2.1</dep>
 			</entry>
 		</interpolation>
+	</animation>
+
+	<animation>
+		<type>scale</type>
+		<object-name>papi_lights_all</object-name>
+		<property>scenery/URMT/URMT_r25_app_papi/app-scale-factor</property>
+		<x-min>0.0</x-min>
+		<y-min>0.0</y-min>
+		<z-min>0.0</z-min>
+		<x-factor>1</x-factor>
+		<y-factor>1</y-factor>
+		<z-factor>1</z-factor>
 	</animation>
   
 </PropertyList>

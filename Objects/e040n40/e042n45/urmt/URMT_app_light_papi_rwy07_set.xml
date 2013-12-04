@@ -256,6 +256,18 @@
 			</entry>
 		</interpolation>
 	</animation>
-  
+
+	<animation>
+		<type>scale</type>
+		<object-name>papi_lights_all</object-name>
+		<property>scenery/URMT/URMT_r07_app_papi/app-scale-factor</property>
+		<x-min>0.0</x-min>
+		<y-min>0.0</y-min>
+		<z-min>0.0</z-min>
+		<x-factor>1</x-factor>
+		<y-factor>1</y-factor>
+		<z-factor>1</z-factor>
+	</animation>
+
 </PropertyList>
 

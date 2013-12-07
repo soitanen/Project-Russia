@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+<model>
+	<path>runway_light_white.ac</path>
+	<offsets>
+		<x-m> 0.000 </x-m>
+		<y-m> 0.000 </y-m>
+		<z-m> 0.000 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>0.0 </heading-deg>
+	</offsets>
+</model>
+
+<model>
+	<path>Light_effects/runway_light6000_white.ac</path>
+	<offsets>
+		<x-m> 0.080 </x-m>
+		<y-m> 0.000 </y-m>
+		<z-m> 0.430 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>90.0 </heading-deg>
+	</offsets>
+</model>
+<model>
+	<path>Light_effects/runway_light6000_white.ac</path>
+	<offsets>
+		<x-m> -0.080 </x-m>
+		<y-m> 0.000 </y-m>
+		<z-m> 0.430 </z-m>
+		<pitch-deg> 0.00</pitch-deg>
+		<heading-deg>270.0 </heading-deg>
+	</offsets>
+</model>
+
+<!-- Animation for LIGHTS -->
+    <animation>
+        <type>noshadow</type>
+        <object-name>rwy_WhiteLight6000</object-name>
+    </animation>
+
+    <animation>
+        <type>alpha-test</type>
+		<object-name>rwy_WhiteLight6000</object-name>
+        <alpha-factor>0.01</alpha-factor>
+    </animation>
+	
+	<animation>
+		<type>select</type>
+		<object-name>rwy_WhiteLight6000</object-name>
+			<condition>
+				<or>
+					<greater-than>
+						<property>/sim/time/sun-angle-rad</property>
+						<value>1.4742</value>
+					</greater-than>
+					<less-than>
+						<property>environment/visibility-m</property>
+						<value>4500.00</value>
+					</less-than>
+				</or>
+			</condition>
+	</animation>
+
+  <animation>
+    <type>dist-scale</type>
+    <object-name>rwy_WhiteLight6000</object-name>
+    <interpolation>
+      <entry>
+        <ind>0</ind>
+        <dep>0.025</dep>
+      </entry>
+      <entry>
+        <ind>300</ind>
+        <dep>0.1</dep>
+      </entry>
+      <entry>
+        <ind>1500</ind>
+        <dep>0.2</dep>
+      </entry>
+      <entry>
+        <ind>6000</ind>
+        <dep>0.7</dep>
+      </entry>
+	  <entry>
+        <ind>20000</ind>
+        <dep>1.3</dep>
+      </entry>
+    </interpolation>
+  </animation>
+
+	<!-- LOD -->	
+	<animation>
+		<type>range</type>
+		<min-m>0</min-m>
+		<max-m>15000</max-m>
+	</animation>
+
+</PropertyList>

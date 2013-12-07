@@ -16,7 +16,7 @@ numvert 4
 -5.245 -5.245 0
 5.245 5.245 0
 numsurf 1
-SURF 0x30
+SURF 0x10
 mat 1
 refs 4
 0 1.0 1.0

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+
+<!-- Row 001 -->
+<model>
+	<path>../../../../Models/Airport/AP_Lights/runway_edgelight_white-yellow.xml</path>
+	<offsets>
+<x-m> -60.000 </x-m><y-m> -27.000 </y-m><z-m> 0.000 </z-m><pitch-deg> 0.00</pitch-deg><heading-deg>180.0 </heading-deg></offsets>
+</model>
+<model>
+	<path>../../../../Models/Airport/AP_Lights/runway_edgelight_white-yellow.xml</path>
+	<offsets>
+<x-m> -60.000 </x-m><y-m> 27.000 </y-m><z-m> 0.000 </z-m><pitch-deg> 0.00</pitch-deg><heading-deg>180.0 </heading-deg></offsets>
+</model>
+
+<!-- Row 002 -->
+<model>
+	<path>../../../../Models/Airport/AP_Lights/runway_edgelight_white-yellow.xml</path>
+	<offsets>
+<x-m> -120.000 </x-m><y-m> -27.000 </y-m><z-m> 0.000 </z-m><pitch-deg> 0.00</pitch-deg><heading-deg>180.0 </heading-deg></offsets>
+</model>
+<model>
+	<path>../../../../Models/Airport/AP_Lights/runway_edgelight_white-yellow.xml</path>
+	<offsets>
+<x-m> -120.000 </x-m><y-m> 27.000 </y-m><z-m> 0.000 </z-m><pitch-deg> 0.00</pitch-deg><heading-deg>180.0 </heading-deg></offsets>
+</model>
+
+<!-- Row 003 -->
+<model>
+	<path>../../../../Models/Airport/AP_Lights/runway_edgelight_white-yellow.xml</path>
+	<offsets>
+<x-m> -180.000 </x-m><y-m> -27.000 </y-m><z-m> 0.000 </z-m><pitch-deg> 0.00</pitch-deg><heading-deg>180.0 </heading-deg></offsets>
+</model>
+<model>
+	<path>../../../../Models/Airport/AP_Lights/runway_edgelight_white-yellow.xml</path>
+	<offsets>
+<x-m> -180.000 </x-m><y-m> 27.000 </y-m><z-m> 0.000 </z-m><pitch-deg> 0.00</pitch-deg><heading-deg>180.0 </heading-deg></offsets>
+</model>
+
+
+	
+</PropertyList>
+

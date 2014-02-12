@@ -1,2 +1,4 @@
 OBJECT_BASE 3450280.btg
 OBJECT GROM.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 30.129279 60.707991 42.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 30.089188 60.721213 -9999.0 0.00

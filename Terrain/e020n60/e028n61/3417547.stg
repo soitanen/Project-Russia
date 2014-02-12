@@ -1,2 +1,6 @@
 OBJECT_BASE 3417547.btg
 OBJECT EFIM.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 28.899053 61.244560 102.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 28.889461 61.250072 101.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 28.917731 61.248125 99.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 28.908340 61.253767 100.0 0.00

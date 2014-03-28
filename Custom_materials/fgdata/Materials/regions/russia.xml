@@ -91,9 +91,13 @@
         <value>summer</value>
       </equals>
     </condition>
-    <effect>Effects/meadow</effect>
+    <effect>Effects/airfield</effect>
     <name>Meadow</name>
     <texture>Terrain/meadow.png</texture>
+    <texture-set>
+      <texture>Terrain/meadow.png</texture>
+      <texture n="13">Terrain/meadow.png</texture>
+    </texture-set>
     <xsize>125</xsize>
     <ysize>125</ysize>
     <light-coverage>4000000.0</light-coverage>
@@ -232,9 +236,13 @@
         <value>summer</value>
       </equals>
     </condition>
-    <effect>Effects/brownfield</effect>
+    <effect>Effects/airfield</effect>
     <name>BrownField</name>
     <texture>Terrain/brownfield2.png</texture>
+    <texture-set>
+      <texture>Terrain/brownfield2.png</texture>
+      <texture n="13">Terrain/brownfield2.png</texture>
+    </texture-set>
     <xsize>75</xsize>
     <ysize>75</ysize>
     <light-coverage>4000000.0</light-coverage>

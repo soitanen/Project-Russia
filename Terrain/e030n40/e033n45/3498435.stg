@@ -1,0 +1,6 @@
+OBJECT_BASE 3498435.btg
+OBJECT UKFF.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 33.988679 45.035330 186.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 33.975370 45.065600 174.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 33.966313 45.037470 174.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 33.972532 45.052656 178.0 0.00

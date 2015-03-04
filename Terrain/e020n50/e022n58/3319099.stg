@@ -1,0 +1,5 @@
+OBJECT_BASE 3319099.btg
+OBJECT EEKA.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 22.824121 58.996980 3.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 22.837617 58.984599 6.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 22.832410 58.991297 6.9 0.00

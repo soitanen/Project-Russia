@@ -3,43 +3,6 @@
 
 <PropertyList include="Materials/base/materials-base.xml">
 
-  <material include="Materials/base/runway_effect.xml">
-    <name>1x4_road</name>
-    <texture>Custom/1x4_road.png</texture>
-  </material>
-
-  <material include="Materials/base/runway_effect.xml">
-    <name>1x3_road</name>
-    <texture>Custom/1x3_road.png</texture>
-  </material>
-
-  <material include="Materials/base/runway_effect.xml">
-    <name>2x2_road</name>
-    <texture>Custom/2x2_road.png</texture>
-  </material>
-
-  <material include="Materials/base/runway_effect.xml">
-    <name>2x4_road</name>
-    <texture>Custom/2x4_road.png</texture>
-  </material>
-
-  <material include="Materials/base/runway_effect.xml">
-    <name>1x1_road</name>
-    <texture>Custom/1x1_road.png</texture>
-  </material>
-
-  <material>
-    <name>Railroad_tex_1</name>
-    <texture>Custom/rail_1.png</texture>
-    <ysize>200</ysize>
-  </material>
-
-  <material>
-    <name>lf_sng_solid_red</name>
-    <effect>Effects/lfeat</effect>
-    <texture>Runway/lf_sng_solid_red.png</texture>
-  </material>
-
   <material>
     <name>grass_rwy</name>
     <effect>Effects/airfield</effect>
@@ -799,6 +762,43 @@
       <b>0.76471</b>
       <a>1.0</a>
     </emissive>
+  </material>
+
+  <material include="Materials/base/runway_effect.xml">
+    <name>1x4_road</name>
+    <texture>Custom/1x4_road.png</texture>
+  </material>
+
+  <material include="Materials/base/runway_effect.xml">
+    <name>1x3_road</name>
+    <texture>Custom/1x3_road.png</texture>
+  </material>
+
+  <material include="Materials/base/runway_effect.xml">
+    <name>2x2_road</name>
+    <texture>Custom/2x2_road.png</texture>
+  </material>
+
+  <material include="Materials/base/runway_effect.xml">
+    <name>2x4_road</name>
+    <texture>Custom/2x4_road.png</texture>
+  </material>
+
+  <material include="Materials/base/runway_effect.xml">
+    <name>1x1_road</name>
+    <texture>Custom/1x1_road.png</texture>
+  </material>
+
+  <material>
+    <name>Railroad_tex_1</name>
+    <texture>Custom/rail_1.png</texture>
+    <ysize>200</ysize>
+  </material>
+
+  <material>
+    <name>lf_sng_solid_red</name>
+    <effect>Effects/lfeat</effect>
+    <texture>Runway/lf_sng_solid_red.png</texture>
   </material>
 
 </PropertyList>

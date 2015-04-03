@@ -243,6 +243,12 @@
     <tree-width-m>15.0</tree-width-m>
   </material>
 
+  <material include="Materials/base/water.xml">
+    <name>Ocean</name>
+    <effect>Effects/water</effect>
+    <texture>Terrain/water.png</texture>
+  </material>
+
   <material>
     <name>Lake</name>
     <name>Pond</name>

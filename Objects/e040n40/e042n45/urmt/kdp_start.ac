@@ -4,7 +4,7 @@ OBJECT WORLD
 rot 1 0 0 0 0 1 0 -1 0
 kids 1
 OBJECT POLY
-texture "start.png"
+texture "kdp_start.png"
 rot 1.00000 0.00000 0.00000 0.00000 1.00000 0.00000 0.00000 0.00000 1.00000
 loc 0.00000 0.00000 0.00000
 numvert 1166

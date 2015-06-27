@@ -1,12 +1,3 @@
 OBJECT_SHARED Models/Communications/radio-tall.xml 30.71873023 59.65818757 -315.9314 2.5 0.0 -0.0
 OBJECT_SHARED Models/Communications/radio-medium.xml 30.63253540 59.70840708 -70.5038 0.0 0.0 -0.0
 OBJECT_STATIC ../../ulll/chimney_100m.xml 30.61550208 59.72535290 11.3728 0.0 0.0 -0.0
-
-
-# osm2city
-# do not edit below this line
-#
-OBJECT_STATIC ULLIcity4007.xml 30.51252 59.67809 45.18 0
-OBJECT_STATIC ULLIcity4008.xml 30.51252 59.69604 25.91 0
-OBJECT_STATIC ULLIcity4011.xml 30.51252 59.74990 14.19 0
-# END osm2city

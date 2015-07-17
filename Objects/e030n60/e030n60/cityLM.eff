@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PropertyList>
+        <name>cityLM</name>
+        <inherits-from>/Effects/model-combined-deferred</inherits-from>
+        <parameters>
+                <!-- Light Map -->
+                <lightmap-enabled type="int">1</lightmap-enabled>
+                <lightmap-multi type="int">1</lightmap-multi>
+                <texture n="3">
+                  <image>tex/atlas_facades_LM.png</image>
+                  <wrap-s>repeat</wrap-s>
+                  <wrap-t>repeat</wrap-t>
+                </texture>
+                <lightmap-factor type="float" n="0"><use>/scenery/osm2city/lightmap-factor</use></lightmap-factor>
+                <lightmap-color type="vec3d" n="0"> 1. 0.88 0.6 </lightmap-color>
+                <lightmap-factor type="float" n="1"><use>/scenery/osm2city/lightmap-factor</use></lightmap-factor>
+                <!--
+                <lightmap-color type="vec3d" n="1"> 0.941 0.682 0.086 </lightmap-color>
+                <lightmap-color type="vec3d" n="1"> 0.941 0.682 0.286 </lightmap-color>
+                -->
+                <lightmap-color type="vec3d" n="1"> 0.564 0.409 0.172 </lightmap-color>
+                <lightmap-factor type="float" n="2">0</lightmap-factor>
+                <lightmap-factor type="float" n="3">0</lightmap-factor>
+
+                <!--
+                <lightmap-factor type="float" n="3">1</lightmap-factor>
+                <lightmap-color type="vec3d" n="3"> 1 1 1 </lightmap-color>
+		-->
+        </parameters>
+</PropertyList>

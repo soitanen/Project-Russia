@@ -1,1 +1,8 @@
 OBJECT_SHARED Models/Communications/tower-microwave-1.xml 29.94338083 59.72257749 105.3899 0.0 0.0 -0.0
+# osm2city_ULLI
+# do not edit below this line
+# Last Written Mon Jul  6 21:11:41 2015
+#
+OBJECT_STATIC ULLIcity0001.xml 29.99276 59.69152 110.19 0
+OBJECT_STATIC lightmap-switch.xml 29.99276 59.69152 110.19 0
+# END osm2city_ULLI

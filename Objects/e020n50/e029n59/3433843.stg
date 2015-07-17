@@ -1,3 +1,11 @@
 OBJECT_SHARED Models/Communications/tower-microwave-small-1.ac 29.93376987 59.79149999 43.6715 0.0 0.0 -0.0
 OBJECT_SHARED Models/Industrial/water_tower_2.ac 29.95161325 59.85411140 23.8823 0.0 0.0 -0.0
 OBJECT_STATIC ../../ulll/chimney_100m.xml 29.87998355 59.86810827 30.4984 0.0 0.0 -0.0
+# osm2city_ULLI
+# do not edit below this line
+# Last Written Mon Jul  6 21:11:41 2015
+#
+OBJECT_STATIC ULLIcity0002.xml 29.99276 59.78128 39.85 0
+OBJECT_STATIC lightmap-switch.xml 29.99276 59.78128 39.85 0
+OBJECT_STATIC ULLIcity0003.xml 29.99276 59.87104 0.95 0
+# END osm2city_ULLI

@@ -1,3 +1,11 @@
 OBJECT_SHARED Models/Power/coolingtower.xml 30.50671136 59.87210200 24.1206 0.0 0.0 -0.0
 OBJECT_SHARED Models/Power/coolingtower.xml 30.50906200 59.87306910 15.2259 0.0 0.0 -0.0
 OBJECT_STATIC ../../ulll/chimney_200m.xml 30.50074200 59.87444670 15.9592 0.0 0.0 -0.0
+
+# osm2city_ULLI
+# do not edit below this line
+# Last Written Thu Jul  9 18:41:47 2015
+#
+OBJECT_STATIC ULLIcity0200.xml 30.59482 59.77573 20.82 0
+OBJECT_STATIC lightmap-switch.xml 30.59482 59.77573 20.82 0
+# END osm2city_ULLI

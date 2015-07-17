@@ -6,3 +6,11 @@ OBJECT_STATIC ../../ulll/chimney_100m.xml 30.42556119 59.91364789 0.6187 0.0 0.0
 OBJECT_STATIC ../../ulll/chimney_100m.xml 30.44515905 59.92735394 9.8616 0.0 0.0 -0.0
 OBJECT_STATIC ../../ulll/chimney_100m_no_smoke.xml 30.443799 59.927338 9.8616 0.0 0.0 -0.0
 OBJECT_STATIC ../../ulll/chimney_100m_no_smoke.xml 30.442951 59.927039 9.8616 0.0 0.0 -0.0
+
+# osm2city_ULLI
+# do not edit below this line
+# Last Written Thu Jul  9 18:41:47 2015
+#
+OBJECT_STATIC ULLIcity0102.xml 30.41695 59.95526 15.50 0
+OBJECT_STATIC lightmap-switch.xml 30.41695 59.95526 15.50 0
+# END osm2city_ULLI

@@ -1,3 +1,4 @@
 OBJECT_SHARED Models/Communications/radio-tall.xml 30.71873023 59.65818757 -315.9314 2.5 0.0 -0.0
 OBJECT_SHARED Models/Communications/radio-medium.xml 30.63253540 59.70840708 -70.5038 0.0 0.0 -0.0
 OBJECT_STATIC ../../ulll/chimney_100m.xml 30.61550208 59.72535290 11.3728 0.0 0.0 -0.0
+
